@@ -1,0 +1,26 @@
+name: Same-Name Line Disambiguation
+description: Distinguish between concurrent individuals sharing the same name
+title: "[Disambiguation]: "
+labels: ["disambiguation", "hypothesis-test"]
+body:
+  - type: input
+    id: target_name
+    attributes:
+      label: Target Individual Name
+      description: e.g., George Cook
+    validations:
+      required: true
+  - type: textarea
+    id: overlapping_profiles
+    attributes:
+      label: Competing / Overlapping Profiles
+      description: List the distinct individuals being confused or merged in public trees.
+    validations:
+      required: true
+  - type: textarea
+    id: separating_evidence
+    attributes:
+      label: Separating Evidence (Land, Probate, Tax)
+      description: How the records distinguish these individuals.
+    validations:
+      required: true

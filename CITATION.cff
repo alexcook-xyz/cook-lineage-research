@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you cite or use this genealogical research, please cite it as below."
+authors:
+  - family-names: Cook
+    given-names: Alex
+title: "Cook Patrilineal Lineage Research: From Kentucky to Colonial Virginia"
+date-released: 2026-11-26
+url: "https://github.com/alexcook-xyz/cook-lineage-research"
+repository-code: "https://github.com/alexcook-xyz/cook-lineage-research"
+keywords:
+  - genealogy
+  - "Cook family"
+  - "Genealogical Proof Standard"
+  - "Pittsylvania County Virginia"
+  - "Adair County Kentucky"
+  - "Amelia County Virginia"
+  - "Prince Edward County Virginia"
+license: "CC-BY-4.0"

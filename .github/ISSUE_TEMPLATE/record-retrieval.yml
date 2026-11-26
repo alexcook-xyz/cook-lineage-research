@@ -1,0 +1,36 @@
+name: Archival Record Retrieval
+description: Request or track retrieval of a specific county or state archival record
+title: "[Record Pull]: "
+labels: ["missing-record", "in-person-archive"]
+body:
+  - type: markdown
+    attributes:
+      value: "Use this issue template to track primary record searches in courthouses or state archives."
+  - type: input
+    id: jurisdiction
+    attributes:
+      label: Jurisdiction & Repository
+      description: e.g., Pittsylvania County Courthouse / Library of Virginia / FamilySearch Center
+    validations:
+      required: true
+  - type: input
+    id: citation
+    attributes:
+      label: Volume, Page & Film Number
+      description: e.g., Will Book 1, pp. 293–294 (Film #007642302)
+    validations:
+      required: true
+  - type: textarea
+    id: research_goal
+    attributes:
+      label: Research Goal & Target Information
+      description: What specific genealogical link or fact will this record prove or disprove?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance_criteria
+    attributes:
+      label: Definition of Done / Acceptance Criteria
+      description: Specific digital scan, transcription, and evidentiary analysis required.
+    validations:
+      required: true

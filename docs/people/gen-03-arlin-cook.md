@@ -12,7 +12,7 @@
 
 **Arlin Cook** (24 August 1935 – 15 December 1991) was a lifelong resident of South-Central Kentucky, living between Adair and Taylor counties during a period of significant post-Depression and post-war rural transition. Born near Columbia in Adair County to Russell Cook and Anna Bell Sneed, he was raised within the extended Cook agrarian network established along Russell's Creek in the nineteenth century. 
 
-In early adulthood, Cook established his family in the neighboring manufacturing and trading hub of Campbellsville in Taylor County, where he married Elsie Mae Hunt. Together they raised three sons—Brian A. Cook, Michael D. ("Mike") Cook, and Arlin Ray Cook. Following Elsie's passing in February 1986, Arlin later married Shelia, who survived him upon his death in Columbia on Sunday, 15 December 1991, at the age of fifty-six. He is remembered as an industrious and quiet presence in the community, linking the mid-century generation of rural Adair County to modern descendants in Taylor and Hardin counties.
+In early adulthood, Cook established his family in the neighboring manufacturing and trading hub of Campbellsville in Taylor County, where he married Elsie Mae Hunt. Together they raised three sons—Brian A. Cook, Michael D. ("Mike") Cook, and Arlin Ray Cook. 
 
 ---
 

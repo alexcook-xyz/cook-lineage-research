@@ -68,5 +68,7 @@ This inventory details all primary and archival documents gathered, audited, and
 | `evidence/va-colonial-lva/PE_DB5_p67-68_Cook_to_Wilkerson_1771.jpg` | Prince Edward County Deed Book 5, pp. 67–68 | 6 Apr / 16 Sep 1771 | **George Cook to Lovel Wilkerson**, 250a remaining of `3 Nov MDCCL [1750]` patent |
 | `evidence/va-colonial-lva/PE_WB2_p42-43_Sarah_Cook_Will_1764_1785.jpg` | Prince Edward County Will Book 2, pp. 42–43 | 1 Feb 1784 / 17 Oct 1785 | Will of Sarah Cook naming daughters Conney Micel & Ester Michell (`"give and [be]queth"`) |
 | `evidence/va-colonial-lva/Spotsylvania_OB_p166-167_1742.jpg` | Spotsylvania County Court Order Book, pp. 166–167 | 4 May 1742 | George Stubblefield & John Sartin deeds acknowledged to **George Cook** |
+| `evidence/va-colonial-lva/Spotsylvania_OB_p236-237_1743.jpg` | Spotsylvania County Court Order Book, pp. 236–237 | 6 Sep 1743 | **George Cook & wife Sarah** acknowledge deed to Henry Lewis |
+| `evidence/va-colonial-lva/Spotsylvania_OB_p466-467_1748.jpg` | Spotsylvania County Court Order Book, pp. 466–467 | 7 Jun 1748 | **George Cook** public claim right above **`Elexius Musick`** (`1780` Pittsylvania link) |
 | `evidence/va-colonial-lva/PE_PPTax_1789_John_William_Cook.jpg` | Prince Edward Personal Property Tax, John Morton Dist. | 17 Jun 1789 | John Cook & William Cook (2 white males, 5 enslaved, 4 horses) |
 | `evidence/va-colonial-lva/PE_PPTax_1787_Alexander_Guill.jpg` | Prince Edward Personal Property Tax | c. 1787–1789 | Alexander Guill Sr., Alexander Guill Jr., Reubin Guill |

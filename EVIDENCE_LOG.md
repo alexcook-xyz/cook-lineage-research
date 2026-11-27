@@ -66,6 +66,7 @@ This inventory details all primary and archival documents gathered, audited, and
 | `evidence/va-colonial-lva/PE_DB3_p445-446_Guill_to_Buchanan_1769.jpg` | Prince Edward County Deed Book 3, pp. 445–446 | 3 Oct 1769 | Alexander Guill trust deed (150a *"adjoining to George Cooke"*) |
 | `evidence/va-colonial-lva/PE_DB3_p447-448_Guill_to_Buchanan_1769.jpg` | Prince Edward County Deed Book 3, pp. 447–448 | 19 Mar 1770 | Conclusion & proof of Alexander Guill trust deed |
 | `evidence/va-colonial-lva/PE_DB5_p67-68_Cook_to_Wilkerson_1771.jpg` | Prince Edward County Deed Book 5, pp. 67–68 | 6 Apr / 16 Sep 1771 | **George Cook to Lovel Wilkerson**, 250a remaining of `3 Nov MDCCL [1750]` patent |
-| `evidence/va-colonial-lva/PE_WB2_p42-43_Sarah_Cook_Will_1764_1785.jpg` | Prince Edward County Will Book 2, pp. 42–43 | 1 Feb 1764 / 17 Oct 1785 | Will of Sarah Cook naming daughters Conney & Ester Michell |
+| `evidence/va-colonial-lva/PE_WB2_p42-43_Sarah_Cook_Will_1764_1785.jpg` | Prince Edward County Will Book 2, pp. 42–43 | 1 Feb 1784 / 17 Oct 1785 | Will of Sarah Cook naming daughters Conney Micel & Ester Michell (`"give and [be]queth"`) |
+| `evidence/va-colonial-lva/Spotsylvania_OB_p166-167_1742.jpg` | Spotsylvania County Court Order Book, pp. 166–167 | 4 May 1742 | George Stubblefield & John Sartin deeds acknowledged to **George Cook** |
 | `evidence/va-colonial-lva/PE_PPTax_1789_John_William_Cook.jpg` | Prince Edward Personal Property Tax, John Morton Dist. | 17 Jun 1789 | John Cook & William Cook (2 white males, 5 enslaved, 4 horses) |
 | `evidence/va-colonial-lva/PE_PPTax_1787_Alexander_Guill.jpg` | Prince Edward Personal Property Tax | c. 1787–1789 | Alexander Guill Sr., Alexander Guill Jr., Reubin Guill |

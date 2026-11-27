@@ -70,5 +70,7 @@ This inventory details all primary and archival documents gathered, audited, and
 | `evidence/va-colonial-lva/Spotsylvania_OB_p166-167_1742.jpg` | Spotsylvania County Court Order Book, pp. 166–167 | 4 May 1742 | George Stubblefield & John Sartin deeds acknowledged to **George Cook** |
 | `evidence/va-colonial-lva/Spotsylvania_OB_p236-237_1743.jpg` | Spotsylvania County Court Order Book, pp. 236–237 | 6 Sep 1743 | **George Cook & wife Sarah** acknowledge deed to Henry Lewis |
 | `evidence/va-colonial-lva/Spotsylvania_OB_p466-467_1748.jpg` | Spotsylvania County Court Order Book, pp. 466–467 | 7 Jun 1748 | **George Cook** public claim right above **`Elexius Musick`** (`1780` Pittsylvania link) |
+| `evidence/va-colonial-lva/PE_Vestry_img73_GeorgeCook_Processioning_1760.jpg` | St. Patrick's Parish Vestry Book, p. 62 (*Film 33857 / DGS 7895965*, img 73) | 4 Jun 1760 | Processioning return naming **George Cook**, Edward Grisham, Lockett, William Campbell |
+| `evidence/va-colonial-lva/PE_Vestry_img66_JohnCook_Processioning.jpg` | St. Patrick's Parish Vestry Book (*Film 33857 / DGS 7895965*, img 66) | 1760/61 | Processioning return naming **John Cook** (`Ligon & Crafford` precinct) |
 | `evidence/va-colonial-lva/PE_PPTax_1789_John_William_Cook.jpg` | Prince Edward Personal Property Tax, John Morton Dist. | 17 Jun 1789 | John Cook & William Cook (2 white males, 5 enslaved, 4 horses) |
 | `evidence/va-colonial-lva/PE_PPTax_1787_Alexander_Guill.jpg` | Prince Edward Personal Property Tax | c. 1787–1789 | Alexander Guill Sr., Alexander Guill Jr., Reubin Guill |

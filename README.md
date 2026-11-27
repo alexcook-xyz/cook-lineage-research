@@ -101,6 +101,17 @@ cook-lineage-research/
 
 ---
 
+
+---
+
+## Multi-Agent Research Tools & Installer Prompts
+
+If you want to use the standardized 5-tier AI research team (Director, Paleographer, Disambiguator, Compiler, Verifier) in your own research, visit our companion repository:
+
+**[https://github.com/alexcook-xyz/genealogy-agent-skills](https://github.com/alexcook-xyz/genealogy-agent-skills)**
+
+Researchers can copy a single one-line prompt from that repository to instantly configure these agents in **Antigravity**, **Claude**, **Codex/ChatGPT**, or **Muse**.
+
 ## Citation & Contact
 
 If citing this research repository or its documents in genealogical society submissions or academic publications, please cite as:

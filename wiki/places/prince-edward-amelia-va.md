@@ -1,32 +1,46 @@
 # Prince Edward & Amelia Counties, Virginia: Jurisdictional & Archival Guide
 
-- **Amelia County Formation:** Created 1734 from Prince George and Brunswick counties.
+- **Amelia County Formation:** Created 1734/1735 from Prince George and Brunswick counties.
 - **Prince Edward County Formation:** Created 1754 from the western portion of Amelia County.
-- **Key Watercourse:** Harris's Creek (tributary flowing into the Appomattox / Bush River basin).
+- **Key Watercourses:** **Harris's Creek** and **Vaughan's Creek** (upper Appomattox River watershed, near modern Prospect, Virginia).
 
 ---
 
 ## 1. Relevance to the Cook Lineage
 
-Prince Edward and Amelia counties represent the pre-1780 Southside Piedmont homeland of the Cook patrilineage:
-- On **3 November 1750**, President Thomas Lee granted to **George Cook** a patent for **400 acres** of new land in Amelia County on both sides of the branches of **Harris's Creek** (Patent Book 29, pages 316–317).
-- When Prince Edward County was formed from Amelia in 1754, Harris's Creek fell into the newly organized county.
-- On **18 April 1768**, **George Cook of Prince Edward County** conveyed **150 acres** of this identical tract to **Alexander Guill** (Deed Book 3, pages 366–368), matching the 1750 patent survey angles precisely.
+Amelia and Prince Edward counties anchor the **21-year documented Virginia residence (1750–1771)** of **George Cook (Generation 9 candidate)** and his wife **Sarah**:
+- **3 November 1750 (*Patents 29:316–317*):** George Cook patented **400 acres** in western Amelia County on the head branches of **Harris's Creek** (40 shillings treasury right), adjoining **Charles Hudson** (*Patents 18:44–45*) and **Thomas Williamson** (*Patents 28:212–213*, sold in 1749 to **Thomas Lockett III**).
+- **September Court 1751 (*Amelia Order Book 2, pp. 371–372*):** George Cook and his male tithables were ordered to assist surveyor James Withers on the Rolling Road crossing **Vaughan's Creek** alongside neighbors **Peter Coffee**, **William Mills**, **Charles Simmons**, and **Elkanah Jennings**.
+- **9 September 1760 (*Prince Edward Order Book 2*):** Following the 1754 division into Prince Edward County, `George Cook` was listed for **1 tithable** alongside `Peter Coffee` and in the same court session **`Excused from paying County Levy`** (indicating advanced age or infirmity).
+- **1762–1769 Court Orders & 1765 Deed:** Suits in *PE OB 2:131, 245* (`1762–1763`); witness for neighbor Charles Simmons on Bush Creek (*PE DB 2:277*, `13 Feb 1765`); bail posted by **William Mills** and **Peter Coffee** in `Pleasants vs. George Cooke` where George failed to appear in August 1769 (*PE OB 4:229*).
+- **Complete Sale of the 400-Acre Patent (`1768 & 1771`):**
+  - **18 April 1768 (*PE DB 3:366–368; OB 4:102, 110*):** Conveyed southern **150 acres** to **Alexander Guill** (£13); wife **Sarah** relinquished dower on **20 May 1768** (*OB 4:110*).
+  - **6 April 1771 (*PE DB 5:67–68*):** Conveyed remaining **250 acres** (`"patent bearing date the third day of November MDCCL"`, `"all that tract of Land he the sd. George Cook now possesses and lives on"`) to **Lovel Wilkerson** (£30), proved June & 16 September 1771, no wife joining.
+  - Both purchasers—**Alexander Guill** and **Lovell Wilkerson**—subsequently appeared side by side in the 1783 *Heads of Families* list for Prince Edward County (`p. 59`).
 
 ---
 
-## 2. Metes-and-Bounds Bearing Correlation
+## 2. Metes-and-Bounds Bearing Correlation (1750 Patent → 1768 & 1771 Deeds)
 
-| 1750 Amelia Patent (Patents 29:316–317) | 1768 Prince Edward Deed (DB 3:366–368) | Mathematical Correlation |
+| 1750 Amelia Patent (*Patents 29:316–317*, 400 ac) | 1768 Prince Edward Deed (*DB 3:366–368*, 150 ac to Guill) | 1771 Prince Edward Deed (*DB 5:67–68*, 250 ac to Wilkerson) |
 |---|---|---|
-| Beginning at a white oak on Lockett's line | Beginning at pointers in Lockett's line | **Identical corner boundary** |
-| `S 10 W 154 poles` | `S 10 W 154 poles` to pointers | **Exact angle and distance match** |
-| `W 6 S 120 poles` | `W 6 S 120 poles` to a corner pine | **Exact angle and distance match** |
-| `N 3 W 140 poles` | `N 3 W 140 poles` to pointers | **Exact angle and distance match** |
+| Beginning at corner white oak in **Charles Hudson's** line | Beginning at pointers in **Lockett's** line *(former Williamson tract)* | Explicitly conveys **"patent bearing date ... MDCCL [3 Nov 1750]"** |
+| `S 10° W 263 poles` (crossing Harris's Creek) | `S 10° W 180 poles` (southern 180 poles) | Northern balance retained (`adjoining to George Cooke` in 1769 *DB 3:446*) |
+| `W 6° S 120 poles` | `W 6° S 120 poles` (**Exact match**) | Sold `6 Apr 1771` for £30 (**250 acres**) |
+| `N 3° W 351 poles` | `N 3° W 178 poles` + new `N 86° E 164 p.` partition line | Completes full disposition of all 400 acres (`150 + 250`) |
 
 ---
 
-## 3. High-Priority Research Tasks
+## 3. Separate County `Cook(e)` Clusters (Not Harris's Creek)
 
-- **Prince Edward Deed Books 3–7 (1768–1785):** Trace the conveyance of the remaining 250 acres of the Harris's Creek patent to identify George Cook's exact departure date for the Dan River basin (tracked in Issue #8).
-- **Prince Edward Order Books 1–7 (1754–1780):** Examine civil court pleas, tithable lists, and road overseer appointments (tracked in Issue #9).
+- **Raleigh Parish / Hurt's & Flatt Creeks (Amelia Co.):** **Shem Cooke** (`DB 5:402`, 1756, King William origin → Granville Co., NC & later Pittsylvania *Cavaliers* 7:216) and **John Cooke Sr.** & wife **Judith** (`DB 5:202, 8:399, 608`, → Pittsylvania Co. by 1773 per LVA Chancery `007-1773-010`).
+- **Prince Edward `John` & `William Cook` (`1783–1800`):** Taxed on `1785` *Heads of Families* and `1789` Personal Property Tax (`John Cook & Willm Cook`, 5 enslaved, 4 horses); William Cooke sued Samuel Matthews's executors over 60 acres (*LVA Chancery 147-1788-005 & 147-1800-008*).
+- **Cumberland / Briery Creek (`James Cooke`, d. 1782):** Son of `John Cooke Sr.` of Green Creek, Cumberland County (*WB 2:193*, 1775).
+
+---
+
+## 4. Remaining Archival Tasks
+
+- **Amelia County `Order Books 1–2` (1735–Aug 1751) & `Deed Index`:** Check for first appearance of George Cook prior to Sept 1751.
+- **Prince Edward `Order Books 5+` (1771–1775) & `St. Patrick's Parish Processioners` (1760–1767):** Check final disposition of `Pleasants vs. George Cooke` and whether any male youth entered George Cook's household between 1761 and 1771.
+- **Spotsylvania `Order Books (1738–1749)`:** Test link between Spotsylvania `George Cook & wife Sarah` (`1741–1744`) and the `1750` Amelia patent.

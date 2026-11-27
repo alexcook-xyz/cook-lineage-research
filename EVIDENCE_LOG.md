@@ -52,3 +52,20 @@ This inventory details all primary and archival documents gathered, audited, and
 | `evidence/va-colonial-lva/PrinceEdward_1768_Cook_to_Guill_Deed_p367-368.png` | Prince Edward County Deed Book 3, pp. 367–368 | 18 Apr 1768 | Survey bearings matching 1750 Amelia patent; acknowledged Apr 1768 |
 | `evidence/va-colonial-lva/LVA_GrantsA_p403.png` | Virginia Land Grant Book A, p. 403 | 12 Jun 1780 | 261 acres on Sandy Creek, Pittsylvania Co. to Josiah Cook |
 | `evidence/va-colonial-lva/LVA_GrantsA_p404.png` | Virginia Land Grant Book A, p. 404 | 12 Jun 1780 | Signed by Governor Thomas Jefferson |
+| `evidence/va-colonial-lva/Amelia_OB2_p370-371_RoadOrder_1751.jpg` | Amelia County Court Order Book 2, pp. 370–371 | Sep 1751 | Road order across Vaughan's Creek to Sawney's Creek |
+| `evidence/va-colonial-lva/Amelia_OB2_p372-373_GeorgeCook_1751.jpg` | Amelia County Court Order Book 2, pp. 372–373 | Sep 1751 | Names `George Cook` on Rolling Road; distinguishes Sheriff `Abraham Cock` |
+| `evidence/va-colonial-lva/PE_OB2_1760_Tithables_GeorgeCook.jpg` | Prince Edward County Order Book 2 (Sept 1760) | 9 Sep 1760 | `George Cook one` added to list of tithables beside `Peter Coffee` |
+| `evidence/va-colonial-lva/PE_OB2_1760_Levy_Excused_GeorgeCook.jpg` | Prince Edward County Order Book 2 (Sept 1760) | Sep 1760 | `George Cook Excused from paying County Levy` (age/infirmity) |
+| `evidence/va-colonial-lva/PE_OB2_p130-131_Buchanan_v_Cook_Dismissed_1762.jpg` | Prince Edward County Order Book 2, pp. 130–131 | Jan 1762 | *Buchanan, Bowman &c. agt. George Cooke* (debt dismissed) |
+| `evidence/va-colonial-lva/PE_OB2_p244-245_Speirs_v_Cook-Campbell_1763.jpg` | Prince Edward County Order Book 2, pp. 244–245 | Jul 1763 | *Speirs, Bowman & Co. vs. George Cooke & William Campbell* (£5.10.10) |
+| `evidence/va-colonial-lva/PE_DB2_Simmons_to_Spencer_1765_deed.jpg` | Prince Edward County Deed Book 2 (Simmons to Spencer) | 13 Feb 1765 | Bush Creek deed witnessed by George Cook (side 1) |
+| `evidence/va-colonial-lva/PE_DB2_Simmons_to_Spencer_1765_memo.jpg` | Prince Edward County Deed Book 2, p. 277 | 13 Feb 1765 | Livery memorandum witnessed by Elkanah Jennings, Joel Watkins, **George Cook** |
+| `evidence/va-colonial-lva/PE_OB4_p101-102_Guill_Deed_Acknowledged_1768.jpg` | Prince Edward County Order Book 4, pp. 101–102 | 18 Apr 1768 | Deed from George Cooke to Alexander Guill acknowledged |
+| `evidence/va-colonial-lva/PE_OB4_p109-110_Sarah_Dower_Release_1768.jpg` | Prince Edward County Order Book 4, pp. 109–110 | 20 May 1768 | **Sarah, wife of George Cook**, privily examined & releases dower |
+| `evidence/va-colonial-lva/PE_OB4_p229-230_Pleasants_v_GeorgeCooke_1769.jpg` | Prince Edward County Order Book 4, pp. 229–230 | Aug 1769 | *Pleasants vs. George Cooke* debt; sureties **William Mills & Peter Coffee** |
+| `evidence/va-colonial-lva/PE_DB3_p445-446_Guill_to_Buchanan_1769.jpg` | Prince Edward County Deed Book 3, pp. 445–446 | 3 Oct 1769 | Alexander Guill trust deed (150a *"adjoining to George Cooke"*) |
+| `evidence/va-colonial-lva/PE_DB3_p447-448_Guill_to_Buchanan_1769.jpg` | Prince Edward County Deed Book 3, pp. 447–448 | 19 Mar 1770 | Conclusion & proof of Alexander Guill trust deed |
+| `evidence/va-colonial-lva/PE_DB5_p67-68_Cook_to_Wilkerson_1771.jpg` | Prince Edward County Deed Book 5, pp. 67–68 | 6 Apr / 16 Sep 1771 | **George Cook to Lovel Wilkerson**, 250a remaining of `3 Nov MDCCL [1750]` patent |
+| `evidence/va-colonial-lva/PE_WB2_p42-43_Sarah_Cook_Will_1764_1785.jpg` | Prince Edward County Will Book 2, pp. 42–43 | 1 Feb 1764 / 17 Oct 1785 | Will of Sarah Cook naming daughters Conney & Ester Michell |
+| `evidence/va-colonial-lva/PE_PPTax_1789_John_William_Cook.jpg` | Prince Edward Personal Property Tax, John Morton Dist. | 17 Jun 1789 | John Cook & William Cook (2 white males, 5 enslaved, 4 horses) |
+| `evidence/va-colonial-lva/PE_PPTax_1787_Alexander_Guill.jpg` | Prince Edward Personal Property Tax | c. 1787–1789 | Alexander Guill Sr., Alexander Guill Jr., Reubin Guill |

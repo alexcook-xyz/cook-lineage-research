@@ -41,9 +41,9 @@ Every generational argument follows the **Genealogical Proof Standard (GPS)**:
 **Goal:** Track the migration of George Cook Sr. backward from Pittsylvania County across Halifax, Lunenburg, Prince Edward, and Amelia Counties, Virginia.
 
 - [x] Establish survey bearing continuity between 3 Nov 1750 Amelia Patent (`Patents 29:316–317`, 400 acres Harris's Creek) and 18 Apr 1768 Prince Edward Deed (`DB 3:366–368`, 150 acres to Alexander Guill).
-- [ ] **Task 3.1:** Trace disposition of the remaining 250 acres of George Cook's 1750 patent on Harris's Creek across Prince Edward County Deed Books 3 through 7 (1768–1785).
-- [ ] **Task 3.2:** Search Prince Edward County Court Order Books 1 through 7 (1754–1780) for civil suits, tithables, road orders, and estate proceedings mentioning George Cook.
-- [ ] **Task 3.3:** Search Amelia County Deed Books (1735–1754) and Court Order Books for George Cook prior to the 1754 formation of Prince Edward County.
+- [x] **Task 3.1 (Solved via `PE DB 5:67–68`):** Trace disposition of the remaining 250 acres of George Cook's 1750 patent on Harris's Creek (`6 Apr 1771`, George Cook to Lovel Wilkerson for £30, reciting `"3rd day of November MDCCL [1750]"`).
+- [ ] **Task 3.2 (In Progress):** Complete search of Prince Edward County Court Order Books 1–7 (1754–1780) & Amelia Order Books 1–2 (1735–Aug 1751) — `Amelia OB 2:371–372` (Sep 1751), `PE OB 2` (Sep 1760 tithables/levy excuse; Jan 1762 & Jul 1763 suits), and `PE OB 4:102, 110, 229` (1768–1769) now recovered!
+- [ ] **Task 3.3:** Search Amelia County Deed Books (1735–1754) and pre-Sept 1751 Court Order Books, plus Spotsylvania County Order Books (`1738–1749`) to test the `George Cook & Sarah` (`1741–1744`) migration link.
 - [ ] **Task 3.4:** Search Halifax County, Virginia Deed Books 1–10 (1752–1775) and Court Pleas Books 1–9 for records of George Cook, Josiah Cook, and Zachariah Cook prior to and during the 1767 formation of Pittsylvania County.
 - [ ] **Task 3.5:** Search Lunenburg County tithable lists (Landon C. Bell, *Sunlight on the Southside*, 1748–1783) and deed books for Cook families along the Staunton, Banister, and Dan Rivers.
 - [ ] **Task 3.6:** Search Caswell, Orange, and Granville Counties, North Carolina borderland deed and court records (1750–1785) directly adjoining Sandy Creek and the Dan River.

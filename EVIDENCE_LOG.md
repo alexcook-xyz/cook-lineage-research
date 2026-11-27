@@ -46,6 +46,9 @@ This inventory details all primary and archival documents gathered, audited, and
 
 | Local Repository Path | Document Title & Citation | Date | Evidentiary Role & Subjects |
 |---|---|---|---|
+| `evidence/va-colonial-lva/LVA_Patents21_p145.png` | Virginia Patent Book 21, p. 145 | 12 Feb 1742/43 | 400 acres in Spotsylvania Co. to **George Cook** (40 shillings treasury right, new Mine Bank Road adj. Griffin Fantleroy & Thomas Shelton) |
+| `evidence/va-colonial-lva/LVA_Patents21_p146.png` | Virginia Patent Book 21, p. 146 | 12 Feb 1742/43 | Conclusion of George Cook's Spotsylvania patent naming **Fork of Devils Ditch Swamp** and corner of **George Musick and Nicholas Randalls Land** |
+| `evidence/va-colonial-lva/LVA_Patents21_p584-585.png` | Virginia Patent Book 21, pp. 584–585 | 25 Nov 1743 | Edmund Waller 552a Spotsylvania patent adjoining **George Cook's Land** (`N 85½° W 310 poles` to **Joseph Roberts's Line**) |
 | `evidence/va-colonial-lva/LVA_Patents29_p316.png` | Virginia Patent Book 29, p. 316 | 3 Nov 1750 | 400 acres on Harris's Creek, Amelia County to George Cook |
 | `evidence/va-colonial-lva/LVA_Patents29_p317.png` | Virginia Patent Book 29, p. 317 | 3 Nov 1750 | Conclusion of 400-acre patent signed by President Thomas Lee |
 | `evidence/va-colonial-lva/PrinceEdward_1768_Cook_to_Guill_Deed.png` | Prince Edward County Deed Book 3, p. 366 | 18 Apr 1768 | George Cook to Alexander Guill, 150 acres Harris's Creek |

@@ -1,6 +1,6 @@
-# Cook Patrilineal Lineage Research Roadmap: Alex Haley Cook (b. 1991) to Colonial Immigration
+# Cook Patrilineal Lineage Research Roadmap: Alex H. Cook (b. 1991) to Colonial Immigration
 
-This roadmap sets out the archival and methodological steps required to complete, verify, and document every link in the patrilineal ancestry of **Alex Haley Cook** (b. 1991) back to the immigrant ancestor who arrived in British North America.
+This roadmap sets out the archival and methodological steps required to complete, verify, and document every link in the patrilineal ancestry of **Alex H. Cook** (b. 1991) back to the immigrant ancestor who arrived in British North America.
 
 Every generational argument follows the **Genealogical Proof Standard (GPS)**:
 1. Reasonably exhaustive research across all extant public and church jurisdictions.
@@ -14,8 +14,8 @@ Every generational argument follows the **Genealogical Proof Standard (GPS)**:
 ## Phase 1: Kentucky Line Completeness & Collateral Verification (Gen 1–6)
 **Goal:** Solidify every collateral, census, and vital record between Adair/Taylor Counties, Kentucky, and the 1836 migration out of Virginia.
 
-- [x] Prove Gen 1 → 2: Alex Haley Cook to Brian Allen Cook (Personal knowledge, 1991 & 1962 Birth Indexes, 2025 Mike Cook obituary).
-- [x] Prove Gen 2 → 3: Brian Allen Cook to Arlin Cook (1991 Columbia obit, 1986 Campbellsville obit, family archive).
+- [x] Prove Gen 1 → 2: Alex H. Cook to Brian A. Cook (Personal knowledge, 1991 & 1962 Birth Indexes, 2025 Mike Cook obituary).
+- [x] Prove Gen 2 → 3: Brian A. Cook to Arlin Cook (1991 Columbia obit, 1986 Campbellsville obit, family archive).
 - [x] Prove Gen 3 → 4: Arlin Cook to Russell Cook (1991 obit, SSA Numident `Russel Cook` / `Anna B. Sneed`, 1935 Birth Index `Harlin Cook`, 1940 & 1950 censuses).
 - [x] Prove Gen 4 → 5: Russell Cook to George William Cook (WWII Draft Card naming mother `Mrs. Anna Cook`, 1911 Adair Marriage Vol. 22:490–491, 1935 KY Death Cert #18658, FAG #96831073).
 - [x] Prove Gen 5 → 6: George William Cook to George W. Cook (1877 Adair `DB Z:195` 2/6 heirship deed for 142 acres on Russell's Creek, Eliza E. Cook 1900/1906 will `WB M:133–134`, 1860 & 1870 censuses).

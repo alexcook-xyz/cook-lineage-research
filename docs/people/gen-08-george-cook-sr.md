@@ -8,7 +8,15 @@
 
 ---
 
-## 1. Vital Chronology & Geography
+## Biographical Overview & Life
+
+**George Cook Sr.** (designated in historical deed registers as *"the Testator"*, dying by 21 September 1835) was a colonial and Revolutionary-era Southside Virginia planter who was among the earliest permanent Cook settlers in the Sandy Creek basin of Pittsylvania County. Born prior to 1762 (and likely circa 1740), Cook was already an adult head of household by the close of the Revolutionary War, enumerated in the 1782 and 1785 Virginia State Lists as heading a family of seven white souls. 
+
+In October 1783, Cook acquired 100 acres on Sandy Creek from William Armstrong (Deed Book 7, pp. 106–107), followed by an adjacent 44-acre Commonwealth land grant in 1785 (Grants P:455). Over the next fifty years, he cultivated his tobacco plantation along Sandy Creek, adjoining the properties of Thomas Flippin and other early Dan River pioneers. Cook executed a written will that was presented and proved before the Pittsylvania County Court on 21 September 1835 (Will Book 1, p. 293). Following his death, his 97-acre Sandy Creek home tract was sold at public auction in January 1837 by Sheriff Thomas H. Wooding, administrator with the will annexed, to John Williams for $107.67 *"according to the Will of the said Cook."*
+
+---
+
+## Vital Chronology & Geography
 
 - **Birth:** circa 1740 (or before 1762), Virginia.
 - **Death:** before 21 September 1835, Sandy Creek, Pittsylvania County, Virginia.
@@ -16,7 +24,7 @@
 
 ---
 
-## 2. Primary Records & Archival Plates
+## Primary Records & Archival Plates
 
 1. **1782/1785 Virginia State Lists:** Head of household, 7 white souls on Sandy Creek.
 2. **1783 Pittsylvania County Deed Book 7, pp. 106–107:** Purchase of 100 acres on Sandy Creek.
@@ -29,6 +37,6 @@
 
 ---
 
-## 3. Evidence Required to Advance to "Proven"
+## Evidence Required to Advance to "Proven"
 
 To advance this generational link from a 75–80% working hypothesis to fully proven under GPS Standard A/B, Will Book 1:293–294 must be read directly in person to determine whether George Cook ("George B") or his orphan heirs are explicitly named as legatees.

@@ -1,8 +1,8 @@
-# The Cook Line of Alex Haley Cook
+# The Cook Line of Alex H. Cook
 
-## A Proof Argument from Alex Haley Cook to George Cook of Pittsylvania County, Virginia
+## A Proof Argument from Alex H. Cook to George Cook of Pittsylvania County, Virginia
 
-Prepared for Alex Haley Cook · 25 November 2026
+Prepared for Alex H. Cook · 25 November 2026
 
 **Standard applied:** the Genealogical Proof Standard (GPS) of the Board for Certification of Genealogists — (1) reasonably exhaustive research, (2) complete and accurate source citations, (3) analysis and correlation of the evidence, (4) resolution of conflicting evidence, and (5) a soundly reasoned, coherently written conclusion.[^1] Citations follow the *Chicago Manual of Style* (notes and bibliography), modeled on Elizabeth Shown Mills, *Evidence Explained*. The project's 0–100 link scores are a working tool under the GPS, not a substitute for it; a link is called **proven** here only where the evidence satisfies all five GPS elements.
 
@@ -14,8 +14,8 @@ Prepared for Alex Haley Cook · 25 November 2026
 
 | # | Person | Dates | Place |
 |---|--------|-------|-------|
-| 1 | Alex Haley Cook | b. 17 Oct 1991 | Hardin County, KY |
-| 2 | Brian Allen Cook | b. 12 Jul 1962 | Campbellsville, Taylor County, KY |
+| 1 | Alex H. Cook | b. 17 Oct 1991 | Hardin County, KY |
+| 2 | Brian A. Cook | b. 12 Jul 1962 | Campbellsville, Taylor County, KY |
 | 3 | Arlin Cook | 24 Aug 1935 – 15 Dec 1991 | Adair County, KY |
 | 4 | Russell Cook | 28 Nov 1916 – 8 Jan 1982 | Columbia, Adair County, KY |
 | 5 | George William Cook | 26 Feb 1852 – 16 Jul 1935 | Columbia, Adair County, KY |
@@ -27,13 +27,13 @@ Prepared for Alex Haley Cook · 25 November 2026
 
 ---
 
-## 1. Alex Haley Cook, son of Brian Allen Cook
+## 1. Alex H. Cook, son of Brian A. Cook
 
-Alex Haley Cook was born 17 October 1991 in Hardin County, Kentucky; the Kentucky Birth Index entry names his mother as Kristi S. Hall.[^3] His father is Brian Allen Cook of Campbellsville, Kentucky. The identification rests on Alex's own firsthand knowledge — he is the subject of this research and the primary informant for his own parentage — corroborated by the family record set: Brian's brother Mike Cook's 2025 obituary names Brian Cook of Campbellsville among the brothers of the same sibling group,[^4] and Brian's parentage (section 2) anchors him in the line. No Kentucky birth certificate naming Alex's father has been obtained; Kentucky certificates of this era are not public records. The link is accepted on direct personal knowledge with record corroboration.
+Alex H. Cook was born 17 October 1991 in Hardin County, Kentucky; the Kentucky Birth Index entry names his mother as Kristi S. Hall.[^3] His father is Brian A. Cook of Campbellsville, Kentucky. The identification rests on Alex's own firsthand knowledge — he is the subject of this research and the primary informant for his own parentage — corroborated by the family record set: Brian's brother Mike Cook's 2025 obituary names Brian Cook of Campbellsville among the brothers of the same sibling group,[^4] and Brian's parentage (section 2) anchors him in the line. No Kentucky birth certificate naming Alex's father has been obtained; Kentucky certificates of this era are not public records. The link is accepted on direct personal knowledge with record corroboration.
 
-## 2. Brian Allen Cook, son of Arlin Cook
+## 2. Brian A. Cook, son of Arlin Cook
 
-Brian Allen Cook was born 12 July 1962, per the Kentucky Birth Index, and lives at Campbellsville, Taylor County.[^5] That he is the son of Arlin Cook and Elsie Mae (Hunt) Cook is stated by Alex from family knowledge received from his father, and is corroborated by the documented sibling set: Mike Cook's obituary names Mike (1958–2025), Arlin Ray Cook, and Brian Cook as brothers, all of Campbellsville,[^4] and Elsie Cook's 1986 obituary names Brian's son Jonathan among her grandsons. The documentary record for this generation is thinner than for earlier ones — mid-twentieth-century Kentucky birth certificates are closed — and the link is carried by consistent family testimony from two independent directions (Alex's statement and the published obituaries), with no conflicting evidence of any kind.
+Brian A. Cook was born 12 July 1962, per the Kentucky Birth Index, and lives at Campbellsville, Taylor County.[^5] That he is the son of Arlin Cook and Elsie Mae (Hunt) Cook is stated by Alex from family knowledge received from his father, and is corroborated by the documented sibling set: Mike Cook's obituary names Mike (1958–2025), Arlin Ray Cook, and Brian Cook as brothers, all of Campbellsville,[^4] and Elsie Cook's 1986 obituary names Brian's son Jonathan among her grandsons. The documentary record for this generation is thinner than for earlier ones — mid-twentieth-century Kentucky birth certificates are closed — and the link is carried by consistent family testimony from two independent directions (Alex's statement and the published obituaries), with no conflicting evidence of any kind.
 
 ## 3. Arlin Cook, son of Russell Cook — Proven (score 88)
 
@@ -101,7 +101,7 @@ The testator's father has not been identified, and the search is documented to a
 
 ## Conclusion
 
-The Cook line of Alex Haley Cook is proven, link by link and under the Genealogical Proof Standard, from Alex through Brian Allen Cook, Arlin Cook, Russell Cook, George William Cook, and George W. Cook, to **George B of Pittsylvania County, who died before 15 October 1831**. One generation further, the testator **George Cook (about 1740–1835)** — the oldest Cook on the tree — stands as George B's probable father on the strength of the 1783 Senr/Junr deed, the identity of the 97-acre Sandy Creek tract, and fifty years of association between the same small circle of men. That final link is labeled a hypothesis wherever it appears in the family's trees, and the two record groups most likely to prove or break it — Catharine Cook's own deeds and the printed 1806–1830 Pittsylvania marriages — are identified and queued. The immigrant ancestor has not yet been reached; the honest frontier of this line, as of 25 November 2026, is a landless householder on Sandy Creek in 1782, whose father the surviving records have not yet named.
+The Cook line of Alex H. Cook is proven, link by link and under the Genealogical Proof Standard, from Alex through Brian A. Cook, Arlin Cook, Russell Cook, George William Cook, and George W. Cook, to **George B of Pittsylvania County, who died before 15 October 1831**. One generation further, the testator **George Cook (about 1740–1835)** — the oldest Cook on the tree — stands as George B's probable father on the strength of the 1783 Senr/Junr deed, the identity of the 97-acre Sandy Creek tract, and fifty years of association between the same small circle of men. That final link is labeled a hypothesis wherever it appears in the family's trees, and the two record groups most likely to prove or break it — Catharine Cook's own deeds and the printed 1806–1830 Pittsylvania marriages — are identified and queued. The immigrant ancestor has not yet been reached; the honest frontier of this line, as of 25 November 2026, is a landless householder on Sandy Creek in 1782, whose father the surviving records have not yet named.
 
 ---
 
@@ -109,9 +109,9 @@ The Cook line of Alex Haley Cook is proven, link by link and under the Genealogi
 
 [^1]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville: Turner Publishing, 2019), 1–3.
 [^2]: Pittsylvania County, Virginia, Deed Book 6:34–35, Electus Musick Sr. to George Cooke Jr., 2 March 1780; Deed Book 7:105–107, George Cook Jr. to George Cook Senr, 9 August 1783. County Clerk's Office, Chatham, Virginia; digital images, FamilySearch.
-[^3]: "Kentucky, Vital Record Indexes, 1911–1999," entry for Alex Haley Cook, born 17 October 1991, Hardin County, mother Kristi S. Hall; database, Ancestry.
+[^3]: "Kentucky, Vital Record Indexes, 1911–1999," entry for Alex H. Cook, born 17 October 1991, Hardin County, mother Kristi S. Hall; database, Ancestry.
 [^4]: Obituary of Mike Cook (3 January 1958 – 31 January 2025), Campbellsville.com, Taylor County, Kentucky, 4 February 2025.
-[^5]: "Kentucky, Vital Record Indexes, 1911–1999," entry for Brian Allen Cook, born 12 July 1962.
+[^5]: "Kentucky, Vital Record Indexes, 1911–1999," entry for Brian A. Cook, born 12 July 1962.
 [^6]: "Kentucky Death Index, 1911–2000," entry for Arlin Cook, died 15 December 1991, Adair County; U.S. Social Security Death Index, entry for Arlin Cook (24 August 1935 – 15 December 1991).
 [^7]: U.S. Social Security Administration, Numident record for Arlin Cook, naming father Russel Cook and mother Anna B. Sneed.
 [^8]: "Kentucky, Vital Record Indexes, 1911–1999," entry for "Harlin Cook," born 24 August 1935, Adair County, mother Annie Sneed.

@@ -8,7 +8,17 @@
 
 ---
 
-## 1. Vital Chronology & Geography
+## Biographical Overview & Life
+
+**George W. Cook** (circa 1813 – by September 1873) was the pioneer patriarch who transplanted this branch of the Cook patrilineage from the tobacco plantation lands of Pittsylvania County, Virginia, across the Cumberland Gap into South-Central Kentucky. Born in Virginia during the War of 1812 to George Cook and his wife Catharine, George W. lost his father while still a minor. In October 1831, when his widowed mother and adult siblings conveyed their father's 277-acre Dan River/Sandy Creek estate in Pittsylvania County to James Nance, George and his younger brother Henry were minors and unable to execute legal deeds.
+
+Seeking new opportunities in the western territories, George and Henry moved westward into Cumberland County, Kentucky, in the early 1830s. Upon attaining their legal majority in November 1836, the two brothers executed a power of attorney in Cumberland County authorizing their elder brother, James Cook—who had already established a homestead in neighboring Adair County—to convey their shares in their late father's Virginia estate. By 1850, George had relocated permanently to the rich bottomlands of Russell's Creek in Adair County and married Eliza E. Cole. 
+
+A prosperous yeoman farmer, Cook established a 142-acre homestead that became the multi-generational family seat. In both the 1860 and 1870 federal censuses, he proudly stated his birthplace as Virginia (explicitly recording *"Pittsylvania Va"* in 1860). Cook died intestate by September 1873, leaving his widow Eliza and his sons to manage the 142-acre Russell's Creek estate that would sustain his descendants into the twentieth century.
+
+---
+
+## Vital Chronology & Geography
 
 - **Birth:** circa 1813, Pittsylvania County, Virginia.
 - **Migration:** Pittsylvania County, VA → Cumberland County, KY (c. 1834–1836) → Adair County, KY (by 1850).
@@ -17,7 +27,7 @@
 
 ---
 
-## 2. Primary Records & Archival Plates
+## Primary Records & Archival Plates
 
 1. **1860 Federal Census (Adair County, KY, p. 200, dw. 727):**
    - Head of household: `George W. Cook`, age 47, farmer, born **`PITTSYLVANIA VA`**. Wife `Eliza`, age 32, born KY; son `George W.`, age 8.
@@ -36,6 +46,6 @@
 
 ---
 
-## 3. Father-to-Child Link
+## Father-to-Child Link
 
 Proved conclusively by the 1836 Power of Attorney (Pittsylvania DB 39:242) and reciprocal deed (DB 39:256–257) connecting George Cook of Cumberland/Adair County, KY directly as heir-at-law to George Cook deceased of Pittsylvania County, VA.

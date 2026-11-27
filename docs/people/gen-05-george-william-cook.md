@@ -8,7 +8,17 @@
 
 ---
 
-## 1. Vital Chronology & Geography
+## Biographical Overview & Life
+
+**George William Cook** (26 February 1852 – 16 July 1935) was a prominent generational figure who bridged the antebellum frontier settlement of Adair County with twentieth-century modern life. Born on the family homestead along Russell's Creek in the final decade before the Civil War to Virginia immigrant George W. Cook and Kentucky native Eliza Cole, he spent his youth working the family's farm during the turbulent Civil War and Reconstruction years. 
+
+Following his father's death by September 1873, George William stepped forward as an adult heir. In February 1877, he executed a landmark deed in Adair County Deed Book Z conveying two undivided shares (his own and one acquired from his brother Thomas) in his father's 142-acre Russell's Creek estate. He remained the primary caretaker of his widowed mother, Eliza, who executed her will on 8 October 1900 devising to him the family home tract. 
+
+Remarkably, Cook remained a bachelor farmer well into his later years. In September 1911, at the age of fifty-eight, he married seventeen-year-old Emma Janes, with the written consent of her parents, starting a young family that included son Russell Cook. Cook lived to the age of eighty-three, passing away from intestinal tuberculosis at his North Columbia residence in July 1935. He was buried in the family cemetery on the Cook farm, having anchored the Cook family's possession of Russell's Creek land for over eight decades.
+
+---
+
+## Vital Chronology & Geography
 
 - **Birth:** 26 February 1852, Adair County, Kentucky.
 - **Death:** 16 July 1935 (6 A.M.), Columbia, Adair County, Kentucky (age 83).
@@ -16,7 +26,7 @@
 
 ---
 
-## 2. Primary Records & Archival Plates
+## Primary Records & Archival Plates
 
 1. **1911 Adair County Marriage Register (Vol. 22:490–491):**
    - Preserved in `evidence/ky-modern/Adair_1911_Marriage_Cook_Janes.png` (Plate 3 in paper).
@@ -34,7 +44,7 @@
 
 ---
 
-## 3. Archival Traps Resolved
+## Archival Traps Resolved
 
 - **Hearsay Birthplace Trap:** Death certificate listed father's birthplace as `"Ky"` (informant was his young surviving wife). Overturned by father's own lifetime statement in the 1860 census reporting `"PITTSYLVANIA VA"`.
 - **Ancestry Corrupt Index:** Vendor database inverted mother `Eliza Cole` as his spouse.

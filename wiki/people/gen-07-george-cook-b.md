@@ -8,7 +8,15 @@
 
 ---
 
-## 1. Vital Chronology & Geography
+## Biographical Overview & Life
+
+**George Cook** (designated in historical deed indexes and legal cross-references as *"George B"*, dying before 15 October 1831) lived during the transformative post-Revolutionary and Early National eras in Pittsylvania County, Virginia. Residing in the southern districts of the county near the Dan River and Sandy Creek, Cook was an established planter who accumulated real property, including a substantial 277-acre tract adjoining the plantation of John Carter. 
+
+Cook married Catharine, with whom he had a family of at least seven surviving children: David, James, Elizabeth, John, Washington, Henry, and George W. Cook. He passed away intestate in the early autumn of 1831. Because he left no written will, his estate passed collectively to his widow and children under Virginia's laws of descent and distribution. On 15 October 1831, his widow Catharine joined with their five adult children to convey the 277-acre homestead to James Nance for $140.74, while leaving reserved lines for their two youngest sons, Henry and George, who were legally minors. His intestate estate conveyance and the subsequent 1836 power of attorney executed by his minor sons created the documentary trail that bridges his family to Kentucky.
+
+---
+
+## Vital Chronology & Geography
 
 - **Birth:** circa 1760–1785, Virginia.
 - **Death:** before 15 October 1831, Pittsylvania County, Virginia (intestate; widow Catharine and heirs sell land).
@@ -16,7 +24,7 @@
 
 ---
 
-## 2. Primary Records & Archival Plates
+## Primary Records & Archival Plates
 
 1. **1831 Pittsylvania County Heirs' Deed (Deed Book 33, p. 101):**
    - Preserved in `evidence/va-pittsylvania/Pittsylvania_DB33_p101.png` (Plate 8 in paper).
@@ -33,7 +41,7 @@
 
 ---
 
-## 3. Disambiguation from Contemporary George Cooks
+## Disambiguation from Contemporary George Cooks
 
 - **George Cook Sr. ("the Testator," d. 1835):** Testator of Will Book 1:293; owned 97 acres on Sandy Creek sold by Sheriff Wooding in 1837 (DB 39:319–320).
 - **George Cook (Estate 1823):** Estate administered 19 May 1823 by Richard B. Cook (Accounts Current Book 7:210–211).

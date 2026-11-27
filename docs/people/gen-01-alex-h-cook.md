@@ -1,8 +1,8 @@
-# Generation 1: Alex Haley Cook (b. 1991)
+# Generation 1: Alex H. Cook (b. 1991)
 
 - **Lineage Position:** Subject / Generation 1
 - **Lineage Proof Status:** **Proven** (Firsthand Personal Knowledge & Vital Index Corroboration)
-- **Direct Father:** [Brian Allen Cook (b. 1962)](gen-02-brian-allen-cook.md)
+- **Direct Father:** [Brian A. Cook (b. 1962)](gen-02-brian-a-cook.md)
 - **Mother:** Kristi S. Hall
 
 ---
@@ -24,4 +24,4 @@ Because modern Kentucky birth records are restricted to immediate family, proof 
 
 ## 3. Father-to-Child Link
 
-The connection between Alex Haley Cook and Brian Allen Cook is established by direct personal attestation, parent-child household records, and family documentation.
+The connection between Alex H. Cook and Brian A. Cook is established by direct personal attestation, parent-child household records, and family documentation.

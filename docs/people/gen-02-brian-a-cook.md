@@ -1,4 +1,4 @@
-# Generation 2: Brian Allen Cook (b. 1962)
+# Generation 2: Brian A. Cook (b. 1962)
 
 - **Lineage Position:** Father of Subject / Generation 2
 - **Lineage Proof Status:** **Proven**

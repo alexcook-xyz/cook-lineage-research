@@ -1,6 +1,6 @@
 # Cook Patrilineal Lineage Research Project: From Alex Cook to Colonial Immigrant Arrival
 
-Welcome to the **Cook Lineage Research Project**. This repository is a permanent, collaborative, and evidence-based workspace dedicated to tracing and proving the direct patrilineal ancestry of **Alex Haley Cook** (b. 1991, Hardin County, Kentucky) backward in time from South-Central Kentucky to the family's first arrival in British North America during the colonial era.
+Welcome to the **Cook Lineage Research Project**. This repository is a permanent, collaborative, and evidence-based workspace dedicated to tracing and proving the direct patrilineal ancestry of **Alex H. Cook** (b. 1991, Hardin County, Kentucky) backward in time from South-Central Kentucky to the family's first arrival in British North America during the colonial era.
 
 This repository does **not** serve as a personal blog or a subjective thesis. It functions as a structured genealogical research registry and evidentiary archive, applying the **Genealogical Proof Standard (GPS)** to track every person, primary document, geographical jurisdiction, and unresolved research question across generations.
 
@@ -10,8 +10,8 @@ This repository does **not** serve as a personal blog or a subjective thesis. It
 
 | Gen | Individual | Vital Dates | Primary Locations | Lineage Proof Status | Key Proving Documents | Wiki Profile |
 |:---:|---|---|---|:---:|---|:---:|
-| **1** | **Alex Haley Cook** | b. 17 Oct 1991 | Hardin & Taylor Cos., KY | **Proven** | Firsthand personal knowledge; KY Birth Index | [Profile](wiki/people/gen-01-alex-haley-cook.md) |
-| **2** | **Brian Allen Cook** | b. 12 Jul 1962 | Campbellsville, Taylor Co., KY | **Proven** | Family testimony; KYNG Persian Gulf War service; obituaries | [Profile](wiki/people/gen-02-brian-allen-cook.md) |
+| **1** | **Alex H. Cook** | b. 17 Oct 1991 | Hardin & Taylor Cos., KY | **Proven** | Firsthand personal knowledge; KY Birth Index | [Profile](wiki/people/gen-01-alex-h-cook.md) |
+| **2** | **Brian A. Cook** | b. 12 Jul 1962 | Campbellsville, Taylor Co., KY | **Proven** | Family testimony; KYNG Persian Gulf War service; obituaries | [Profile](wiki/people/gen-02-brian-a-cook.md) |
 | **3** | **Arlin Cook** (*Harlin*) | 24 Aug 1935 – 15 Dec 1991 | Adair & Taylor Cos., KY | **Proven** | 1991 Columbia obit; SSA Numident; 1935 KY Birth Index | [Profile](wiki/people/gen-03-arlin-cook.md) |
 | **4** | **Russell Cook** | 28 Nov 1916 – 8 Jan 1982 | Columbia, Adair Co., KY | **Proven** | WWII Draft Card (DOB 28 Nov 1916); FAG #96831073; censuses | [Profile](wiki/people/gen-04-russell-cook.md) |
 | **5** | **George William Cook** | 26 Feb 1852 – 16 Jul 1935 | Russell's Creek, Adair Co., KY | **Proven** | 1911 Adair Marriage Vol. 22:490–491; 1935 Death Cert #18658; 1877 deed DB Z:195 | [Profile](wiki/people/gen-05-george-william-cook.md) |
@@ -37,8 +37,8 @@ The repository features a complete built-in markdown wiki documenting every indi
 
 - **[Wiki Home Page](wiki/Home.md)**
 - **People Profiles:**
-  - [Gen 1: Alex Haley Cook (b. 1991)](wiki/people/gen-01-alex-haley-cook.md)
-  - [Gen 2: Brian Allen Cook (b. 1962)](wiki/people/gen-02-brian-allen-cook.md)
+  - [Gen 1: Alex H. Cook (b. 1991)](wiki/people/gen-01-alex-h-cook.md)
+  - [Gen 2: Brian A. Cook (b. 1962)](wiki/people/gen-02-brian-a-cook.md)
   - [Gen 3: Arlin Cook (1935–1991)](wiki/people/gen-03-arlin-cook.md)
   - [Gen 4: Russell Cook (1916–1982)](wiki/people/gen-04-russell-cook.md)
   - [Gen 5: George William Cook (1852–1935)](wiki/people/gen-05-george-william-cook.md)

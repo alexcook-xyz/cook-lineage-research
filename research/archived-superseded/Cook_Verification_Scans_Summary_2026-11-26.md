@@ -1,7 +1,7 @@
 # Cook Verification Scans — Summary of Searches and Findings
 
 **Date:** 26 November 2026
-**Prepared for:** Alex Haley Cook
+**Prepared for:** Alex H. Cook
 **Scope:** Record searches requested for the Cook lineage project — the will and probate records of the testator George Cook of Pittsylvania County, Virginia; the George Cook × Catharine marriage; and original-document verification scans for key records in the proven line.
 **Standard:** Genealogical Proof Standard. Free sources only. Newspapers.com sources excluded per project rule.
 

@@ -621,7 +621,7 @@ def main():
         rightMargin=0.75 * inch,
         topMargin=0.75 * inch,
         bottomMargin=0.70 * inch,
-        title="From South-Central Kentucky to the Dan River and Harris's Creek: Patrilineal Lineage of Alex Haley Cook",
+        title="From South-Central Kentucky to the Dan River and Harris's Creek: Patrilineal Lineage of Alex H. Cook",
         author="Alex Cook",
     )
     doc.build(story, canvasmaker=CleanPageNumberCanvas)

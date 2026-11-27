@@ -41,7 +41,7 @@ Cook married Catharine, with whom he had a family of at least seven surviving ch
 
 ---
 
-## Plain-English Summary: Proven vs. Open Link Upward
+## Proof Summary: Proven vs. Open Link Upward
 
 - **Proven (99–100%):** George Cook ("George B") is definitively the father of Generation 6 ([George W. Cook](gen-06-george-w-cook.md)), proven by his 1831 intestate heirs' deed (`DB 33:101`) and his sons' 1836 Kentucky Power of Attorney and follow-up deed (`DB 39:242, 256–257`).
 - **Open Link (`~75–80%` Working Hypothesis):** Whether **George Cook Sr. ("the Testator," d. 1835)** is George B's father depends on obtaining the restricted 1835 will (`Pittsylvania Will Book 1, pp. 293–294`) and building the 1782–1837 tax table (Issues #4 & #7). The 27 November 2026 colonial sweep slightly strengthened this bridge indirectly because **Electious Musick Sr.** (who sold 97 acres to George Cooke Jr. in 1780) lived immediately beside our candidate **George Cook** in Spotsylvania County in 1748.

@@ -8,7 +8,7 @@
 
 ---
 
-## Plain-English Summary: What Is Proven vs. Open
+## Proof Summary: What Is Proven vs. Open
 
 - **Proven Historical Facts:** George Cook Sr. was an established, free white head of household on **Sandy Creek** in Pittsylvania County by 1782 (`7 white souls`), acquired ~100 acres on Sandy Creek from **George Cook Jr. and wife Ruth** in August 1783 (`DB 7:106–107`), obtained a 44-acre state grant on Upper Double Creek in 1785 (`Grants P:455`), and left a will proved **21 September 1835** (`Will Book 1:293`, indexed `"Sarah & his children"`). His 97-acre Sandy Creek tract adjoining Thomas Flippin was sold at auction in January 1837 (`DB 39:319–320`).
 - **What Remains Unproven (~75–80% Link to Gen 7):** Because *Will Book 1, pp. 293–294* sits on a restricted FamilySearch Center microfilm (`#007642302`), we have not yet read the full list of children inside the will to verify whether Generation 7 (**George B**, d. before Oct 1831) or his orphaned children are named.

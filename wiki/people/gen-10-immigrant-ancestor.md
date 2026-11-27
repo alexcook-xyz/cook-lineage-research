@@ -7,7 +7,7 @@
 
 ---
 
-## 1. Plain-English Status: Why No Ship Can Be Named Yet
+## 1. Status Overview: Why No Ship Can Be Named Yet
 
 Because **Generation 9** (`George Cook`, patented 400 acres in Amelia County on 3 November 1750) bought his Virginia land with **40 shillings cash (treasury right)** rather than an immigrant **headright** (`50 acres` per passenger transported across the Atlantic), no surviving ship manifest or port register links directly to him yet. In colonial Virginia, paying cash for frontier land was typical of second- or third-generation Virginians or internal migrants moving from older counties.
 

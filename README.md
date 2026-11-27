@@ -81,8 +81,8 @@ cook-lineage-research/
 │   ├── methods/                              # Research methodologies, tools, and workflows
 │   ├── people/                               # Profile pages for each generation (Gen 1 to 10+)
 │   └── places/                               # Jurisdictional and archival research guides
-├── evidence/                                 # Primary record scans & plain-English guide (see evidence/README.md)
-│   ├── README.md                             # Plain-English index of every evidence folder & scan
+├── evidence/                                 # Primary record scans & transcriptions (see evidence/README.md)
+│   ├── README.md                             # Directory guide & index of every evidence folder & scan
 │   ├── ky-modern/                            # Modern Kentucky vital records, obits, draft cards
 │   ├── ky-adair/                             # Adair County deed books, wills, inventories
 │   ├── va-pittsylvania/                      # Pittsylvania deeds, wills, accounts current

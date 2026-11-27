@@ -9,7 +9,7 @@
 
 ---
 
-## Plain-English Summary: What Is Proven vs. What Remains Open
+## Proof Summary: What Is Proven vs. What Remains Open
 
 - **What We Have Completely Proven:** Between **1750 and 1771**, a single man named **George Cook** and his wife **Sarah** owned and lived on a **400-acre plantation** on the head branches of Harris's Creek (first in Amelia County, then in Prince Edward County when created in 1754). We have accounted for **every single acre** (`150 acres` sold to Alexander Guill in 1768 + `250 acres` sold to Lovel Wilkerson in 1771 = `400 acres`), verified his age-or-infirmity **levy exemption in 1760**, and traced his departures under merchant debt suits in **1769–1771**.
 - **Why He Fits Above Generation 8 (Not As Gen 8):** Because George Cook was already an adult landowner in November 1750 (`born before 1729`) and was **excused from paying county poll taxes in September 1760** (`likely born c. 1700–1715`), he would have been 115–135 years old when Generation 8 (`George Cook Sr.`) died in 1835. Moreover, in Sept 1760 his household had only **1 tithable (`George Cook one`)**, meaning any surviving son in that house was under age 16 (`born after Sept 1744`)—fitting the exact age bracket for Generation 8.

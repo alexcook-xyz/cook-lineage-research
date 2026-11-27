@@ -17,8 +17,8 @@ This repository does **not** serve as a personal blog or a subjective thesis. It
 | **5** | **George William Cook** | 26 Feb 1852 – 16 Jul 1935 | Russell's Creek, Adair Co., KY | **Proven** | 1911 Adair Marriage Vol. 22:490–491; 1935 Death Cert #18658; 1877 deed DB Z:195 | [Profile](wiki/people/gen-05-george-william-cook.md) |
 | **6** | **George W. Cook** | c. 1813 – by Sep 1873 | Pittsylvania Co., VA → Adair Co., KY | **Proven** | 1860 census (`PITTSYLVANIA VA`); DB Z:195 (142 ac); Eliza Cook will | [Profile](wiki/people/gen-06-george-w-cook.md) |
 | **7** | **George Cook ("George B")** | c. 1760/85 – bef. 15 Oct 1831 | Pittsylvania Co., VA | **Proven** | Pittsylvania DB 33:101 (277 ac); DB 39:242 (POA); DB 39:256–257 | [Profile](wiki/people/gen-07-george-cook-b.md) |
-| **8** | **George Cook Sr. ("the Testator")** | c. 1740/62 – by 21 Sep 1835 | Sandy Creek, Pittsylvania Co., VA | **Working Hypothesis (~75–80%)** | DB 7:106–107 (100 ac); WB 1:293 (will); DB 39:319–320 (1837 sheriff sale, 97 ac) | [Profile](wiki/people/gen-08-george-cook-sr.md) |
-| **9** | **Piedmont Pre-1780 Ancestor** | Early 18th century | Amelia / Prince Edward / Halifax Co., VA | **Under Investigation** | 1750 Amelia Patent (Patents 29:316–317); 1768 Prince Edward Deed (DB 3:366–368) | [Profile](wiki/people/gen-09-colonial-piedmont-ancestor.md) |
+| **8** | **George Cook Sr. ("the Testator")** | c. 1740/55 – by 21 Sep 1835 | Sandy Creek, Pittsylvania Co., VA | **Working Hypothesis (~75–80%)** | DB 7:106–107 (100 ac); WB 1:293 (will); DB 39:319–320 (1837 sheriff sale, 97 ac) | [Profile](wiki/people/gen-08-george-cook-sr.md) |
+| **9** | **George Cook (Harris's Creek)** | c. 1700/15 – aft. 1771 | Amelia & Prince Edward Cos., VA *(?Spotsylvania 1741–48)* | **Profile Proven (99–100%) \| Direct Link (~45–55%)** | 1750 Patent (`29:316–317`, 400 ac); 1760 levy excuse; 1768 **Sarah** dower (`OB 4:110`); `DB 3:366` (150 ac); `DB 5:67–68` (250 ac) | [Profile](wiki/people/gen-09-colonial-piedmont-ancestor.md) |
 | **10+** | **Colonial Immigrant Ancestor** | 17th / Early 18th century | British Port → Tidewater Virginia / Maryland | **Unidentified** | Headrights in Virginia Land Patents 1–28; Coldham Emigrants | [Profile](wiki/people/gen-10-immigrant-ancestor.md) |
 
 ---
@@ -45,13 +45,14 @@ The repository features a complete built-in markdown wiki documenting every indi
   - [Gen 6: George W. Cook (c. 1813–1873)](wiki/people/gen-06-george-w-cook.md)
   - [Gen 7: George Cook ("George B," d. 1831)](wiki/people/gen-07-george-cook-b.md)
   - [Gen 8: George Cook Sr. ("the Testator," d. 1835)](wiki/people/gen-08-george-cook-sr.md)
-  - [Gen 9: Colonial Piedmont Progenitor (Amelia / Prince Edward)](wiki/people/gen-09-colonial-piedmont-ancestor.md)
+  - [Gen 9: George Cook (Amelia / Prince Edward, 1750–1771)](wiki/people/gen-09-colonial-piedmont-ancestor.md)
   - [Gen 10+: Transatlantic Immigrant Ancestor](wiki/people/gen-10-immigrant-ancestor.md)
 - **Geographic & Jurisdictional Guides:**
   - [Adair County, Kentucky](wiki/places/adair-county-ky.md)
   - [Cumberland County, Kentucky](wiki/places/cumberland-county-ky.md)
   - [Pittsylvania County, Virginia](wiki/places/pittsylvania-county-va.md)
   - [Prince Edward & Amelia Counties, Virginia](wiki/places/prince-edward-amelia-va.md)
+  - [Spotsylvania County, Virginia](wiki/places/spotsylvania-county-va.md)
   - [Halifax & Lunenburg Counties, Virginia Borderlands](wiki/places/halifax-lunenburg-borderlands.md)
   - [Colonial Tidewater & Chesapeake Ports of Entry](wiki/places/colonial-tidewater-ports.md)
 
@@ -64,7 +65,7 @@ We track missing records, specific research questions, and archival pulls using 
 - **[Milestones Overview](https://github.com/alexcook-xyz/cook-lineage-research/milestones):**
   - **Milestone 1:** Kentucky Line Completeness & Collateral Verification (Gen 1–6)
   - **Milestone 2:** Resolve Generation 7 to 8 Bridge (Pittsylvania Co., VA, 1780–1837)
-  - **Milestone 3:** Pre-1780 Southside Piedmont Migration Bridge (1750–1780)
+  - **Milestone 3:** Pre-1780 Southside Piedmont Migration Bridge (1750–1780) *(Issues [#8](https://github.com/alexcook-xyz/cook-lineage-research/issues/8) & [#9](https://github.com/alexcook-xyz/cook-lineage-research/issues/9) closed; locked FamilySearch/LVA reels tracked in [#13](https://github.com/alexcook-xyz/cook-lineage-research/issues/13))*
   - **Milestone 4:** Colonial Roots to Immigrant Arrival (Pre-1750)
 - **[Active Issues](https://github.com/alexcook-xyz/cook-lineage-research/issues):** Each issue represents a concrete archival retrieval target, record analysis task, or disambiguation matrix.
 
@@ -80,17 +81,19 @@ cook-lineage-research/
 │   ├── methods/                              # Research methodologies, tools, and workflows
 │   ├── people/                               # Profile pages for each generation (Gen 1 to 10+)
 │   └── places/                               # Jurisdictional and archival research guides
-├── evidence/                                 # Primary record scans & transcriptions
+├── evidence/                                 # Primary record scans & plain-English guide (see evidence/README.md)
+│   ├── README.md                             # Plain-English index of every evidence folder & scan
 │   ├── ky-modern/                            # Modern Kentucky vital records, obits, draft cards
 │   ├── ky-adair/                             # Adair County deed books, wills, inventories
 │   ├── va-pittsylvania/                      # Pittsylvania deeds, wills, accounts current
-│   ├── va-colonial-lva/                      # Colonial patents, land grants, deed books
+│   ├── va-colonial-lva/                      # Colonial patents, deeds, court orders & tax scans
 │   └── archival-traps-misindexed/            # Microfilm offset comparisons and audit notes
 ├── paper/                                    # Full compiled research reports & plates
 │   ├── Cook_Lineage_Pittsylvania_Paper.pdf    # Master 36-page scholarly research paper
 │   ├── Cook_Lineage_Unified_Manuscript.md    # Complete markdown manuscript with endnotes
 │   └── plates/                               # 18 high-resolution documentary plates
-├── research/                                 # Forward traces and specialized audit reports
+├── research/                                 # Forward traces, pre-1780 sweeps, and audit reports
+│   ├── pre1780-sweeps/                       # Colonial LVA, Archive.org, parent-county & bridge reports
 │   └── archived-superseded/                  # Superseded drafts with explicit error quarantines
 ├── scripts/                                  # Processing and PDF compilation utilities
 ├── RESEARCH_ROADMAP.md                       # Comprehensive step-by-step master plan to immigration
@@ -98,9 +101,6 @@ cook-lineage-research/
 ├── CONTRIBUTING.md                           # Contribution and evidence standards
 └── LICENSE                                   # Creative Commons Attribution 4.0 International
 ```
-
----
-
 
 ---
 

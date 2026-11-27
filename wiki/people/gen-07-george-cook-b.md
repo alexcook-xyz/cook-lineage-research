@@ -26,18 +26,25 @@ Cook married Catharine, with whom he had a family of at least seven surviving ch
 
 ## Primary Records & Archival Plates
 
-1. **1831 Pittsylvania County Heirs' Deed (Deed Book 33, p. 101):**
-   - Preserved in `evidence/va-pittsylvania/Pittsylvania_DB33_p101.png` (Plate 8 in paper).
+1. **[1831 Pittsylvania County Heirs' Deed (Deed Book 33, p. 101)](../../evidence/va-pittsylvania/Pittsylvania_DB33_p101.png):**
+   - Plate 8 in the compiled research paper.
    - Indenture dated 15 Oct 1831, proved 21 Nov 1831.
    - Parties: `Catharine Cook, Widow of George Cook Decd., David Cook, James Cook, Elizabeth Cook, John Cook, Washington Cook, Henry Cook & George Cook of the County of Pittsylvania` to `James Nance`.
    - Consideration: $140.74 for **277 acres** adjoining John Carter.
    - Execution: Signed by mark by Catharine, David, Elizabeth, James, and signatures of Washington and John. Blank seal lines left for infant sons **Henry Cook** and **George Cook**, who did not sign.
-2. **1836 Cumberland County, KY Power of Attorney (DB 39:242):**
-   - Preserved in `evidence/va-pittsylvania/Pittsylvania_DB39_p242.png` (Plate 9 in paper).
-   - Adult George and Henry Cook appoint brother James Cook of Adair County to convey their interest in the 227/277-acre estate.
-3. **1836 Pittsylvania County Follow-up Conveyance (DB 39:256–257):**
-   - Preserved in `evidence/va-pittsylvania/Pittsylvania_DB39_p256-257.png` (Plate 10 in paper).
+2. **[1836 Cumberland County, KY Power of Attorney (DB 39:242)](../../evidence/va-pittsylvania/Pittsylvania_DB39_p242.png):**
+   - Plate 9 in the compiled research paper.
+   - Adult George and Henry Cook appoint brother James Cook of Adair County to convey their interest in the 277-acre estate (indexed `227` / transcribed `277` acres in follow-up).
+3. **[1836 Pittsylvania County Follow-up Conveyance (DB 39:256–257)](../../evidence/va-pittsylvania/Pittsylvania_DB39_p256-257.png):**
+   - Plate 10 in the compiled research paper.
    - Proves George and Henry reached majority after moving to Kentucky.
+
+---
+
+## Plain-English Summary: Proven vs. Open Link Upward
+
+- **Proven (99–100%):** George Cook ("George B") is definitively the father of Generation 6 ([George W. Cook](gen-06-george-w-cook.md)), proven by his 1831 intestate heirs' deed (`DB 33:101`) and his sons' 1836 Kentucky Power of Attorney and follow-up deed (`DB 39:242, 256–257`).
+- **Open Link (`~75–80%` Working Hypothesis):** Whether **George Cook Sr. ("the Testator," d. 1835)** is George B's father depends on obtaining the restricted 1835 will (`Pittsylvania Will Book 1, pp. 293–294`) and building the 1782–1837 tax table (Issues #4 & #7). The 27 November 2026 colonial sweep slightly strengthened this bridge indirectly because **Electious Musick Sr.** (who sold 97 acres to George Cooke Jr. in 1780) lived immediately beside our candidate **George Cook** in Spotsylvania County in 1748.
 
 ---
 

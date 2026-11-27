@@ -1,4 +1,4 @@
-# Adair County, Kentucky: Jurisdictional & Archival Guide
+# [Adair County, Kentucky](https://en.wikipedia.org/wiki/Adair_County,_Kentucky "South-central Kentucky county organized in 1801–1802 from Green County and named for John Adair, with its county seat at Columbia."): Jurisdictional & Archival Guide
 
 - **Formation:** Created 1802 from Green County.
 - **County Seat:** Columbia, Kentucky.

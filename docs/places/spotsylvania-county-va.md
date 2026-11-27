@@ -1,6 +1,6 @@
-# Spotsylvania County, Virginia: Pre-1750 Archival Guide
+# [Spotsylvania County, Virginia](https://en.wikipedia.org/wiki/Spotsylvania_County,_Virginia "Central Virginia county founded in 1721 and named for colonial governor Alexander Spotswood, with its seat at Spotsylvania Courthouse."): Pre-1750 Archival Guide
 
-- **Formation:** Created 1720/1721 from Essex, King and Queen, and King William counties.
+- **Formation:** Created 1720/1721 from Essex, King and Queen, and King William counties in the [Colony of Virginia](https://en.wikipedia.org/wiki/Colony_of_Virginia "First permanent English colony in North America (founded 1607 at Jamestown), governed by the British Crown until 1776.").
 - **Parish:** St. George's Parish.
 - **Key Pre-1750 Subject:** **George Cook** and his wife **Sarah** (documented 1741–1748).
 
@@ -8,7 +8,7 @@
 
 ## 1. Relevance to the Lineage
 
-Outside of a 1645 reference in Warwick County, Spotsylvania County holds the **only verified pre-1750 `George Cook` landholder in Virginia** prior to our 3 November 1750 Amelia County patent (*Patents 29:316–317*):
+Outside of a 1645 reference in Warwick County, Spotsylvania County holds the **only verified pre-1750 `George Cook` landholder in Virginia** prior to our 3 November 1750 [Amelia County](https://en.wikipedia.org/wiki/Amelia_County,_Virginia "Central Virginia county formed in 1735 from Prince George and Brunswick counties; originally included modern Prince Edward County.") patent (*Patents 29:316–317*):
 
 1. **1741–1742 Land Acquisitions (*Crozier, pp. 158–159*; *Spotsylvania OB, pp. 166–167*):**
    - `15 May 1741 / 4 May 1742`: Bought 100–200 acres from George & Catherine Stubblefield (Harry Beverley tract).

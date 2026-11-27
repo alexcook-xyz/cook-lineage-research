@@ -1,4 +1,4 @@
-# Pittsylvania County, Virginia: Jurisdictional & Archival Guide
+# [Pittsylvania County, Virginia](https://en.wikipedia.org/wiki/Pittsylvania_County,_Virginia "Virginia's largest county by land area, formed in 1767 from Halifax County along the Dan River borderlands with its seat at Chatham."): Jurisdictional & Archival Guide
 
 - **Formation:** Created 1767 from Halifax County.
 - **County Seat:** Chatham, Virginia.

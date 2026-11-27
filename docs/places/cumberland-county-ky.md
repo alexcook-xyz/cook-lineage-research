@@ -1,4 +1,4 @@
-# Cumberland County, Kentucky: Jurisdictional & Archival Guide
+# [Cumberland County, Kentucky](https://en.wikipedia.org/wiki/Cumberland_County,_Kentucky "Southern Kentucky county in the Pennyroyal Plateau formed in 1798 along the Cumberland River, with its county seat at Burkesville."): Jurisdictional & Archival Guide
 
 - **Formation:** Created 1798 from Green County.
 - **County Seat:** Burkesville, Kentucky.

@@ -1,8 +1,8 @@
 # Prince Edward & Amelia Counties, Virginia: Jurisdictional & Archival Guide
 
-- **Amelia County Formation:** Created 1734/1735 from Prince George and Brunswick counties.
-- **Prince Edward County Formation:** Created 1754 from the western portion of Amelia County.
-- **Key Watercourses:** **Harris's Creek** and **Vaughan's Creek** (upper Appomattox River watershed, near modern Prospect, Virginia).
+- **Amelia County Formation:** Created 1734/1735 from Prince George and Brunswick counties ([Amelia County Wikipedia](https://en.wikipedia.org/wiki/Amelia_County,_Virginia "Central Virginia county formed in 1735 from Prince George and Brunswick counties; originally included modern Prince Edward County.")).
+- **Prince Edward County Formation:** Created 1754 from the western portion of Amelia County ([Prince Edward County Wikipedia](https://en.wikipedia.org/wiki/Prince_Edward_County,_Virginia "Southside Virginia county with its seat at Farmville, formed from western Amelia County in 1754.")).
+- **Key Watercourses & Vicinity:** **Harris's Creek** and **Vaughan's Creek** (upper [Appomattox River](https://en.wikipedia.org/wiki/Appomattox_River "157-mile tributary of the James River flowing through central and southside Virginia past Farmville and Petersburg to City Point.") watershed in [Southside Virginia](https://en.wikipedia.org/wiki/Southside_%28Virginia%29 "Historic cultural and agricultural region of Virginia south of the James River, centered on tobacco farming during the colonial era."), near modern [Prospect, Virginia](https://en.wikipedia.org/wiki/Prospect,_Virginia "Unincorporated community in western Prince Edward County, Virginia, near the Appomattox River drainage.")).
 
 ---
 

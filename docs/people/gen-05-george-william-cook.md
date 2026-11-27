@@ -10,7 +10,7 @@
 
 ## Biographical Overview & Life
 
-**George William Cook** (26 February 1852 – 16 July 1935) was a prominent generational figure who bridged the antebellum frontier settlement of Adair County with twentieth-century modern life. Born on the family homestead along Russell's Creek in the final decade before the Civil War to Virginia immigrant George W. Cook and Kentucky native Eliza Cole, he spent his youth working the family's farm during the turbulent Civil War and Reconstruction years. 
+**George William Cook** (26 February 1852 – 16 July 1935) was a prominent generational figure who bridged the antebellum frontier settlement of [Adair County](https://en.wikipedia.org/wiki/Adair_County,_Kentucky "South-central Kentucky county organized in 1801–1802 from Green County and named for John Adair, with its county seat at Columbia.") with twentieth-century modern life. Born on the family homestead along Russell's Creek in the final decade before the Civil War to Virginia immigrant George W. Cook and Kentucky native Eliza Cole, he spent his youth working the family's farm during the turbulent Civil War and Reconstruction years. 
 
 Following his father's death by September 1873, George William stepped forward as an adult heir. In February 1877, he executed a landmark deed in Adair County Deed Book Z conveying two undivided shares (his own and one acquired from his brother Thomas) in his father's 142-acre Russell's Creek estate. He remained the primary caretaker of his widowed mother, Eliza, who executed her will on 8 October 1900 devising to him the family home tract. 
 

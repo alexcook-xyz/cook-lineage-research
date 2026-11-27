@@ -1,4 +1,4 @@
-# Halifax & Lunenburg Counties, Virginia: Borderlands Guide
+# [Halifax](https://en.wikipedia.org/wiki/Halifax_County,_Virginia "Southside Virginia county formed from Lunenburg County in 1752 and named for the 2nd Earl of Halifax.") & [Lunenburg](https://en.wikipedia.org/wiki/Lunenburg_County,_Virginia "Southside Virginia county established in 1746 from Brunswick County and named for the Duke of Brunswick-Lüneburg.") Counties, Virginia: Borderlands Guide
 
 - **Lunenburg County Formation:** Created 1746 from Brunswick County (originally encompassed all of Southside Virginia west of the Brunswick line).
 - **Halifax County Formation:** Created 1752 from Lunenburg County.

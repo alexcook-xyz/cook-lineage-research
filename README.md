@@ -64,9 +64,9 @@ We track missing records, specific research questions, and archival pulls using 
 
 - **[Milestones Overview](https://github.com/alexcook-xyz/cook-lineage-research/milestones):**
   - **Milestone 1:** Kentucky Line Completeness & Collateral Verification (Gen 1–6)
-  - **Milestone 2:** Resolve Generation 7 to 8 Bridge (Pittsylvania Co., VA, 1780–1837)
-  - **Milestone 3:** Pre-1780 Southside Piedmont Migration Bridge (1750–1780) *(Issues [#8](https://github.com/alexcook-xyz/cook-lineage-research/issues/8) & [#9](https://github.com/alexcook-xyz/cook-lineage-research/issues/9) closed; locked FamilySearch/LVA reels tracked in [#13](https://github.com/alexcook-xyz/cook-lineage-research/issues/13))*
-  - **Milestone 4:** Colonial Roots to Immigrant Arrival (Pre-1750)
+  - **Milestone 2:** Resolve Generation 7 to 8 Bridge (Pittsylvania Co., VA, 1780–1837) *(Open Issues [#4](https://github.com/alexcook-xyz/cook-lineage-research/issues/4)–[#7](https://github.com/alexcook-xyz/cook-lineage-research/issues/7), [#14](https://github.com/alexcook-xyz/cook-lineage-research/issues/14))*
+  - **Milestone 3:** Pre-1780 Southside Piedmont Migration Bridge (1750–1780) *(Issues [#8](https://github.com/alexcook-xyz/cook-lineage-research/issues/8) & [#9](https://github.com/alexcook-xyz/cook-lineage-research/issues/9) closed; open Issues [#10](https://github.com/alexcook-xyz/cook-lineage-research/issues/10), [#13](https://github.com/alexcook-xyz/cook-lineage-research/issues/13), [#15](https://github.com/alexcook-xyz/cook-lineage-research/issues/15))*
+  - **Milestone 4:** Colonial Roots to Immigrant Arrival (Pre-1750) *(Open Issues [#11](https://github.com/alexcook-xyz/cook-lineage-research/issues/11), [#12](https://github.com/alexcook-xyz/cook-lineage-research/issues/12), [#16](https://github.com/alexcook-xyz/cook-lineage-research/issues/16))*
 - **[Active Issues](https://github.com/alexcook-xyz/cook-lineage-research/issues):** Each issue represents a concrete archival retrieval target, record analysis task, or disambiguation matrix.
 
 ---

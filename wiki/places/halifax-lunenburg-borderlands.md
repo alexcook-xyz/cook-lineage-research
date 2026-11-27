@@ -18,5 +18,5 @@ Because Pittsylvania County did not exist prior to 1767, any early records of Ge
 ## 2. High-Priority Research Tasks
 
 - **Halifax County Deed Books 1–10 & Plea Books 1–9 (1752–1775):** Search for Cook entries along the Dan River and Sandy Creek (tracked in Issue #10).
-- **Lunenburg County Tithable Lists (1748–1783):** Search Landon C. Bell's *Sunlight on the Southside* for Cook tithables in the upper districts.
+- **Lunenburg County Tithable Lists (1748–1783):** Search Landon C. Bell's *Sunlight on the Southside* for Cook [tithables](# "Colonial Virginia poll-tax unit (1620s–1780s): any free male, indentured servant, or enslaved person aged 16+, for whom the head of household paid annual colony, county, and parish taxes.") in the upper districts.
 - **North Carolina Borderlands:** Check Caswell, Orange, and Granville County records along the state line directly south of Sandy Creek.

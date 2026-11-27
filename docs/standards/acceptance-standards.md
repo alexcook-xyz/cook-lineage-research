@@ -47,7 +47,7 @@ A primary document created near the time of the event by a person with direct kn
 ### Standard B: Indirect Evidence & Metes-and-Bounds Assemblage (The "Virginia Standard")
 In the absence of a surviving will or explicit birth record (common in burned counties or unrecorded frontier marriages), parentage may be proven through an assemblage of indirect evidence that collectively eliminates all other alternatives:
 1. **Chain of Title Continuity:** The child inherits, occupies, pays taxes on, or sells the exact metes-and-bounds acreage originally patented or purchased by the father.
-2. **Tax List Tracking:** The son appears on the father's personal property tax tithable entry upon reaching age 16 or 21 before establishing his own separate household on the same watercourse.
+2. **Tax List Tracking:** The son appears on the father's personal property tax [tithable](# "Colonial Virginia poll-tax unit (1620s–1780s): any free male, indentured servant, or enslaved person aged 16+, for whom the head of household paid annual colony, county, and parish taxes.") entry upon reaching age 16 or 21 before establishing his own separate household on the same watercourse.
 3. **Estate Inventory / Administration Connection:** The son serves as administrator, purchaser at the estate sale, or bondsman for the father's estate administration.
 4. **Negative Searches:** Comprehensive searches of all other men bearing the surname in the same county confirm that no other candidate father existed who could have fathered the subject during the relevant timeframe.
 

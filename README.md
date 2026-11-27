@@ -1,81 +1,110 @@
-# Cook Patrilineal Lineage Research: From Kentucky to Colonial Virginia
+# Cook Patrilineal Lineage Research Project: From Alex Cook to Colonial Immigrant Arrival
 
-[![Licence: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Status: Proven Gen 1-7 | Hypothesis Gen 8](https://img.shields.io/badge/Status-GPS_Verified-brightgreen.svg)](#master-lineage-status)
-[![Author: Alex Cook](https://img.shields.io/badge/Author-Alex_Cook-blue.svg)](#authorship)
+Welcome to the **Cook Lineage Research Project**. This repository is a permanent, collaborative, and evidence-based workspace dedicated to tracing and proving the direct patrilineal ancestry of **Alex Haley Cook** (b. 1991, Hardin County, Kentucky) backward in time from South-Central Kentucky to the family's first arrival in British North America during the colonial era.
 
-Documentary proof, primary record scans, methodological analyses, and research roadmap tracing the direct patrilineal ancestry of **Alex Haley Cook** (b. 1991, Hardin County, Kentucky) through South-Central Kentucky back to Pittsylvania, Prince Edward, and Amelia Counties, Virginia, and onward toward colonial immigrant arrival.
+This repository does **not** serve as a personal blog or a subjective thesis. It functions as a structured genealogical research registry and evidentiary archive, applying the **Genealogical Proof Standard (GPS)** to track every person, primary document, geographical jurisdiction, and unresolved research question across generations.
 
 ---
 
-## Authorship & Publication Paper
+## Lineage Overview & Proof Status
 
-- **Author:** Alex Cook
-- **Monograph PDF:** [`paper/Cook_Lineage_Pittsylvania_Paper.pdf`](paper/Cook_Lineage_Pittsylvania_Paper.pdf) (36 pages, 18 embedded primary record plates, Chicago / *Evidence Explained* citations)
-- **Unified Markdown Manuscript:** [`paper/Cook_Lineage_Unified_Manuscript.md`](paper/Cook_Lineage_Unified_Manuscript.md)
-
----
-
-## Master Lineage Status
-
-| Gen | Subject | Vital Dates | Locus | Evidentiary Status | Key Anchoring Records |
-|---|---|---|---|---|---|
-| **1** | **Alex Haley Cook** | b. 17 Oct 1991 | Hardin & Taylor Cos., KY | **Proven** | Firsthand knowledge; KY Birth Index (mother Kristi S. Hall); 2025 Mike Cook obit |
-| **2** | **Brian Allen Cook** | b. 12 Jul 1962 | Campbellsville, Taylor Co., KY | **Proven** | Family testimony; KYNG Persian Gulf War rosters (`KYNGinPGW1.pdf`); obituaries |
-| **3** | **Arlin Cook** (*Harlin*) | 24 Aug 1935 – 15 Dec 1991 | Adair & Taylor Cos., KY | **Proven** | 1991 Columbia obit; SSA Numident (`Russel Cook` / `Anna B. Sneed`); 1935 Birth Index |
-| **4** | **Russell Cook** | 28 Nov 1916 – 8 Jan 1982 | Columbia, Adair Co., KY | **Proven** | WWII Draft Card (DOB `Nov. 28, 1916`, mother `Mrs. Anna Cook`); FAG #96831073 |
-| **5** | **George William Cook** | 26 Feb 1852 – 16 Jul 1935 | Columbia, Adair Co., KY | **Proven** | 1911 Adair Marriage Vol. 22:490-491; 1935 Death Cert #18658; 1877 deed `DB Z:195` |
-| **6** | **George W. Cook** | c. 1813 – by Sep 1873 | Pittsylvania VA → Adair KY | **Proven** | 1860 census (`PITTSYLVANIA VA`); `DB Z:195` (142 ac Russell's Cr); Eliza Cook will |
-| **7** | **George Cook ("George B")** | c. 1760/85 – bef. 15 Oct 1831 | Pittsylvania Co., VA | **Proven** | Pittsylvania `DB 33:101` (277 ac); `DB 39:242` (POA); `DB 39:256-257` (infancy recital) |
-| **8** | **George Cook Sr. ("the Testator")**| c. 1740/62 – by 21 Sep 1835 | Sandy Creek, Pittsylvania VA | **Working Hypothesis (~75-80%)** | `DB 7:106-107` (100 ac); `WB 1:293` (will); `DB 39:319-320` (1837 sheriff sale, 97 ac) |
+| Gen | Individual | Vital Dates | Primary Locations | Lineage Proof Status | Key Proving Documents | Wiki Profile |
+|:---:|---|---|---|:---:|---|:---:|
+| **1** | **Alex Haley Cook** | b. 17 Oct 1991 | Hardin & Taylor Cos., KY | **Proven** | Firsthand personal knowledge; KY Birth Index | [Profile](wiki/people/gen-01-alex-haley-cook.md) |
+| **2** | **Brian Allen Cook** | b. 12 Jul 1962 | Campbellsville, Taylor Co., KY | **Proven** | Family testimony; KYNG Persian Gulf War service; obituaries | [Profile](wiki/people/gen-02-brian-allen-cook.md) |
+| **3** | **Arlin Cook** (*Harlin*) | 24 Aug 1935 – 15 Dec 1991 | Adair & Taylor Cos., KY | **Proven** | 1991 Columbia obit; SSA Numident; 1935 KY Birth Index | [Profile](wiki/people/gen-03-arlin-cook.md) |
+| **4** | **Russell Cook** | 28 Nov 1916 – 8 Jan 1982 | Columbia, Adair Co., KY | **Proven** | WWII Draft Card (DOB 28 Nov 1916); FAG #96831073; censuses | [Profile](wiki/people/gen-04-russell-cook.md) |
+| **5** | **George William Cook** | 26 Feb 1852 – 16 Jul 1935 | Russell's Creek, Adair Co., KY | **Proven** | 1911 Adair Marriage Vol. 22:490–491; 1935 Death Cert #18658; 1877 deed DB Z:195 | [Profile](wiki/people/gen-05-george-william-cook.md) |
+| **6** | **George W. Cook** | c. 1813 – by Sep 1873 | Pittsylvania Co., VA → Adair Co., KY | **Proven** | 1860 census (`PITTSYLVANIA VA`); DB Z:195 (142 ac); Eliza Cook will | [Profile](wiki/people/gen-06-george-w-cook.md) |
+| **7** | **George Cook ("George B")** | c. 1760/85 – bef. 15 Oct 1831 | Pittsylvania Co., VA | **Proven** | Pittsylvania DB 33:101 (277 ac); DB 39:242 (POA); DB 39:256–257 | [Profile](wiki/people/gen-07-george-cook-b.md) |
+| **8** | **George Cook Sr. ("the Testator")** | c. 1740/62 – by 21 Sep 1835 | Sandy Creek, Pittsylvania Co., VA | **Working Hypothesis (~75–80%)** | DB 7:106–107 (100 ac); WB 1:293 (will); DB 39:319–320 (1837 sheriff sale, 97 ac) | [Profile](wiki/people/gen-08-george-cook-sr.md) |
+| **9** | **Piedmont Pre-1780 Ancestor** | Early 18th century | Amelia / Prince Edward / Halifax Co., VA | **Under Investigation** | 1750 Amelia Patent (Patents 29:316–317); 1768 Prince Edward Deed (DB 3:366–368) | [Profile](wiki/people/gen-09-colonial-piedmont-ancestor.md) |
+| **10+** | **Colonial Immigrant Ancestor** | 17th / Early 18th century | British Port → Tidewater Virginia / Maryland | **Unidentified** | Headrights in Virginia Land Patents 1–28; Coldham Emigrants | [Profile](wiki/people/gen-10-immigrant-ancestor.md) |
 
 ---
 
-## Archival Traps Resolved
+## Research Standards & Acceptance Criteria
 
-1. **Hearsay Birthplace vs. Census Fact:** 1935 Kentucky Death Certificate #18658 records George Cook's birthplace as `"Ky"` (informant: daughter-in-law Mrs. G. W. Cook). Directly resolved by George W. Cook's own lifetime report in the 1860 Adair County Census (p. 200, dw. 727) recording his birthplace explicitly as `"PITTSYLVANIA VA"`.
-2. **Ancestry Database Corrupt Index:** Vendor indexing inverted George William Cook's mother `Eliza Cole` as his spouse.
-3. **Adair County Deed Book Z Microfilm Offset:** Index citing pp. 194-195 landed on pages 252-255 in film reels due to non-sequential volume binding. Re-audited and captured directly at folio 195.
-4. **Eliza E. Cook Will Book M Dates:** Secondary notes cited an erroneous date of `1 Oct 1890` and omitted son John D. Cook. Primary scan inspection of `Adair WB M:133-134` proved the will was executed **8 Oct 1900** and proved **1 Jan 1906**, naming sons **Thomas H. Cook**, **John D. Cook**, and **George W. Cook**.
-5. **Pittsylvania Chancery 143-1840-024 Refutation:** Secondary working drafts alleged a `17 Sep 1831` will. Direct examination of original LVA scans proved plaintiff George Cook was aged 70-80, blind, an inmate of the poorhouse who died intestate c. 1835-1836 leaving Sally Daly as his sole heir.
-6. **Amelia to Prince Edward Boundary Continuity:** Metes-and-bounds survey bearings in the **3 Nov 1750 Amelia Patent** (`Patents 29:316-317`, 400 acres on Harris's Creek) match bearing-for-bearing with the **18 Apr 1768 Prince Edward Deed** (`DB 3:366-368`, 150 acres to Alexander Guill).
+Every ancestral claim and person profile in this project must meet strict genealogical criteria before being marked as **Proven**:
+1. **[Research Standards & Acceptance Criteria](wiki/standards/acceptance-standards.md):** Defines what constitutes a "Complete Profile" and what direct or indirect evidence is required for a person to be accepted as a verified patrilineal lineage member.
+2. **[Methodology & Tools](wiki/methods/research-methods-and-tools.md):** Describes our research workflow, courthouse retrieval procedures, metes-and-bounds deed platting, same-name disambiguation matrices, and archival analysis tools.
 
 ---
 
-## Repository Structure
+## Project Wiki
+
+The repository features a complete built-in markdown wiki documenting every individual, jurisdiction, research methodology, and evidence standard:
+
+- **[Wiki Home Page](wiki/Home.md)**
+- **People Profiles:**
+  - [Gen 1: Alex Haley Cook (b. 1991)](wiki/people/gen-01-alex-haley-cook.md)
+  - [Gen 2: Brian Allen Cook (b. 1962)](wiki/people/gen-02-brian-allen-cook.md)
+  - [Gen 3: Arlin Cook (1935–1991)](wiki/people/gen-03-arlin-cook.md)
+  - [Gen 4: Russell Cook (1916–1982)](wiki/people/gen-04-russell-cook.md)
+  - [Gen 5: George William Cook (1852–1935)](wiki/people/gen-05-george-william-cook.md)
+  - [Gen 6: George W. Cook (c. 1813–1873)](wiki/people/gen-06-george-w-cook.md)
+  - [Gen 7: George Cook ("George B," d. 1831)](wiki/people/gen-07-george-cook-b.md)
+  - [Gen 8: George Cook Sr. ("the Testator," d. 1835)](wiki/people/gen-08-george-cook-sr.md)
+  - [Gen 9: Colonial Piedmont Progenitor (Amelia / Prince Edward)](wiki/people/gen-09-colonial-piedmont-ancestor.md)
+  - [Gen 10+: Transatlantic Immigrant Ancestor](wiki/people/gen-10-immigrant-ancestor.md)
+- **Geographic & Jurisdictional Guides:**
+  - [Adair County, Kentucky](wiki/places/adair-county-ky.md)
+  - [Cumberland County, Kentucky](wiki/places/cumberland-county-ky.md)
+  - [Pittsylvania County, Virginia](wiki/places/pittsylvania-county-va.md)
+  - [Prince Edward & Amelia Counties, Virginia](wiki/places/prince-edward-amelia-va.md)
+  - [Halifax & Lunenburg Counties, Virginia Borderlands](wiki/places/halifax-lunenburg-borderlands.md)
+  - [Colonial Tidewater & Chesapeake Ports of Entry](wiki/places/colonial-tidewater-ports.md)
+
+---
+
+## Research Tracking: Milestones & Issues
+
+We track missing records, specific research questions, and archival pulls using **GitHub Milestones and Issues**:
+
+- **[Milestones Overview](https://github.com/alexcook-xyz/cook-lineage-research/milestones):**
+  - **Milestone 1:** Kentucky Line Completeness & Collateral Verification (Gen 1–6)
+  - **Milestone 2:** Resolve Generation 7 to 8 Bridge (Pittsylvania Co., VA, 1780–1837)
+  - **Milestone 3:** Pre-1780 Southside Piedmont Migration Bridge (1750–1780)
+  - **Milestone 4:** Colonial Roots to Immigrant Arrival (Pre-1750)
+- **[Active Issues](https://github.com/alexcook-xyz/cook-lineage-research/issues):** Each issue represents a concrete archival retrieval target, record analysis task, or disambiguation matrix.
+
+---
+
+## Repository Directory Structure
 
 ```
 cook-lineage-research/
-├── paper/
-│   ├── Cook_Lineage_Pittsylvania_Paper.pdf    # Master publication monograph (36 pp.)
-│   ├── Cook_Lineage_Unified_Manuscript.md    # Full markdown manuscript with endnotes
-│   ├── sections/                             # Modular section drafts
-│   └── plates/                               # 18 high-resolution cropped source plates
-├── evidence/
-│   ├── ky-modern/                            # Obituaries, WWII draft, marriage, DC scans
-│   ├── ky-adair/                             # Adair Co. deeds & wills (DB Z, WB M)
+├── wiki/                                     # Comprehensive project wiki
+│   ├── Home.md                               # Wiki navigation root
+│   ├── standards/                            # Proof criteria & acceptance rules
+│   ├── methods/                              # Research methodologies, tools, and workflows
+│   ├── people/                               # Profile pages for each generation (Gen 1 to 10+)
+│   └── places/                               # Jurisdictional and archival research guides
+├── evidence/                                 # Primary record scans & transcriptions
+│   ├── ky-modern/                            # Modern Kentucky vital records, obits, draft cards
+│   ├── ky-adair/                             # Adair County deed books, wills, inventories
 │   ├── va-pittsylvania/                      # Pittsylvania deeds, wills, accounts current
-│   ├── va-colonial-lva/                      # LVA land patents, grants, Prince Edward deeds
-│   └── archival-traps-misindexed/            # Microfilm offset images & explanatory guide
-├── research/                                 # Research reports and forward trace studies
-│   └── archived-superseded/                  # Early working drafts with error quarantines
-├── scripts/                                  # Python plate processing & PDF generation
-├── RESEARCH_ROADMAP.md                       # Comprehensive methodology to immigration
-├── EVIDENCE_LOG.md                           # Master primary source inventory
-├── CITATION.cff                              # Academic citation metadata
-└── CONTRIBUTING.md                           # Research standards & contribution rules
+│   ├── va-colonial-lva/                      # Colonial patents, land grants, deed books
+│   └── archival-traps-misindexed/            # Microfilm offset comparisons and audit notes
+├── paper/                                    # Full compiled research reports & plates
+│   ├── Cook_Lineage_Pittsylvania_Paper.pdf    # Master 36-page scholarly research paper
+│   ├── Cook_Lineage_Unified_Manuscript.md    # Complete markdown manuscript with endnotes
+│   └── plates/                               # 18 high-resolution documentary plates
+├── research/                                 # Forward traces and specialized audit reports
+│   └── archived-superseded/                  # Superseded drafts with explicit error quarantines
+├── scripts/                                  # Processing and PDF compilation utilities
+├── RESEARCH_ROADMAP.md                       # Comprehensive step-by-step master plan to immigration
+├── EVIDENCE_LOG.md                           # Master inventory of all primary documents
+├── CONTRIBUTING.md                           # Contribution and evidence standards
+└── LICENSE                                   # Creative Commons Attribution 4.0 International
 ```
 
 ---
 
-## How to Cite
+## Citation & Contact
 
-```bibtex
-@book{Cook2026Patrilineal,
-  author    = {Cook, Alex},
-  title     = {From South-Central Kentucky to the Dan River and Harris's Creek: Documentary Proof of the Patrilineal Lineage of Alex Haley Cook (b. 1991) through Pittsylvania, Prince Edward, and Amelia Counties, Virginia},
-  year      = {2026},
-  address   = {Bowling Green, Kentucky},
-  note      = {Peer-reviewed genealogical proof monograph, 36 pp.}
-}
+If citing this research repository or its documents in genealogical society submissions or academic publications, please cite as:
+
+```text
+Cook, Alex. "Cook Patrilineal Lineage Research Project: From Kentucky to Colonial Immigrant Arrival." GitHub repository: https://github.com/alexcook-xyz/cook-lineage-research (2026).
 ```

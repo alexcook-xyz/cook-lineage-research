@@ -48,7 +48,7 @@ One retrieval request (M-<k>) per census year. Per year: (1) Ancestry index sear
 | 2 | 1900 | T623 | All three brothers; Eliza (d. 1905) if living | Ancestry lead; FamilySearch download |
 | 3 | 1910 | T624 | All three brothers | Ancestry lead; FamilySearch download |
 | 4 | 1920 | T625 | All three brothers; George William with Emma and Russell (b. 1916) | Ancestry lead; FamilySearch download |
-| 5 | 1930 | T626 | Surviving brothers; George William (d. 1935) with Emma and Russell | Ancestry lead; FamilySearch download |
+| 5 | 1930 | T626 | Surviving brothers; George William (d. 1935 — gen-05 file) with Emma and Russell | Ancestry lead; FamilySearch download |
 
 ## FAN cluster
 

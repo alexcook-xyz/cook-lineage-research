@@ -86,6 +86,12 @@ verdict: **fail** — the cycle-6 Eliza-1905 defect survived at two more points,
 - **Blocking:** analysis Finding 1: "five years after Eliza's death" — asserts 1905 arithmetically at the point of use, unflagged. **Fixed:** the flag now sits in Finding 1 itself. (The cycle-6 disposition had covered the tracking table and source-1910 only; Finding 1 is now fixed as originally required.)
 - The lead additionally swept every remaining use of the prior-repo dates (1905, 1935, 1852, 1916, 1911, 1860, 1870) across all layers: the remaining hits are sheet data itself, search parameters, or uses already carrying the flag or an inline gen-file attribution.
 
-## Cycle 8 — pending
+## Cycle 8 — 2026-11-28 — fresh-context Muse subagent (not the analyst)
 
-A fresh-context reviewer verifies the cycle-7 items and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.
+verdict: **fail** — both cycle-7 items confirmed fixed, and the rest of the sweep verified, except one point:
+
+- **Blocking:** the death year in "George William Cook (1852–1935)" stood unflagged in proof.md's conclusion (the proof's own voice) and in analysis.md's question line. The lead's cycle-7 sweep had searched the full date ("16 Jul 1935") and missed the bare year. **Fixed:** both points now flag 1935 as prior repo work (gen-05 file); plan.md's one bare use is attributed to the gen-05 file (its other use is the issue's question, quoted verbatim and labelled as such).
+
+## Cycle 9 — pending
+
+A fresh-context reviewer verifies the cycle-8 item and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.

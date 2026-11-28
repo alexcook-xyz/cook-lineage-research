@@ -4,7 +4,7 @@ question: Q-2
 
 # Q-2 Analysis — Collateral households of George William Cook, Adair County, 1880–1930
 
-Question: How do the collateral households of George William Cook (1852–1935), Thomas H. Cook, and John D. Cook track across Adair County between 1880 and 1930?
+Question: How do the collateral households of George William Cook (1852–1935 — dates as posed in the issue; the 1935 death year is prior repo work, gen-05 file), Thomas H. Cook, and John D. Cook track across Adair County between 1880 and 1930?
 
 Evidence: five verified census transcriptions (`source-1880-census-ed1.md`, `source-1900-census-ed8.md`, `source-1910-census-ed14.md`, `source-1920-census-ed14.md`, `source-1930-census-ed1-14.md`), the recorded will of Eliza E. Cook (`source-will-eliza-cook.md`), and the logged county-wide Cook/Cooke surveys for each year (log.md, searches 1–10). The 1890 census is destroyed — a coverage gap, never treated as a negative.
 

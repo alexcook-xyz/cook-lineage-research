@@ -75,7 +75,7 @@ No sources/S-*.md files were created: no record naming a target was seen.
 - **Leads (not evidence):** none
 - **Next:** User must sign in to FamilySearch and check catalogs 415497 and 375513 for film numbers and whether images are viewable at home or only at a center/affiliate library.
 
-### 2026-11-28 — Internet Archive: Pittsylvania Circuit Court Clerk uploads (uploader account BWatlington, vacourts.gov address)
+### 2026-11-28 — Internet Archive: Pittsylvania Circuit Court Clerk uploads (uploader account BWatlington)
 - **Searcher:** records-searcher
 - **Goal:** Find free digital images of deed books 1-5 (row 3).
 - **Search terms:** archive.org advanced search: pittsylvania AND (deeds OR order OR wills OR tithables OR abstracts), mediatype texts (two queries, 21 and 46 hits)

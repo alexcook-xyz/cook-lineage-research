@@ -87,7 +87,7 @@ The search is **not reasonably exhaustive**, so no conclusion here can be above 
 
 ## Conflicts and how they were resolved
 See analysis.md.
-- **C1, testimonium "Senor":** resolved as a clerk's slip. The grantor is Jr. No effect.
+- **C1, testimonium "Senor" vs "Junor":** unresolved reading (three readers differ or hedge; see addendum 2). The grantor is Jr. on every other line. No effect on any grade.
 - **C2, who the two Georges are:** **unresolved; blocks H1/H4 above `possible`.**
 - **C3, "Dextrous" vs. Electious Musick:** unresolved; minor.
 - **C4, PE 1771 grantor vs. 1780 Junior:** **unresolved identity; blocks H1.**
@@ -131,7 +131,7 @@ Any of the following would move H1 or H4 to `probable` or overturn them:
 - A tithable series showing one George Cook from 1772 joined by a second, younger George.
 - Any record naming Jr. as Sr.'s son, or as the son of another man.
 
-The 1782 white-soul counts, the court year of DB 7, and the film and frame provenance of both deed images are unverified.
+The 1782 white-soul counts, the last digit of the DB 7 court year (it reads 1783 but the digit touches the scan shadow), and the film and frame provenance of both deed images are unverified.
 
 ## Addendum: Pittsylvania grantor and grantee indexes, letters C and M (group 9)
 Downloaded 2026-11-28 from the Internet Archive scans of the clerk's indexes (1765–1889) and read from the images. These are indexes (derivative; they give recording dates, not deed dates), not the deeds.
@@ -141,3 +141,12 @@ Downloaded 2026-11-28 from the Internet Archive scans of the clerk's indexes (17
 - **Effect:** H3 is partly tested for Pittsylvania land: no land deed in the county names a George Cook before the 1780 purchase, so George Cook Jr. did not buy or sell recorded Pittsylvania land earlier. This does not cover Pittsylvania order books, tithables, Lunenburg, Halifax or North Carolina. It slightly favors a late arrival (about 1779–1780) and does not change H1, H2 or H4: all stay `possible`. The question stays stalled.
 - **Limits:** index pages were mostly read at 40–110 dpi, some page ranges were skimmed, and the indexes list only the first grantee or grantor of a multi-party deed.
 - **New pulls:** DB 7:453 (Elijah Cook, 1785), DB 6:93 (Musick to Johnson, 1781), DB 6:34 recording endorsement, DB 5:208 (attorney power, grantor name unclear).
+
+## Addendum 2: free Internet Archive deed-book, oath, vestry and survey scans (group 10)
+Read from the clerk's page images, 2026-11-28 (logs `group-10-*.md`).
+- **Elijah Cook, DB 7:453–454.** Peter Martin of Halifax County sold Elijah Cook of Pittsylvania 50 acres on Sandy Creek "where Elijah Cook now lives", 4 Jun 1785 (proved 20 Jun 1785). One boundary runs "to George Cooks (Senr) corner pine", and "George Cook Sener" witnesses [[S-pittsylvania-db7-p453-454-martin-to-elijah-cook-1785]]. So George Cook Sr. still held Sandy Creek land (or at least a corner) in 1785, which gives H4 and the Sr. cluster slightly more weight. No relationship is stated.
+- **DB 6:93.** "Elixeous [?] Musick of Henry County" sold 97 acres on Sandy Creek to John Johnson of Cumberland County, made 29 Jul 1780 for £2000, recorded 17 Apr 1781 (the index said 18 Apr) [[S-pittsylvania-db6-p93-musick-to-johnson-1780]]. This is the same 97-acre figure as Musick's 2 Mar 1780 sale to George Cooke Jr. with different bounds, so it is not known whether these are one tract or two. The DB 6:34–35 recording date, 15 Aug 1780, is confirmed. Musick was "of Henry County" by July 1780, which fits a man leaving the area.
+- **1777 oath, IA original.** The fair copy has no George, Elijah, Elisha or Zachariah Cook and no Electious Musick; a Thomas Musick appears (sheet 284). The "Geo. -" fragment is one of three unfinished first names with no surname, so it is not a lead [[S-pittsylvania-oath-of-allegiance-1777-ia-1777oath-fair-copy]]. It is a fair copy of a fair copy, so the negative stays weak.
+- **Camden Parish vestry book, folios 1–49a (1767–1785).** No George, Elijah, Elisha, Musick, Flippin, Echols or Collie. John, Joseph, William and Benjamin Cook appear as collectors, sureties and processioners on the northern waters (Pigg River, Snow Creek). The three Sandy Creek processionings (1771, 1776, 1780) name no Cook, but they are for the county-line Sandy Creek and are not tied to the DB 6 tract.
+- **Surveys, claims, marriage bonds:** a weak negative, partly unread (see log).
+- **Effect:** H1, H2 and H4 stay `possible`; H3 for Pittsylvania land, 1768–1779, is now supported by both indexes and the DB 5 pages read, but not for order books, tithables, Lunenburg, Halifax or North Carolina. The question stays stalled.

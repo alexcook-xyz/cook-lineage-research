@@ -273,7 +273,7 @@ No sources/S-*.md files were created: no record naming a target was seen.
 - **Leads (not evidence):** none
 - **Next:** User must sign in to FamilySearch and check catalogs 415497 and 375513 for film numbers and whether images are viewable at home or only at a center/affiliate library.
 
-### 2026-11-28 — Internet Archive: Pittsylvania Circuit Court Clerk uploads (uploader account BWatlington, vacourts.gov address)
+### 2026-11-28 — Internet Archive: Pittsylvania Circuit Court Clerk uploads (uploader account BWatlington)
 - **Searcher:** records-searcher
 - **Goal:** Find free digital images of deed books 1-5 (row 3).
 - **Search terms:** archive.org advanced search: pittsylvania AND (deeds OR order OR wills OR tithables OR abstracts), mediatype texts (two queries, 21 and 46 hits)
@@ -1032,7 +1032,7 @@ Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Item: the u
 
 Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free source (Internet Archive scan, downloaded by the user's approval; untrusted file, handled only with pdfinfo/pdftoppm, no code run from its directory). Plan rows 8 (Musick family records) and 3 (Pittsylvania 1767-1782, first arrival). No source file created: no Musick entry exists in this volume to cite.
 
-Working files (not part of the repo): PDF `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/grantee-M.pdf`; rendered pages in `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/pages-grantee-M/` (PNG, 40 dpi for survey pages, 80-110 dpi for pages 1, 58, and the crops of 109 and 113).
+Working files (not part of the repo): PDF `(local scratch directory, not in repo)`; rendered pages in `(local scratch directory, not in repo)` (PNG, 40 dpi for survey pages, 80-110 dpi for pages 1, 58, and the crops of 109 and 113).
 
 Volume structure learned (for reuse): a Cott Family Name Index ledger, "Grantee Index to Deeds, Trust Deeds, Liens, Etc., Pittsylvania County, Va." Columns: date of record, surname, given names (three columns by initial A-H / I-O / P-Z), grantor, kind of instrument, volume, page. Entries are alphabetical by surname, then chronological. The PDF holds several lettered sections with their own ledger page numbers (Ma-Mc starts at PDF p. 2 as ledger p. 1; Me at PDF p. 47; Mi-Mu at PDF p. 51 onward, e.g. ledger p. 8 = PDF p. 58, ledger p. 14 = PDF p. 85, ledger p. 35 = PDF p. 106). Late entries indexed 13 Nov 2007 are at the end (PDF p. 115, ledger p. 44). Volume numbers are deed book numbers, for example "Vol. 1 Page 350".
 
@@ -1173,7 +1173,7 @@ Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Plan row 3 
 
 Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free source (Internet Archive scan, https://archive.org/details/grantor-index-june-1765-1889, downloaded with the user's approval; untrusted file, handled only with pdfinfo/pdftoppm and `python3 -I` for image crops, nothing run from its directory). Plan rows 8 and 3. Source created: [[S-pitt-grantor-index-m-p36-musick-1780-1781]].
 
-Working files (not part of the repo): PDF `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/grantor-M.pdf` (115 pages, image only); renders in `.../scratchpad/ia-index/pages-grantor-M/` (50 dpi surveys, 110 dpi for PDF pp. 109-111, a crop of p. 110).
+Working files (not part of the repo): PDF `(local scratch directory, not in repo)` (115 pages, image only); renders in `.../scratchpad/ia-index/pages-grantor-M/` (50 dpi surveys, 110 dpi for PDF pp. 109-111, a crop of p. 110).
 
 Volume structure: Cott ledger, grantor index; columns date of record, surname, given names (three columns by initial), grantee, kind of instrument, volume (deed book), page. Alphabetical by surname, then chronological. Ledger page numbers restart by section: PDF p. 100 = ledger p. 26 (Motley 1883-87), PDF p. 108 = ledger p. 34 (Muse), PDF p. 110 = ledger p. 36, PDF p. 111 = ledger p. 37, PDF p. 112 = ledger p. 38.
 
@@ -1228,3 +1228,360 @@ Volume structure: Cott ledger, grantor index; columns date of record, surname, g
 - **Index or original:** Index.
 - **Leads (not evidence):** none
 - **Next:** none.
+
+# Q-15 research log, record group 10, target db5-208 (Pittsylvania Co. Deed Book 5, IA item db5_20260520 "PittCoDB5")
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free Internet Archive item, 550 leaves, image-only (no usable OCR). Page images fetched singly (https://archive.org/download/db5_20260520/page/n<leaf>_w800.jpg; the 1.6 GB PDF and 1 GB jp2 zip were not downloaded). Working files in scratchpad ia-scans/db5-208/. Leaf-to-page mapping: leaf 200 = p. 194; leaf 214 = p. 208; leaf 165 = p. 160 (leaf = printed page + 6 in this range). Names transcribed as written; plan rows 3 and 8.
+
+### 2026-11-28 - IA db5_20260520: leaf-to-page mapping
+- **Searcher:** records-searcher
+- **Goal:** Locate DB 5 pp. 160-163 and 208 without downloading the whole volume; row 3.
+- **Search terms:** leaf 200 (printed p. 194), then 214, 213
+- **Coverage:** metadata, page_numbers.json (empty page numbers), leaves 200, 214.
+- **Result:** found
+- **Findings:** printed page numbers sit at top left of each leaf; offset +6 holds from p. 160 to p. 210.
+- **Index or original:** original deed-book images.
+- **Leads (not evidence):** none
+- **Next:** read pp. 208-210, 160-164.
+
+### 2026-11-28 - Pittsylvania DB 5:208-209, power of attorney to Harmon Cook
+- **Searcher:** records-searcher
+- **Goal:** Read the 1779 attorney power flagged in the group 9 index logs ("George Erond [?] al"); check for George Cook, Elijah Cook, Musick.
+- **Search terms:** leaves 214-215 (pp. 208-209); names George/Elijah/Cook/Musick/Music
+- **Coverage:** pp. 208, 209 full; p. 208 page foot cut at the witness list.
+- **Result:** found
+- **Findings:** [[S-pitt-db5-p208-209-evnn-loddiany-poa-to-harmon-cook-1779]]. Grantors "George Evnn [?]" ("Geo. Evnn" signature) and Cristina Loddiany [spelling varies], attorney Harmon Cook Gent; witnesses "Syrus L Roberts" [Cyrus L. Roberts, ~60%] and "Abraham Evnn [?]"; proved 20 Jul 1779, test Will. Tunstall. The group 9 reading "Erond" is wrong for the clerk's text: the letters are Ev/Er + two minims. No George Cook, Elijah Cook or Musick on these pages. Harmon Cook's relation to George Cook not stated.
+- **Index or original:** original image.
+- **Leads (not evidence):** none
+- **Next:** none for Q-15; surname reading of the grantor needs a second reader if it matters (Evnn/Ernn; not Cook kin).
+
+### 2026-11-28 - Pittsylvania DB 5:209-210, Waldrope to Harmon Cook (adjoining text)
+- **Searcher:** records-searcher
+- **Goal:** Witness/party scan of the deed that shares p. 209; George/Elijah/Musick.
+- **Search terms:** leaves 215-216 (pp. 209-210)
+- **Coverage:** pp. 209-210 full; p. 211 not opened.
+- **Result:** nothing found (no target names)
+- **Findings:** [[S-pitt-db5-p209-210-waldrope-to-harmon-cook-1778]]. Parties John Waldrope Sen. (mark), Hermon Cook, Anne Waldrope; witnesses James Mitchell, David Wade (mark), Stephen Bennet (mark). No George Cook, Elijah Cook or Musick.
+- **Index or original:** original image.
+- **Leads (not evidence):** none
+- **Next:** none.
+
+### 2026-11-28 - Pittsylvania DB 5:160-162, Harmon Cooke to Stephen Senter
+- **Searcher:** records-searcher
+- **Goal:** Read Harmon Cooke sales, 1779 (entry 160-163); target names.
+- **Search terms:** leaves 165-167 (pp. 160-162)
+- **Coverage:** p. 160 (end of Duncan deed, then start of Cook-Senter deed), 161, 162 in full. p. 159 not opened.
+- **Result:** found (no target names)
+- **Findings:** [[S-pitt-db5-p160-162-harmon-cook-to-senter-1778]]. Harmon Cooke and Mary(ann) his wife (mark) to Stephen Senter, 260 ac Turkey Cock Creek, dated 26 Nov 1778, acknowledged 20 Apr 1779, 130 pounds; land from patent to Eliska Eastis, 16 Aug 17(6?)[digits cut at page break], sold by Eastis to Harmon Cook. No witnesses named. Duncan deed on p. 160 top (witnesses Chas Burton, Thomas Billing, William Billinger (mark), Francis Ross (mark)) is not Cook-related. No George/Elijah Cook or Musick.
+- **Index or original:** original image.
+- **Leads (not evidence):** none
+- **Next:** none.
+
+### 2026-11-28 - Pittsylvania DB 5:163-164, Harmon Cook to Aaron Mackenzie
+- **Searcher:** records-searcher
+- **Goal:** Same, entry 163.
+- **Search terms:** leaves 168-169 (pp. 163-164)
+- **Coverage:** p. 163 full, p. 164 to the court acknowledgment (foot not read); p. 165 not opened.
+- **Result:** found (no target names)
+- **Findings:** [[S-pitt-db5-p163-164-harmon-cook-to-mackenzie-1779]]. Harmon Cook (and Maryan/Maryann, wife) to Aaron Mackenzie of Henry Co., 162 ac Turkey Cock Creek, 20 Apr 1779, 59 pounds; chain: George Jefferson to William Tredaway [?], 20 Mar 1771. No witnesses named. No George/Elijah Cook or Musick.
+- **Index or original:** original image.
+- **Leads (not evidence):** none
+- **Next:** none.
+
+### 2026-11-28 - Pittsylvania DB 5 contemporary front index
+- **Searcher:** records-searcher
+- **Goal:** Scan the DB 5 index for Cook and Musick (and variants Musick, Music, Mewsick, Muzick, Cooke, Cocke).
+- **Search terms:** C and M sections, plus S, leaves 3-5.
+- **Coverage:** leaves 3 (A-G), 4 (H-M), 5 (O-T) read at 1553-1600 px; leaves 1-2 are blank/title; leaves 6-9 not read as index (leaf 6+ are deeds). N-O and U-Z sections not separately read.
+- **Result:** found (negative for target names)
+- **Findings:** [[S-pitt-db5-front-index-1770s-cook-musick-check]]. Cook entries: "Cook from Ernn 208", "Cook from Walaropc 209"; also "McKinsey from Cook 163", "Senter from Cook 160". No Musick/Music line in the M section; no George or Elijah Cook line. Index covers about pp. 1-542 and is grantee-first, so grantor-only Cook sales appear under buyers.
+- **Index or original:** derivative index plus originals.
+- **Leads (not evidence):** none
+- **Next:** none.
+
+### 2026-11-28 - Pittsylvania DB 4b and other volumes
+- **Searcher:** records-searcher
+- **Goal:** Scan DB 4b index for Cook/Musick.
+- **Search terms:** n/a
+- **Coverage:** Not reached. Only item db5_20260520 was in assignment; no DB 4b item id was given and none was searched for.
+- **Result:** inaccessible (not located)
+- **Findings:** none.
+- **Index or original:** n/a
+- **Leads (not evidence):** none
+- **Next:** Find the IA item for Pittsylvania DB 4 / 4b if wanted (series likely named like "PittCoDB4"); DB 5 pp. 1-540 beyond the pages above not read (a full-text page scan for Cook/Musick as witnesses was not done).
+
+# Q-15 research log, record group 10 (Pittsylvania Co., VA Deed Book 6, Internet Archive items db6a_20260521 and db6b_20260526)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free Internet Archive images, downloaded under the user's standing permission to scratchpad ia-scans/db6-93/ (untrusted; only viewed, cropped with PIL under `python3 -I`; nothing executed from there). Source created: [[S-pittsylvania-db6-p93-musick-to-johnson-1780]]. Existing source re-checked: [[S-pittsylvania-db6-p34-35-musick-to-cooke-1780]].
+
+### 2026-11-28 — Internet Archive: db6a_20260521 / db6b_20260526 metadata and leaf calibration
+- **Searcher:** records-searcher
+- **Goal:** Locate DB 6 p. 93, 34-35 in the IA scans.
+- **Search terms:** item metadata; page images n38, n39, n50
+- **Coverage:** metadata of both items (DB6A.pdf ~876 MB, 255 leaves; DB6B.pdf ~889 MB, 271 leaves; no OCR text, page_numbers.json empty). Not downloaded in full; individual page JPGs fetched from /download/<id>/page/n<k>.jpg (worked, ~3 MB each).
+- **Result:** found
+- **Findings:** In DB6A leaf = stamped page + 4 (n50 = p. 46, 17 Apr 1780 Pilson to Thomas; n38 = p. 34; n39 = p. 35; n97 = p. 93). DB6B not opened (it starts after DB6A's end; not needed).
+- **Index or original:** Original (clerk's deed book image).
+- **Leads (not evidence):** none
+- **Next:** read n97.
+
+### 2026-11-28 — Pittsylvania DB 6 p. 93 (leaf n97 of db6a_20260521)
+- **Searcher:** records-searcher
+- **Goal:** Full spelling, acreage, creek, witnesses, neighbors of Musick to John Johnson (index: 18 Apr 1781).
+- **Search terms:** page read directly; crops at full resolution (3158x5138)
+- **Coverage:** p. 93 whole page, all lines.
+- **Result:** found
+- **Findings:** [[S-pittsylvania-db6-p93-musick-to-johnson-1780]]. Deed dated 29 Jul 1780; "Elixeous [?] Musick of Henry County" to John Johnson of Cumberland County; "Two thousand pounds Virginia Currency"; "Ninety Seven Acres ... on Sandy Creek"; bounds mention "Coll. Wynnes" and "James Collins [?]"; witnesses [R?] Williams, John Cox, John Dickinson, Haynes Morgan; Musick signs by mark; court 17 Apr 1781 (not 18 Apr), proved by three witnesses. Endorsement names "John Mack [?] and Sarah his Wife" (does not match the deed).
+- **Index or original:** Original (deed-book image).
+- **Uncertain readings:** given name (x/e letters; medium confidence; differs from "Electious" of DB 6:34-35); "Collins"; "[R?] Williams"; "John Mack"; "Haynes Morgan" fairly sure.
+- **Leads (not evidence):** none new. Acreage equals the 97 acres of DB 6:34-35; stated as observation only.
+- **Next:** second reader for the given name and the endorsement.
+
+### 2026-11-28 — Pittsylvania DB 6 pp. 34-35 recording endorsement (leaves n38, n39)
+- **Searcher:** records-searcher
+- **Goal:** Confirm recording date (index: 15 Aug 1780).
+- **Search terms:** direct read of both pages
+- **Coverage:** pp. 34 (lower half, deed opening) and 35 (full page); crop of preamble at full resolution.
+- **Result:** found
+- **Findings:** p. 35: "At a Court held for Pittsylvania County the 15th day of August 1780 This Indenture of Bargain and Sale from Electious Musick to George Cooke was proved by the Oaths of the Witnesses thereto ... Test Will Tunstall Clk". Confirms 15 Aug 1780. Preamble: "Between Electious Musick Senior ... and George Cooke Junior"; "Seventy five pounds Current money of Virginia" (agrees with existing source); witnesses read as William Collie [?], Elisha Cooke (his mark), Ben Echols [?]. Top of p. 34 holds a different instrument (Bryan Ward Norton to David Dalton, endorsed 15 Aug 1780), not part of the deed. No change needed to the existing source; I did not re-transcribe it in full.
+- **Index or original:** Original (IA image of the deed book; same book as the repo's local copy).
+- **Leads (not evidence):** none
+- **Next:** none.
+
+### 2026-11-28 — Pittsylvania DB 6, other Cook / Musick deeds
+- **Searcher:** records-searcher
+- **Goal:** Look for other Cook or Musick deeds in DB 6.
+- **Search terms:** Cook, Cooke, Musick, Elixeous, Electious, Elexicous
+- **Coverage:** Not a page-by-page read of DB 6 (about 500 handwritten pages, no OCR text). Relied on the Grantor/Grantee index readings (group-9): DB 6 entries are 6:34 (Musick to Cooke Jr), 6:93 (Musick to Johnson), 6:57 (Harmon Cook to Jeremiah Ward, 17 Oct 1780) and 6:238 (Harmon Cook, to Hundley Vaughan [grantee-index], 19 Feb 1782). Pages 34, 35, 93 and 46 read.
+- **Result:** nothing found (beyond the indexed entries); coverage limited as above
+- **Findings:** No new Cook/Musick deed seen. The Harmon Cook entries (6:57, 6:238) were not opened; Harmon is outside the George/Electious question unless the analyst wants them.
+- **Index or original:** Index only for these pages.
+- **Leads (not evidence):** none
+- **Next:** open 6:57 and 6:238 (leaves ~n61, ~n242, found in DB6A or DB6B by offset check) if wanted; page-by-page scan of DB 6 not done.
+
+# Q-15 research log, record group 10 (Pittsylvania Deed Book 7 images, Internet Archive items db7a_20260526 and db7b_20260527)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free Internet Archive items (uploader (IA uploader, Pittsylvania Circuit Court Clerk), 26-27 May 2026), "PittCoDB7A" and "PittCoDB7B", handwritten deed book images, no usable OCR. Downloads are untrusted; only single JPEG 2000 page images were pulled (about 3 MB each) from inside DB7A_jp2.zip and DB7B_jp2.zip with curl, converted with Pillow (python -I), and viewed with the image reader. The 1 GB PDFs were not downloaded. Working files: scratchpad ia-scans/db7-453/a and /b (not in the repo). No login, no payment.
+
+### 2026-11-28 — Internet Archive db7a_20260526 / db7b_20260527: item metadata and page-to-leaf mapping
+- **Searcher:** records-searcher
+- **Goal:** Locate DB 7 p. 453 and p. 106-107 inside the two items; plan row 3.
+- **Search terms:** metadata API; scandata; leaf probes DB7A 100, 246; DB7B 5, 100(not viewed), 219.
+- **Coverage:** DB7A = 247 leaves; leaf 0100 = printed p. 88 (so DB7A leaf = page + 12 near pp. 88-107); leaf 0246 = about p. 234. DB7B = 253 leaves; leaf 0005 = p. 239; leaf 0219 = p. 451. Offset is not constant (the books have unnumbered leaves). No printed page numbers in IA metadata (page_numbers.json empty).
+- **Result:** found
+- **Findings:** p. 453 = DB7B leaf 0221; p. 454 = leaf 0222; p. 106 = DB7A leaf 0118; p. 107 = leaf 0119.
+- **Index or original:** Original deed book images (clerk's fair copy), not an index.
+- **Leads (not evidence):** none
+- **Next:** read pp. 453-454, 107.
+
+### 2026-11-28 — Pittsylvania DB 7:453-454 (DB7B leaves 0221-0222): Peter Martin to Elijah Cook, 4 Jun 1785
+- **Searcher:** records-searcher
+- **Goal:** Read the deed behind the Grantee Index entry "Elijah, 20 Jun 1785, from Peter Martin, B & S, 7:453"; plan rows 3, 8.
+- **Search terms:** Cook, Elijah, Martin, Musick, Holloway, Flippin/Flippen on pp. 451-454.
+- **Coverage:** pp. 453 (full page at 1300 px width plus an enlarged crop of the Martin deed) and 454 (full page) read. Pp. 451 and 452 viewed (451 at 700 px; 452 full) as neighbours.
+- **Result:** found
+- **Findings:** [[S-pittsylvania-db7-p453-454-martin-to-elijah-cook-1785]]. Key text: "Peter Martin of Halifax County and State of Virginia of the one part and Elijah Cook of Pittsylvania County and State aforesaid of the other part" ... "a tract or parcel of land in Pittsylvania County on Sandy Creek where Elijah Cook now lives containing by estimation fifty acres"; bounds run "to George Cooks (Senr) corner pine" and "to John Watters corner formerly called James Collies"; ten pounds Virginia currency; witnesses "Zachariah Butt, Uriah [his mark] Owen / George Cook Sener, John [mark] Everett"; proved 20 Jun 1785 by three witnesses. Peter Martin signs by mark. No Musick, Holloway or Flippin name on pp. 451-454. No relationship statement between Elijah and George.
+- **Index or original:** Original deed book image.
+- **Leads (not evidence):** none
+- **Next:** Elijah's 1782 household (4 white) and George Sr.'s adjoining land (corner pine) can be tied to the Sandy Creek plats; look for Peter Martin of Halifax in Halifax deeds (not done).
+
+### 2026-11-28 — Pittsylvania DB 7:106-107 (DB7A leaves 0118-0119): re-read of the court year digit and testimonium
+- **Searcher:** records-searcher
+- **Goal:** Settle the court-endorsement year digit and the testimonium word ("Junor" or "Senor") left uncertain in S-pittsylvania-db7-p106-107-cook-jr-to-cook-sr-1783; plan row 1.
+- **Search terms:** p. 107 testimonium; court endorsement; witnesses.
+- **Coverage:** p. 107 read in full at 1300 px, with 3x enlargements of the testimonium and the court-date line. p. 106 not re-viewed (leaf 0118 downloaded only).
+- **Result:** partial
+- **Findings:** [[S-pittsylvania-db7-p107-reread-ia-leaf119-1783]]. Court year: "At a Court held for Pittsylvania County the 19th Day of August 178[?]" with the last digit cut off at the right edge of this image as well; not readable. Testimonium: "In Witness whereof the said George Cook [Junor or Senor] and Ruth his wife Have hereunto Set there Hands and Seals the Day and year above Written"; my reading of the word is "Junor" (about 60 percent), opposite to the earlier reading "Senor"; uncertain, second reader needed. Witnesses re-confirmed: Wm. Hedgpeth, Joseph Flippen, James Holloway, Elijah Cook, Orlando Smith. Ruth does not sign.
+- **Index or original:** Original deed book image.
+- **Leads (not evidence):** none
+- **Next:** Year digit may be read from the Order Book entry for 19 Aug 1783 (not searched) or from the neighbouring deeds on p. 106 and 108 that share the same court day; the next deed on the page after 107 would carry the same court day.
+
+### 2026-11-28 — Other DB 7 pages opened for calibration
+- **Searcher:** records-searcher
+- **Goal:** Find Cook, Musick, Holloway, Flippin names on pages opened; row 3.
+- **Search terms:** same names.
+- **Coverage:** DB7A leaf 0100 (p. 88, Warren to Jenkins, 19 Aug 1783, first page only legible part), leaf 0246 (Holland to Shockley, Sept 1783 / Slayden to Mann, 27 Mar 1784), DB7B leaf 0005 (p. 239, Slayden to Colley), leaf 0219 (p. 451, Bobbett to Bobbett / Devan bill of sale). Viewed at 700 px, not transcribed.
+- **Result:** nothing found
+- **Findings:** No Cook, Musick, Holloway or Flippin name seen on those pages (reading at 700 px only; not a line-by-line search). Court-day on p. 88 is 19 Aug 1783, the same day as the Cook Jr. deed proof.
+- **Index or original:** Original images.
+- **Leads (not evidence):** none
+- **Next:** none
+
+# Q-15 research log, record group 10 (Pittsylvania Co., 1777 Oath of Allegiance, Internet Archive item 1777oath)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free Internet Archive file, downloaded under the user's standing permission. The 1.28 GB PDF was not fetched; the 20.7 MB derivative 000141000001_jp2.zip (19 JP2 leaves) was fetched instead. Untrusted file: unzipped into its own directory, converted with python -I and PIL only, no code run from there. Working files: scratchpad/ia-scans/oath1777/ (jp2 dir, png/ at 1800 px, crops/ at full resolution). Names sought: George Cook, Elijah, Elisha, Zachariah, Electious Musick, Collie, Echols, Holloway, Flippin, the "Geo.--" fragment.
+
+### 2026-11-28 — Internet Archive: item 1777oath, metadata and download
+- **Searcher:** records-searcher
+- **Goal:** Get the original-image copy of the 1777 oath lists to compare with the VAGenWeb transcription.
+- **Search terms:** archive.org/metadata/1777oath; file list.
+- **Coverage:** Item has title "Oath of Allegiance 1777", creator "S.H. Jones", date 1930-11-08, description "Copied from the original record by S.H.Jones in 1930". Files: 000141000001.pdf (1,283,515,582 bytes, image container), 000141000001_jp2.zip (20,735,740 bytes, 19 files); OCR derivatives empty ("language not currently OCRable"). Downloaded the zip only.
+- **Result:** found
+- **Findings:** 19 leaves, 000141000001_0000 to _0018. Item is a copy of the manuscripts, not the manuscripts.
+- **Index or original:** Image of a handwritten fair copy (1930 copy, certified 1939), not the 1777 manuscripts. No OCR text; read by eye.
+- **Leads (not evidence):** none
+- **Next:** Read all leaves.
+
+### 2026-11-28 — 1777oath leaves _0000 to _0018 (sheets 275-293), full read
+- **Searcher:** records-searcher
+- **Goal:** Read every page for the target names; compare with [[S-pittsylvania-oath-of-allegiance-1777-vagenweb-transcription]]; plan rows on Pittsylvania 1767-1782 presence.
+- **Search terms:** Cook, Cooke, Cock, Coke; George; Elijah; Elisha; Zachariah; Electious/Elexius/Musick/Music/Mussick; Collie, Colley, Collier, Collom; Echols; Holloway/Halloway; Flippin; unfinished "Geo.", "James", "Joseph", "Malachiah".
+- **Coverage:** All 19 leaves viewed at 1800 px (17 leaves of lists, 1 certificate leaf, 1 blank leaf). Full-resolution crops of Cook rows (sheets 276, 285, 286), the Ward list foot (284), the Witcher fragment rows (275), and Mahoney (277).
+- **Result:** found
+- **Findings:** [[S-pittsylvania-oath-of-allegiance-1777-ia-1777oath-fair-copy]]. Cook entries: Joseph Cook (276), John Cock and Benjamin Cook (285, both marked "Hy Coly"), William Cook and John Cook (286). No George Cook, no Elijah/Elisha/Zachariah Cook, no Electious/Elexius Musick, no Flippin. Thomas Musick present on Ward's list (284), spelled "Musick", dated "Sept. 12". Collie: William Collie, Charles Collie (281); also Thomas Colley, Shadrick Collier (284), Samuel Calland (285), Joseph Collom, William Collom (290). Echols: Joseph Echols (280), Richard Echols (281). Holloway: "Richard Halloway" (284). Fragment: "Geo. -", "James -" and "Joseph -" are three separate unfinished entries on sheet 275 (William Witcher's list), not a closing fragment.
+- **Index or original:** Image of a 1930/1939 copy; the 1777 manuscripts not seen.
+- **Leads (not evidence):** none
+- **Next:** Film of the actual manuscripts (LVA Pittsylvania reel 221 per the VAGenWeb source note; the camera stamp on sheet 275 reads Reel 265, uncertain) would show the originals. Thomas Musick 1777 may connect to the Musick family; not tested.
+
+### 2026-11-28 — Comparison of 1777oath images with the VAGenWeb transcription
+- **Searcher:** records-searcher
+- **Goal:** Report every difference between the images and [[S-pittsylvania-oath-of-allegiance-1777-vagenweb-transcription]].
+- **Search terms:** each entry the VAGenWeb source file transcribes.
+- **Coverage:** All names the source file lists, plus its structural statements.
+- **Result:** partial
+- **Findings:** Differences. (1) "Thomas Music" (VAGenWeb) is "Thomas Musick" in the image (dotted i, final "ck"); the source file's note that no Musick spelling appears is wrong. (2) The Cook entries Joseph Cook, John Cock, Benjamin Cook are in the second (right-hand) name column in the image, with Henry County ("Hy Coly") written beside John Cock and Benjamin Cook; VAGenWeb gives no columns or residences. William Cook and John Cook are in the left column. (3) The "Geo.--/James--/Joseph--" fragment is not final. In the image these are three entries on sheet 275 in Witcher's list: second column "Geo. -", second column "James -", left column "Joseph -". The heading "Last name of next three unknown" is not in the image. (4) "Malachiah (unknown)": image "Malachiah -" on sheet 283, in Geo. Carter's list; matches. "(unknown) Perdew": image "- Perdew, Oct. 27, 1777" on sheet 280 under William Short's list; matches. "(unknown) Mahaney": the image reads "Mahoney" (sheet 277, after Nehemiah Marton, given name missing) on the unheaded sheet that follows John Wilson's list; a "Hugh Mahoon" appears on sheet 289; the spelling "Mahaney" is not in the image. (5) Ordering: VAGenWeb opens with George Carter's list; image order is Witcher, Wilson, Lankford, Morton, Short, Kennon, Coleman, Carter, Ward, Roberts, Hankins, C. Shelton, Pain, Payne, Dillard, A. Shelton. Two sheets (277, 281) have no heading and continue the list before them. VAGenWeb gives no dates; the image has signing dates, e.g. Roberts 3 May 1778, Hankins 10 Jun 1778, Morton 13 Mar 1778, Short 30 Dec 1778 (as written), Kennon 1 Jan 1778. (6) The image has a certificate (sheet 292) and a note (sheet 293) not in the web text; the web source note says "typewritten"; the image is handwritten. (7) Matches: John Cook, William Cook (Hankins); Mustain names (Crispin Shelton); Joseph Cook (Wilson); William Collie and Charles Collie, Echols, Halloway were not in VAGenWeb's quoted extract, so no comparison. No full name-by-name collation of the other roughly 1,000 names was done.
+- **Index or original:** Image of the fair copy.
+- **Leads (not evidence):** none
+- **Next:** The analyst should correct the VAGenWeb source file note on Musick.
+
+# Q-15 research log, record group 10 (IA scans: surveys, claims, minutes, marriage bonds)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Downloads are in the session scratchpad under ia-scans/surveys-claims/ (untrusted, only opened with pdftoppm/PIL; no code run from there). No index exists inside these items; pages were scanned as contact sheets then enlarged.
+
+### 2026-11-28 — Internet Archive: item discovery
+- **Searcher:** records-searcher
+- **Goal:** Confirm the six items exist and what files they hold.
+- **Search terms:** metadata API for olsb2, olsb3, old-land-survey-book-1, pittcorevolutionary-war-claims, 000141000001.7, 1785_20250812
+- **Coverage:** metadata only
+- **Result:** partial
+- **Findings:** "olsb2" returns empty metadata; the Book 2 item is "OLSB2" (capital letters), 178 PDF pages. olsb3 (101 pp, c.1820), old-land-survey-book-1 (367 pp, first entry Feb 1746), claims (5 PDFs: TOC 25 pp, 1-6, 7-18, 19-28, 29-71), marriage licenses (8 PDFs 1767-1787, djvu OCR useless: handwriting/garbage). 000141000001.7 PDF is 185 MB: NOT downloaded.
+- **Index or original:** n/a
+- **Leads (not evidence):** none
+- **Next:** read images
+
+### 2026-11-28 — OLSB2 (Old Land Survey Book 2), PDF images 1-56, plus 25, 29, 40, 80, 120, 160, 178 spot checks
+- **Searcher:** records-searcher
+- **Goal:** Cook, Musick, Holloway, Flippin, Echols, Collie survey entries 1767-1785, Sandy Creek, chain carriers.
+- **Search terms:** read at 85-150 dpi; names above and variants Cooke, Music, Musick, Flippen, Collie, Colly
+- **Coverage:** images 1-56 viewed as 2-up sheets at 85 dpi (entries are small; fine print only checked at 150-170 dpi on images 1, 9, 10, 15, 25, 29). Images 57-178 not read.
+- **Result:** partial
+- **Findings:** One Holloway hit: John Ellis 400 ac on Sycamore "Extending towards Smiths & Holloway Lines" (1771) [[S-pitt-olsb2-img10-ellis-sycamore-holloway-lines-1771]]. Image 9: Ben Clements jr "between Loving and Holloways" (uncertain, undated). I did NOT record a Cook, Musick, Flippin, Echols or Collie entry in the images I viewed, but my 85 dpi pass of images 2-8, 11-56 was a skim: negatives there are weak (low confidence), not exhaustive. Entries are surveyor-dated 1770-1773 with transfer notes to 1780.
+- **Index or original:** original (clerk's survey book image)
+- **Leads (not evidence):** none
+- **Next:** a careful 150 dpi re-read of images 11-56 and a first read of 57-178 for Sandy Creek surveys.
+
+### 2026-11-28 — Old Land Survey Book 1, PDF images 1-2, 20, 40, 60, 80, 100, 130, 160, 200, 205-252, 250, 300, 360-367
+- **Searcher:** records-searcher
+- **Goal:** same names, 1746-1785.
+- **Search terms:** same
+- **Coverage:** Sparse probes (about 70 of 367 pages) at 30-80 dpi; images 205-252 (printed pp. 209-240, surveys 1763-1773, mostly Banister/Mayo/Smith River waters) read at 75 dpi top-of-page only; end pages 361-367 (surveys 1782 by Joshua Stone, Mel. Spraggins, Hutchings) viewed at 40 dpi, one page (362, printed 365) at 100 dpi.
+- **Result:** nothing found
+- **Findings:** No Cook, Musick, Flippin, Echols, Collie or Holloway line seen in the portions read. Printed p. 365: 27 Mar 1782 survey for James Carr (not relevant). Weak negative: only top halves of pages read.
+- **Index or original:** original
+- **Leads (not evidence):** none
+- **Next:** full read of images 253-360 (surveys 1773-1782, the Sandy Creek era).
+
+### 2026-11-28 — Old Land Surveys Book 3 (olsb3), images 1-12 at 60 dpi
+- **Searcher:** records-searcher
+- **Goal:** same names
+- **Search terms:** same
+- **Coverage:** 12 of 101 pages, contact sheet only (illegible at that size; date c.1820 so mostly out of range)
+- **Result:** partial
+- **Findings:** none legible
+- **Index or original:** original
+- **Leads (not evidence):** none
+- **Next:** probably out of range (c.1820); low priority.
+
+### 2026-11-28 — Pitt Co Revolutionary War Claims: TOC and sample pages
+- **Searcher:** records-searcher
+- **Goal:** find claims by Cook, Musick, Holloway, Flippin, Echols, Collie
+- **Search terms:** same names
+- **Coverage:** TOC PDF (25 pp) rendered; pages from the 19_28 and 29_71 PDFs opened at 80 dpi. I did not complete a name-by-name read.
+- **Result:** partial
+- **Findings:** No hit recorded. Per-page results of my views were not retained, so this is NOT a reliable negative. Images 1_6 and 7_18 not read.
+- **Index or original:** original claim papers / TOC
+- **Leads (not evidence):** none
+- **Next:** re-read the TOC for the six surnames, then pull the cited pages.
+
+### 2026-11-28 — Pittsylvania marriage licenses/bonds, 1777-1780 (1777_1780.pdf, all 42 pp) and 1781-1782 (pp 1-12 of 21)
+- **Searcher:** records-searcher
+- **Goal:** marriage bonds for Cook, Musick, Holloway, Flippin, Echols, Collie; a Ruth marrying a Cook
+- **Search terms:** read bond text and signatures at 80 dpi
+- **Coverage:** 1777_1780: pp 1-33 viewed as contact sheets (4 pages per view, bonds of 1777-Dec 1780; one sheet each of pp 1-2 and the sheets s00-s10 covering most pages); 1781_1782: first 16 pages viewed. Not opened: 1767_1769, 1770_1771, 1773_1776, 1783_1784, 1785, 1787 (downloaded, 8 PDFs total, only the thumbnail of 1767_1769 p.1 seen).
+- **Result:** nothing found
+- **Findings:** No bond naming Cook, Musick, Holloway, Flippin, Echols or Collie, and no Ruth, in the pages viewed. Clerk Joseph Akin signs as witness/surety throughout; Col. William Tunstall addressed. Hands are legible, but names in surety lines were read at 80 dpi only (moderate confidence).
+- **Index or original:** original bonds (photocopy images)
+- **Leads (not evidence):** none
+- **Next:** read 1783_1784, 1785 (Ruth Pruitt/Pruett Cook bond would be expected before 1783: her father Samuell Pruett's will names daughter Ruth Cook), 1767-1776.
+
+### 2026-11-28 — William Tunstall Clerk Minutes (000141000001.7)
+- **Searcher:** records-searcher
+- **Goal:** minutes entries for the six surnames
+- **Search terms:** n/a
+- **Coverage:** none
+- **Result:** inaccessible
+- **Findings:** Not downloaded (185 MB PDF; 108 MB jp2 zip).
+- **Index or original:** n/a
+- **Leads (not evidence):** none
+- **Next:** parent to decide on a 185 MB download.
+
+# Q-15 research log, record group 10 (Camden Parish Vestry Book 1767-1852, vol. 1, Internet Archive item camden-parish-vestry-book-1)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free Internet Archive item (uploader BWatlington; metadata date 1768-06-26; title "Camden Parish Vestry Book 1767 1852 Vol 1 Pages 1-150"). Downloaded by standing user permission: six image-only PDFs of 25 leaves each (Pages_001-025 to Pages_126-150, about 25 MB), untrusted, opened only with pdfinfo/pdfimages/pdftoppm and the image reader; no code run from the download directory. There is no OCR text (the hOCR files are empty stubs). Working files (not in repo): `(local scratch directory, not in repo)` (PDFs; `png/` 80 dpi renders of every leaf; `hi/` 150 dpi crops). Plan rows 3, 4, 7, 8 (Pittsylvania 1767-1782 presence; FAN cluster neighbor evidence). Sources created: [[S-camden-vestry-f5-1768-nov-procession-william-cook]], [[S-camden-vestry-f9-f10-1770-john-joseph-cook-collectors]], [[S-camden-vestry-f13-14-1771-nov-procession-john-cook-william-cook]], [[S-camden-vestry-f18-f20-f24-1773-74-john-cook-chamberlayne]], [[S-camden-vestry-f27-1776-procession-benjamin-cook]], [[S-camden-vestry-f29-f30-1776-procession-sandy-creek]], [[S-camden-vestry-f40-1780-procession-sandy-creek]], [[S-camden-vestry-f51-1787-james-holloway-poor-account]].
+
+Volume structure learned: the images are a manuscript minute book, apparently a fair copy ("A Copy Test, Vincent Shelton C.V.C.P." signatures appear on 1780s leaves). The clerk's folio numbers are in parentheses at the top of each leaf. IA leaf order is NOT always folio order: in file Pages_001-025 the leaves at positions 11, 12, 13, 14 carry folios 13, 14, 11, 12. Vestries: 1767 (fol. 1); Jun 1768 (1); 25 Mar 1768 (2); Nov 1768 levy (3); processioning orders from it (4-6); 14 Jul and 12 Sep 1769 (6-8); 26 Jan 1770 levy (8-9); 23 Apr 1770 (9); 29 Nov 1770 levy (10); 28 Mar 1771 (11); 28 Nov 1771 levy and processioning orders (12-15); 28 May and 26 Nov 1772 (16-17); 25 Mar, 28 May, 24 Nov 1773 (18-21); 6 Jun and 3 Oct 1774 (22-24); 23 Feb, 25 May 1775 (24-25); 23 Feb 1776 levy and processioning orders (25-30); 28 Mar 1777 (30-31); 26 Mar 1778 (32); 12 Jan 1779 (33-34); Mar and 2 Oct 1779 (35); 18 Apr 1780 indenture, 22 Mar 1780 levy, processioning (36-41); 20 Jun 1780 indenture (42); 1781 (43); 1782 (44-46); 1783-1785 (46-49a). From the leaf after 49a (folio 50a, a receipt dated 22 Mar 1780 filed here) the volume turns to county overseers of the poor, 1788 (folio 51). Reader's note on scope: the Camden Parish vestry lists no tithables by name, only totals ("By 2362 Tythes"), so there is no precinct tithable list in this volume. Processioning lists are the only neighbor lists (1768, 1771, 1776, 1780).
+
+### 2026-11-28 — Internet Archive: camden-parish-vestry-book-1, metadata and file inventory
+- **Searcher:** records-searcher
+- **Goal:** Identify the item, its file set, and coverage; plan row 3.
+- **Search terms:** https://archive.org/metadata/camden-parish-vestry-book-1
+- **Coverage:** Six PDFs of 25 leaves each (150 leaves). hOCR/djvu files are empty stubs (89 to 6624 bytes), so no full-text search is possible.
+- **Result:** found
+- **Findings:** Item title "Camden Parish Vestry Book 1767 1852 Vol 1 Pages 1-150"; creator field BWatlington; subjects Vestry, Pittsylvania County, Genealogy. No statement of the repository holding the original volume (not verified anywhere in the item).
+- **Index or original:** Original-image scan (a clerk's copy; see structure note above). No transcript.
+- **Leads (not evidence):** none
+- **Next:** Download the six PDFs and read the 1767-1785 leaves.
+
+### 2026-11-28 — Internet Archive: Camden Parish Vestry Book, Pages 001-025 (folios 1-24)
+- **Searcher:** records-searcher
+- **Goal:** Read every leaf for Cook, Musick, Holloway, Flippin, Echols, Collie, Hedgpeth; vestrymen, processioning, levies, 1767-1774.
+- **Search terms:** Cook, Cooke, Cock, Musick, Music, Muzick, Electious, Elexius, Holloway, Holoway, Halloway, Flippin, Flippen, Echols, Eckols, Collie, Colly, Hedgpeth, Hedgepeth, Hedspeth; place Sandy Creek / Sandy River.
+- **Coverage:** All 25 leaves read at 80 dpi (folios 1-24 plus the misordered 11-14); folio 3 header, folio 9 line, folios 11-14 page numbers re-read at 100-150 dpi. Leaf edges are torn on folios 1-3, 6, 7 (lines at the right margin and a few at the left are lost).
+- **Result:** found
+- **Findings:** (1) Vestrymen 1767-1774: John Donelson, John Pigg, Hugh Innes, Crispin Shelton, George Rowland, John Willson, Peter Perkins, Thomas Dillard Jun., Abraham Shelton, Theophilus Lacey, Robert Chandler, William Witcher. Clerk Benjamin Lankford. No Cook, Musick, Holloway, Flippin, Echols, Collie or Hedgpeth among them. (2) COOK: John Cook, parish collector of the levy for 1768, appointed in place of George Rowland (26 Jan 1770 entry, fol. 9), bond "with John Salmon and Joseph Cook his Securitys" for 300 pounds; Joseph Cook returned 138 insolvents for 1768 (fol. 10); John Cook returned 113 insolvents for 1769 (fol. 10); John Cook later ordered to pay tobacco balance of 5337 lb to John Pigg, attorney for Richard Chamberlayne (the glebe land), for the Nov 1772 and 25 Mar 1773 vestries (fol. 18, 20); on 28 May 1773 John Cook is a security on the collectors' bond (fol. 18); [[S-camden-vestry-f9-f10-1770-john-joseph-cook-collectors]], [[S-camden-vestry-f18-f20-f24-1773-74-john-cook-chamberlayne]]. (3) William Cook as processioner on Chesnutt Creek / Pigg River in the Nov 1768 orders (fol. 5, with Robert Hill, Thomas Jones, Joshua Barton) and again in the Nov 1771 orders (fol. 14, with Robert Hill, Thomas Jones and Sinkfield Hill); John Cook and William Hind processioner on Snow Creek with James Talbot and James Dillard (fol. 14, 1771): [[S-camden-vestry-f5-1768-nov-procession-william-cook]], [[S-camden-vestry-f13-14-1771-nov-procession-john-cook-william-cook]]. (4) Nothing for George Cook, Elijah, Elisha, Joseph Flippin, Thomas Flippin, Echols, Collie, Hedgpeth, or any Musick/Music. (5) Collier (William, Thomas), Cox (John) appear: different surnames, not Collie or Cook. (6) A Sandy River church (reader and sexton Charles Barker, 1772-1777) and a "Sandy River Meeting house" (fol. 7, 1769) are named; these are not placed relative to any Cook land.
+- **Index or original:** Original-image scan (clerk's copy). No index.
+- **Leads (not evidence):** none
+- **Next:** Folio 15 names a Sandy Creek precinct on the county line (Terry, Metcalf, King); read for neighbors in 1771 and compare with 1776 and 1780.
+
+### 2026-11-28 — Internet Archive: Camden Parish Vestry Book, Pages 026-050 (folios 26-49a)
+- **Searcher:** records-searcher
+- **Goal:** Same; vestrymen, processioning orders and levies 1776-1785, with Sandy Creek precincts as neighbor evidence.
+- **Search terms:** as above, plus George Cook, Elijah, Elisha, Jr., Sr.; Sandy Creek, Sandy River, Burches Creek, Harrises Road.
+- **Coverage:** All 25 leaves read at 80 dpi (folios 26-49a); folios 30 and 40 top paragraphs re-read at 150 dpi. Everything dated 25 Feb 1785 is read; the vestry of 5 Apr 1785 (fol. 49a) lists the vestrymen. Folio 36 is an indenture of 18 Apr 1780 (apprentice Joana Hubbard) and folio 42 an indenture of 20 Jun 1780 (Anderson Atkinson), with no Cook.
+- **Result:** found
+- **Findings:** (1) 1776 processioning (order of vestry of 23 Feb 1776, return by last day of April), folios 27-30: "Benjamin Cook" appears with Thomas Black, William Young, Gideon Rucker, William Eastis and William Jamison, bounds "from the mouth of Snow Creek up south sides of the said Creek" ([[S-camden-vestry-f27-1776-procession-benjamin-cook]]). No George, Elijah, Elisha, John or William Cook in the 1776 orders. A "James Cox?" and "John Cox" appear on Sandy River and Smith River precincts (different surname). (2) 1776 Sandy Creek precincts: "Benjamin Terry, Elijah King, John Kirby and Henry Harden ... where the County line Crosses Sandy Creek" and "George Carter, Joseph Terry Jun, Robert Watters and David Terry ... Burches Creek" (fol. 30); on Sandy River "George Young, Samuel Shields, James Shields, James Cox?, Joseph Cuningham, John Morton and Randolph Gibson" (fol. 29): [[S-camden-vestry-f29-f30-1776-procession-sandy-creek]]. (3) 1780 processioning (order of Court, vestry of 22 Mar 1780, return 16 May), folios 37-41: Sandy Creek on the county line: "Jese Dodson, John Kirby, Mark Shelton, Thomas Shelton, Lazt [?] Dodson & Charles Lewis" ([[S-camden-vestry-f40-1780-procession-sandy-creek]]); Sandy River precincts on folio 41 (Southerland, McDaniel, Burton, Aston, Quinn; Poynon, Stokes, Hutchings, Hezekiah Pigg, Dillard, Smith, Fulton, Shields, Morton, Cunningham; John Wilson, William Wilson, Peter Wilson, John Owen, William Harrison, Constant and Nicholas Perkins, Sylvester Adams; Cunningham, Hampton, Morton, Oakes, Mark, Gresham, Burnett, Conn, Lanford, Mosley). No Cook, Musick, Holloway, Flippin, Echols, Collie or Hedgpeth in any 1780 precinct. (4) Folio 35 (2 Oct 1779): Henry County portion of Camden Parish split off ("Ordered that the Sheriff of Henry County be appointed to Collect that part of the Parish Levy ... in the said County of Henry"), so after 1779 the parish is Pittsylvania only. (5) Vestrymen 1776-1785: Donelson, Innes, C. Shelton, Willson, Dillard, Witcher, Tunstall, Todd, George Carter, Abraham Penn, Peter Perkins, John Pigg; 1779-1785 Benjamin Lankford, Daniel Shelton, Armistead Shelton, Reuben Payne, John Lark(s?), John Buckley, Thomas Terry, Haynes Morgan, William Harrison, Joshua Stone, Lodowick Tuggle, Jere White, John Parks, Thomas Tunstall, Jonas Taylor; clerk Vincent Shelton from 1779. No vestryman named Cook, Musick, Holloway, Flippin, Echols, Collie or Hedgpeth. (6) Levy lists, 1776-1785 (folios 25, 26, 31-34, 36, 43, 45-49): pensioner and claimant names only; no Cook, Musick, Holloway, Flippin, Echols, Collie or Hedgpeth. Tithable totals: 2306 (1776), 2259 (1777), 2848 (1778), 2807 (1779), 1604 (1781-82, after Henry County was cut off), 2080 (1783), 2120 (1784), 2000 (1785). (7) A Peter Perkins family note: "Constant Perkins" and "Nicholas Perkins" processioners on the Sandy River bounds (fol. 41, 1780); no relevance to the Cook cluster is shown.
+- **Index or original:** Original-image scan.
+- **Leads (not evidence):** none
+- **Next:** The 1776 Snow Creek Benjamin Cook: compare with the Benjamin Cook in the 1774 Pittsylvania gift (grantee index, group 9) and the 1777 Captain Roberts' list ("John Cock, Benjamin Cook"). A different search; no conclusion here.
+
+### 2026-11-28 — Internet Archive: Camden Parish Vestry Book, Pages 051-075 (folios 50a-?), leaves 1-3 only
+- **Searcher:** records-searcher
+- **Goal:** Check whether the volume has later-1785 or 1786 vestry entries and whether the parish book continues after 5 Apr 1785.
+- **Search terms:** as above.
+- **Coverage:** Leaves 1-3 of 25 read at 80 dpi (folio 50a receipt of 22 Mar 1780; folios 51, 52). Leaves 4-25 (folios 53 onward), and all of the files Pages_076-100, 101-125, 126-150 were downloaded but NOT read, because they fall after the 1767-1785 window set for this target. Gap stated precisely.
+- **Result:** partial
+- **Findings:** Folio 50a is a receipt of 22 Mar 1780 signed "L. Gwilim" (Lewis Gwillim) for 290 pounds of salary, copied by Crispin Shelton Jr., C.O.T.P. Folios 51-52 are the meeting of the Overseers of the Poor for the County of Pittsylvania, 1 Sep 1788 (claims for 1787 and 1788); folio 51 includes "To James Holoway for burying W. Shadrack Gossett ... 250" ([[S-camden-vestry-f51-1787-james-holloway-poor-account]]; spelling "Holoway" about 80 percent sure). That is outside the 1767-1785 window and not on Sandy Creek by itself.
+- **Index or original:** Original-image scan.
+- **Leads (not evidence):** none
+- **Next:** If the analyst wants 1786-1800 Cook or Holloway presence, read the rest of Pages_051-075 onward; these may carry the later poor-law lists, possibly further processioning returns.
+
+### 2026-11-28 — Synthesis of the target names (searcher's tally of the pages read, not a conclusion)
+- **Searcher:** records-searcher
+- **Goal:** For each requested surname, the first year it appears in this volume and whether any Sandy Creek link exists.
+- **Search terms:** Cook/Cooke, Musick (any spelling), Holloway (Holoway, Halloway), Flippin (Flippen), Echols, Collie, Hedgpeth (Hedgepeth); Sandy Creek / Sandy River.
+- **Coverage:** Folios 1-49a (1767 to 5 Apr 1785) read in full at 80 dpi; folios 50a-52 read; later leaves not read.
+- **Result:** partial
+- **Findings:** COOK: first appearance John Cook, collector for 1768 (collection set up in the Nov 1768 vestry; appointment entry dated 26 Jan 1770, fol. 9; the margin note "Jn Cook Collected this levy" on fol. 3 is the earliest sighting); Joseph Cook, 1768 insolvents and surety (fol. 9-10); William Cook, processioner Nov 1768 (fol. 5), and again 1771; Benjamin Cook, 1776 (fol. 27). George Cook, Elijah Cook, Elisha Cook: not in folios 1-49a. MUSICK (any spelling): not found. HOLLOWAY: not found in 1767-1785; "Holoway", James, in 1787 on fol. 51 (outside window). FLIPPIN/FLIPPEN: not found. ECHOLS: not found. COLLIE: not found (Collier, Collins, Collier only). HEDGPETH: not found. No Cook is placed on Sandy Creek or Sandy River by any processioning order read; the Sandy Creek precincts of 1771, 1776 and 1780 name Terry, Metcalf, King, Kirby, Harden, Carter, Dodson, Shelton and Lewis, none of whom is on the plan's FAN list. The Cooks in the book (John, Joseph, William, Benjamin) are in the Pigg River / Snow Creek / Chesnutt Creek area (northern Camden Parish) as inference from the bounds, not stated residence.
+- **Index or original:** Original-image scan, but the volume is a clerk's copy of the vestry minutes, so Result "found" for John, Joseph, William and Benjamin Cook is only for this copy.
+- **Leads (not evidence):** The parish divided in 1779 (Henry County part collected separately, fol. 35); the plan's Sandy Creek land may have been in a different vestry's bounds. The cluster's Sandy Creek may be in Camden Parish (DB 7 text per the plan) but the only Sandy Creek precincts processioned in 1771/1776/1780 are on the NC line; whether those are the same stream is not established.
+- **Next:** (1) Pittsylvania County Court order books (processioning returns for Sandy Creek and a Cook Sr./Jr. entry). (2) Compare the 1780 precinct (Burches Creek, Harrises Road) with the DB 6:34-35 bounds. (3) Test whether John/Joseph/William/Benjamin Cook of the vestry book is the same family as the Prince Edward George Cook; no link in this volume.

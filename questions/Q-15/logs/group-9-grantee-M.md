@@ -2,7 +2,7 @@
 
 Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free source (Internet Archive scan, downloaded by the user's approval; untrusted file, handled only with pdfinfo/pdftoppm, no code run from its directory). Plan rows 8 (Musick family records) and 3 (Pittsylvania 1767-1782, first arrival). No source file created: no Musick entry exists in this volume to cite.
 
-Working files (not part of the repo): PDF `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/grantee-M.pdf`; rendered pages in `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/pages-grantee-M/` (PNG, 40 dpi for survey pages, 80-110 dpi for pages 1, 58, and the crops of 109 and 113).
+Working files (not part of the repo): PDF `(local scratch directory, not in repo)`; rendered pages in `(local scratch directory, not in repo)` (PNG, 40 dpi for survey pages, 80-110 dpi for pages 1, 58, and the crops of 109 and 113).
 
 Volume structure learned (for reuse): a Cott Family Name Index ledger, "Grantee Index to Deeds, Trust Deeds, Liens, Etc., Pittsylvania County, Va." Columns: date of record, surname, given names (three columns by initial A-H / I-O / P-Z), grantor, kind of instrument, volume, page. Entries are alphabetical by surname, then chronological. The PDF holds several lettered sections with their own ledger page numbers (Ma-Mc starts at PDF p. 2 as ledger p. 1; Me at PDF p. 47; Mi-Mu at PDF p. 51 onward, e.g. ledger p. 8 = PDF p. 58, ledger p. 14 = PDF p. 85, ledger p. 35 = PDF p. 106). Late entries indexed 13 Nov 2007 are at the end (PDF p. 115, ledger p. 44). Volume numbers are deed book numbers, for example "Vol. 1 Page 350".
 

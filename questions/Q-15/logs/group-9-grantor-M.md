@@ -2,7 +2,7 @@
 
 Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free source (Internet Archive scan, https://archive.org/details/grantor-index-june-1765-1889, downloaded with the user's approval; untrusted file, handled only with pdfinfo/pdftoppm and `python3 -I` for image crops, nothing run from its directory). Plan rows 8 and 3. Source created: [[S-pitt-grantor-index-m-p36-musick-1780-1781]].
 
-Working files (not part of the repo): PDF `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/grantor-M.pdf` (115 pages, image only); renders in `.../scratchpad/ia-index/pages-grantor-M/` (50 dpi surveys, 110 dpi for PDF pp. 109-111, a crop of p. 110).
+Working files (not part of the repo): PDF `(local scratch directory, not in repo)` (115 pages, image only); renders in `.../scratchpad/ia-index/pages-grantor-M/` (50 dpi surveys, 110 dpi for PDF pp. 109-111, a crop of p. 110).
 
 Volume structure: Cott ledger, grantor index; columns date of record, surname, given names (three columns by initial), grantee, kind of instrument, volume (deed book), page. Alphabetical by surname, then chronological. Ledger page numbers restart by section: PDF p. 100 = ledger p. 26 (Motley 1883-87), PDF p. 108 = ledger p. 34 (Muse), PDF p. 110 = ledger p. 36, PDF p. 111 = ledger p. 37, PDF p. 112 = ledger p. 38.
 

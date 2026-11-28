@@ -141,11 +141,11 @@ father of JR, is not established.**
 
 **Are these the same person?** Yes. One instrument, one grantor.
 **Analyst's second reading (2026-11-28):** a full-resolution crop of the local image. The word has no J descender and
-spells out "-nor". The page's "George Cook Junr. L.S." has a long-descender J and a raised r. The analyst concurs: **"Senor".**
+spells out "-nor". The page's "George Cook Junr. L.S." has a long-descender J and a raised r. The analyst read "Senor"; a later reader disagreed (see Resolution).
 **Explanations considered:** a clerk's slip while copying (most likely; "George Cook Senr." appears four times in the
 preceding lines); an error in the signed original; a misreading (ruled out as far as one image allows); a real
 statement that Sr. was Ruth's husband (rejected: it contradicts the preamble, signature, receipt, and court proof).
-**Resolution:** resolved. A clerk's slip. The grantor and Ruth's husband is George Cook Junr.
+**Resolution:** reading unresolved. Three readers: the first searcher and the analyst read "Senor"; a later re-read of the IA leaf read "Junor" at about 60 percent; the orchestrator's own look at the local image saw an ambiguous capital and a "-nor" ending clipped by the scan edge. The grantor is Jr. on every other line, so a slip is likely whichever it is.
 **Effect on the conclusion:** none. Do not use the testimonium to argue that Ruth was Sr.'s wife or that Sr. and Jr. are one man.
 
 ### C2: The Jr./Sr. identity problem (who are the two Georges)
@@ -292,3 +292,6 @@ Pittsylvania George except by name and region. No record states a Sr.–Jr. rela
 
 ## 9. Addendum: grantor/grantee index readings (group 9)
 Sources: [[S-pitt-grantor-index-c-p26-cook-1769-1773]], [[S-pitt-grantor-index-c-p27-cook-1773-1814]], [[S-pitt-grantee-index-cook-p24-1768-1794]], [[S-pitt-grantee-index-cooke-p29-1780-1810]], [[S-pitt-grantor-index-m-p36-musick-1780-1781]]. Class: derivative indexes (O is the deed book), information undetermined (recording dates, not deed dates), evidence negative for a George Cook land deed in Pittsylvania 1768–1779 and indirect for Musick (two sales, 1780 and 1781). Weight: medium; pages read at 40–110 dpi, multi-party deeds indexed under the first name only. Agreement: the index rows for DB 6:34 and DB 7:106 match the deed images (independent confirmation of the tract chain). No new conflict. The "Elexicous/Elixicous" cell does not change C3 ("Dextrous" vs Electious). Coverage: groups 3 and 8 are now partly searched (land deeds, by index); order books, tithables, Lunenburg and NC remain blocked.
+
+## 10. Addendum 2: group 10 readings
+New sources: [[S-pittsylvania-db7-p453-454-martin-to-elijah-cook-1785]] (O, P, direct for Elijah on Sandy Creek 1785; indirect for George Sr.'s corner), [[S-pittsylvania-db7-p107-reread-ia-leaf119-1783]] (O, same instrument as DB 7:106–107), [[S-pittsylvania-db6-p93-musick-to-johnson-1780]] (O, P, Musick of Henry County sells 97 ac on Sandy Creek 29 Jul 1780), [[S-pittsylvania-oath-of-allegiance-1777-ia-1777oath-fair-copy]] (D, negative, weak), eight Camden vestry source files (D, clerk's copy; negative for Sandy Creek Cooks). Weight: deeds high; vestry and oath negatives low to medium. New agreement: DB 7:453 and DB 7:107 agree that Elijah Cook is a Sandy Creek man in 1783 and 1785 and that a George Cook Sr. owned an adjoining corner in 1785. New open question (C5 extension): DB 6:93 (97 ac, July 1780) and DB 6:34–35 (97 ac, March 1780) may describe one tract sold twice or two tracts. C1 is now an unresolved reading (above). "Elixeous" versus "Electious" is orthography and does not settle C3.

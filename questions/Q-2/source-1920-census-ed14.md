@@ -24,7 +24,7 @@ Household, dwelling 78 / family 78:
 
 Neighbouring households: above, dwelling 77, Henry Clay Willis (with wife Zilpha M. and children); below, dwelling 79, Harrison Crawhorn (with wife Rodie and children).
 
-Transcription verified from the full image by the lead (Jolly), 2026-11-28, with two small corrections to the M-4 pass report: Russell's age reads 3 1/12 (the pass read 3½ [?]) — exactly right for a 28 Nov 1916 birth at a 12 Jan 1920 enumeration — and the Willis wife's name reads Zilpha M. Retrieved by Muse browser pass M-4 on 2026-11-28 (FamilySearch only).
+Transcription verified from the full image by the lead (Jolly), 2026-11-28, with two small corrections to the M-4 pass report: Russell's age reads 3 1/12 (the pass read 3½ [?]) — right for a 28 Nov 1916 birth at a 12 Jan 1920 enumeration — and the Willis wife's name reads Zilpha M. Retrieved by Muse browser pass M-4 on 2026-11-28 (FamilySearch only).
 
 ## Notes
 

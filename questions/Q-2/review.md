@@ -34,6 +34,23 @@ Objections 1, 2, 3, 5, 7 and 8 confirmed genuinely fixed. Two partials and three
 - **New Objection 2:** the pre-fix framings survived in source-file notes (source-1920 "Continuity on the home tract"; source-1930 "the home tract" and "the hearsay pattern"; source-1880/1900 "George Sr.'s own 1860 statement"). **Fixed:** all four source notes rewritten to the downgraded, neutral wording.
 - **New Objection 3 (minor):** analysis preamble cited searches 1–9 (now 1–10); proof's GPS checklist said C1–C7 (now C1–C8); Russell's ages "fit exactly" (now "fit"). **Fixed.**
 
-## Cycle 3 — escalated to Claude Code per the standing escalation rule (two failed cycles)
+## Cycle 3 — 2026-11-28 — Claude Code (Muse VM, headless), escalated per the standing rule after two failed cycles
 
-Reviewer: Claude Code (Muse VM, headless), given file paths only. Its verdict is recorded here when returned and verified by the lead. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.
+verdict: **fail**
+
+The lead verified each point against the files before acting. Dispositions:
+
+- **C2 wording (main point):** the re-argument's premises check out, but "demonstrably wrong" / "independently documented" overstated two census entries of undetermined informant, and the proximity premise leaned on the 1860 entry without flagging it as external. **Fixed:** C2 now says the 1920/1930 pair "conflicts with her own entries" (Eliza's 1880 and 1900 entries both give Virginia), the proximity point is "dates from George Sr.'s own lifetime," and the 1860 entry is flagged as prior repo work outside Q-2's evidence set.
+- **A:** source-1910's note used the banned framing ("the will's devise of the home tract"). **Fixed:** the note now quotes the will's words. Finding 1 and proof ¶2 keep "Russell's Creek home tract" only inside the labelled inference, with the identification expressly attributed to the Deed Book Z conveyances in the gen-05 file.
+- **B:** Finding 6's "exactly two of {Thomas, John, Liddie, Mattie}" did not follow — either unaccounted child could have been living; and "her own statement to the enumerator" contradicted the undetermined-informant classification. **Fixed:** "exactly two of the remaining six… at most two of the four named"; "a single reported count from an undetermined informant." The same arithmetic error in source-1900's note is corrected identically.
+- **C:** Magisterial District 7 was asserted for 1920, whose sheet states only the precinct and ED 14. **Fixed** in Finding 1, the proof conclusion, and source-1930's note: MD 7 is claimed only where a sheet states it (1900, 1910, 1930).
+- **D:** the 1930 age at first marriage (60) "matches" the 1911 marriage — he was 59. **Fixed:** "consistent within a year / within a census answer's rounding" in proof ¶1, Finding 8 and source-1930 ("corroboration of the marriage's timing").
+- **E:** the Emma/Enna = Anna identification and the "documented" marriage rest on prior repo work. **Fixed:** flagged as gen-05 prior work, outside Q-2's evidence set, in proof ¶1, Finding 8 and C8.
+- **F:** proof ¶3 called the 1880 index "complete." **Fixed:** the result set and its limits are stated exactly (47 results, 30 Adair enumerated; John's name search — no Adair hit in the first 100 of 4,846); the same softening applied to the analysis coverage line.
+- **G:** log search 8 did not say what the two unplaced 1930 entries were checked on. **Fixed:** the log now records they were reviewed on their index data (name and birth year) and neither is a Thomas or a John.
+- **H:** covered under the C2 fix (1860 entry flagged external).
+- **I (nit):** the reviewer could not open the will plate path from its working directory — the plates are committed to `sources/ky-adair/` on this branch via GitHub web upload (1880 and 1900 plates already there; the will plates and remaining census sheets upload with this cycle's batch). The second reading is recorded in full in `source-will-eliza-cook.md`.
+
+## Cycle 4 — pending
+
+A fresh-context reviewer re-reads the corrected file set; its verdict is recorded here when returned. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.

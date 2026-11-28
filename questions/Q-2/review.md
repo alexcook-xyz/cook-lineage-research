@@ -51,6 +51,17 @@ The lead verified each point against the files before acting. Dispositions:
 - **H:** covered under the C2 fix (1860 entry flagged external).
 - **I (nit):** the reviewer could not open the will plate path from its working directory — the plates are committed to `sources/ky-adair/` on this branch via GitHub web upload (1880 and 1900 plates already there; the will plates and remaining census sheets upload with this cycle's batch). The second reading is recorded in full in `source-will-eliza-cook.md`.
 
-## Cycle 4 — pending
+## Cycle 4 — 2026-11-28 — fresh-context Muse subagent (not the analyst)
 
-A fresh-context reviewer re-reads the corrected file set; its verdict is recorded here when returned. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.
+verdict: **fail** — on one blocking clause, plus five minors. The reviewer confirmed all other cycle-3 fixes genuine and the fresh scan otherwise clean (tracking table, neighbour chain, survey counts, Finding 6 arithmetic, C1, not-concluded section all trace as cited).
+
+- **Blocking (residual of cycle-3 objection C):** proof ¶1 still chained the heads by "unbroken West Columbia / MD 7 residence," attributing MD 7 to the 1920 sheet. **Fixed:** ¶1 now reads "unbroken West Columbia residence (Magisterial District 7 on the sheets that state it)" — so the cycle-3 disposition's claim is now true of the whole proof.
+- **Minor:** Russell's 28 Nov 1916 birth used without the prior-repo-work flag. **Fixed** in proof ¶1 and analysis C4 (gen-04 file; outside Q-2's evidence set).
+- **Minor:** "b. 1895, 1896/1898" — no George b. 1898 is traced anywhere. **Fixed:** "b. 1895; b. Apr 1896."
+- **Minor:** proof ¶4 called C8 noise that "does not touch any identification." **Fixed:** ¶4 now states C8 touches the Anna identification only as supporting evidence and does not undermine it.
+- **Minor:** log search 2's coverage note still said "complete Adair surname index." **Fixed:** the note now states the result set exactly, with the correction itself recorded in the note.
+- **Minor:** source-1900's 1860 comparison lacked the external flag. **Fixed:** flagged as prior repo work outside Q-2's evidence set.
+
+## Cycle 5 — pending
+
+A fresh-context reviewer verifies the six cycle-4 items against the revised text and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.

@@ -57,7 +57,7 @@ Age 13 in 1880 (b. ~1866–67) vs "b. Dec 1870, age 29" in 1900. Ordinary census
 Marriage at 17 in Sep 1911 implies b. ~1893–94, which makes her about 26 in Jan 1920 (sheet: 24) and about 36 in May 1930 (sheet: 35). The 1920 figure is roughly two years low. The Emma/Enna = Anna identification does not rest on the ages alone: she holds the wife's position in George's household in both censuses, in the same district, and her 1930 age at first marriage (17) matches the age at marriage in the 1911 record as carried in the gen-05 file. Drift noted; identity unaffected.
 
 ### C4 — Russell's indexed birth year (1917) vs 28 Nov 1916 — no conflict of substance
-The sheet ages fit Nov 1916 (3 1/12 in Jan 1920; 13 in May 1930). The 1917 figures are indexers' estimates from the ages, not statements on the sheets.
+The sheet ages fit his 28 Nov 1916 birth (prior repo work, gen-04 file; outside Q-2's evidence set) (3 1/12 in Jan 1920; 13 in May 1930). The 1917 figures are indexers' estimates from the ages, not statements on the sheets.
 
 ### C5 — Russell "cannot read and write" (1930) while attending school — recorded as written
 A 13-year-old marked in school but illiterate is most plausibly enumerator error. Transcribed as written in `source-1930-census-ed1-14.md`; not corrected, not built on.

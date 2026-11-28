@@ -28,7 +28,7 @@ Transcription verified from the full image by the lead (Jolly), 2026-11-28. Retr
 
 ## Notes
 
-- George's parents' birthplaces are both **Virginia** here — against the 1880 sheet's "Ky" for his father (see `source-1880-census-ed1.md`). The 1900 entry agrees with the 1860 census entry for George Sr.'s household (Pittsylvania, VA). Carried to analysis (C2).
+- George's parents' birthplaces are both **Virginia** here — against the 1880 sheet's "Ky" for his father (see `source-1880-census-ed1.md`). The 1900 entry agrees with the 1860 census entry for George Sr.'s household (Pittsylvania, VA — prior repo work, gen-05/gen-06 files; outside Q-2's evidence set). Carried to analysis (C2).
 - Eliza reports **8 children born, 4 living** (June 1900). Named children so far: Thomas H., John, George W., Liddie, Laura B., Mattie — six. Two further children are unaccounted for. George and Laura were living (they are on the sheet), so exactly two of the remaining six children — named and unaccounted together — were living; at most two of {Thomas, John, Liddie, Mattie}. Arithmetic only; no identification is made from this alone.
 - Laura B.'s birth is given as Dec 1870 (age 29); the 1880 sheet gives her age as 13 (b. ~1866–67). Normal census age drift; noted for analysis.
 - The sheet carries later pencilled numbers (67/69) above the dwelling/family columns; the written dwelling/family numbers are 3/3. The FamilySearch index's "Household Identifier 69" comes from the pencilled number.

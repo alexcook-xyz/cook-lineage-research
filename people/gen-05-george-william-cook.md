@@ -14,7 +14,7 @@
 
 Following his father's death by September 1873, George William stepped forward as an adult heir. In February 1877, he executed a landmark deed in Adair County Deed Book Z conveying two undivided shares (his own and one acquired from his brother Thomas) in his father's 142-acre Russell's Creek estate. He remained the primary caretaker of his widowed mother, Eliza, who executed her will on 8 October 1900 devising to him the family home tract. 
 
-Remarkably, Cook remained a bachelor farmer well into his later years. In September 1911, at the age of fifty-eight, he married seventeen-year-old Emma Janes, with the written consent of her parents, starting a young family that included son Russell Cook. Cook lived to the age of eighty-three, passing away from intestinal tuberculosis at his North Columbia residence in July 1935. He was buried in the family cemetery on the Cook farm, having anchored the Cook family's possession of Russell's Creek land for over eight decades.
+Remarkably, Cook remained a bachelor farmer well into his later years. In September 1911, at the age of fifty-eight, he married seventeen-year-old Emma Janes, with the written consent of her parents, starting a young family that included sons Russell Cook (b. 1916) and James Cook (b. ~1920–21, identified in Q-2 from the 1930 census). Cook lived to the age of eighty-three, passing away from intestinal tuberculosis at his North Columbia residence in July 1935. He was buried in the family cemetery on the Cook farm, having anchored the Cook family's possession of Russell's Creek land for over eight decades.
 
 ---
 
@@ -41,6 +41,12 @@ Remarkably, Cook remained a bachelor farmer well into his later years. In Septem
 4. **1900/1906 Will of Mother Eliza E. Cook (Will Book M, pp. 133–134):**
    - Preserved in `sources/ky-adair/Adair_WBM_p133.png` & `p134.png` (Plate 6 in paper).
    - Executed 8 Oct 1900, proved 1 Jan 1906; devises livestock and money equally to *"my two sons Thomas H. Cook and John D. Cook"*, and devises the remainder of estate and home tract to *"my son George W. Cook"*.
+   - **Q-2 plate correction (2026-11-28):** the two plate files named above do not show the will text — `Adair_WBM_p133.png` shows pp. 134–135 and `Adair_WBM_p134.png` is a byte-identical duplicate of it. The correct images are `sources/ky-adair/Adair_WBM_p132-133.jpg` (will text, lower half of p. 133) and `Adair_WBM_p134-135.jpg` (probate certificate). See `questions/Q-2/source-will-eliza-cook.md`.
+
+5. **Adair County census households, 1880–1930 (Q-2, 2026-11-28):**
+   - George appears in Adair County at every enumeration: with his mother Eliza in 1880 (Columbia, ED 1) and 1900 (West Columbia, ED 8), head alone in 1910 (ED 14), and head with wife Anna and sons in 1920 (ED 14) and 1930 (ED 1-14). Plates: `sources/ky-adair/Adair_1880_Census_ED1_p2.jpg`, `Adair_1900_Census_ED8_Sheet4A.jpg`, `Adair_1910_Census_ED14_Sheet7A.jpg`, `Adair_1920_Census_ED14_Sheet4A.jpg`, `Adair_1930_Census_ED1-14_Sheet12B.jpg`. Full transcriptions and analysis: `questions/Q-2/`.
+   - The 1930 sheet (ED 1-14, Sheet 12B, dwelling 276) lists a second son, **James Cook, age 9** (b. ~1920–21), in George and Anna's household — not previously recorded in this file.
+   - Brothers Thomas H. and John D. Cook appear in no Adair County census 1880–1930 (county-wide Cook/Cooke surveys each year; Q-2).
 
 ---
 

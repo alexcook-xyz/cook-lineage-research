@@ -1,6 +1,6 @@
 ---
 question: Q-2
-status: in-progress
+status: resolved
 ---
 
 # Q-2 Plan — Adair County Census Households, 1880–1930 (George W. Cook Collaterals)

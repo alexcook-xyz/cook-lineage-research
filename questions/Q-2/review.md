@@ -92,6 +92,10 @@ verdict: **fail** — both cycle-7 items confirmed fixed, and the rest of the sw
 
 - **Blocking:** the death year in "George William Cook (1852–1935)" stood unflagged in proof.md's conclusion (the proof's own voice) and in analysis.md's question line. The lead's cycle-7 sweep had searched the full date ("16 Jul 1935") and missed the bare year. **Fixed:** both points now flag 1935 as prior repo work (gen-05 file); plan.md's one bare use is attributed to the gen-05 file (its other use is the issue's question, quoted verbatim and labelled as such).
 
-## Cycle 9 — pending
+## Cycle 9 — 2026-11-28 — fresh-context Muse subagent (not the analyst)
 
-A fresh-context reviewer verifies the cycle-8 item and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.
+verdict: **pass**
+
+The cycle-8 item is confirmed fixed at all three points (proof conclusion, analysis question line, plan). The final scan found no new objections: every prior-repo date or identification carries its flag or an inline gen-file attribution at the point of use; district continuity is the proven claim and tract continuity a labelled probable inference in both proof and analysis; MD 7 is claimed only for 1900/1910/1930 in every layer; C2 stands as an open 3–3 preponderance with no informant premise; Finding 6's arithmetic, the survey counts, the neighbour chain and conflicts C1–C8 agree across log, source files, analysis and proof; the White County candidate is held at lead level with its age conflict stated. The scoped `proven` grade is supported.
+
+**Stage 6 gate: PASS** (reviewer not the analyst, as required).

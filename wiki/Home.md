@@ -1,6 +1,6 @@
 # Cook Lineage Research Project Wiki
 
-Welcome to the internal research wiki for the **Cook Patrilineal Lineage Research Project**. This wiki documents the verified patrilineal descent of **Alex H. Cook** (b. 1991) back across the Appalachian frontier into colonial Virginia and onward to immigrant arrival.
+Welcome to the internal research wiki for the **Cook Patrilineal Lineage Research Project**. This wiki documents the verified patrilineal descent of the living subject (Generation 1) back across the Appalachian frontier into colonial Virginia and onward to immigrant arrival.
 
 ---
 
@@ -17,8 +17,8 @@ Welcome to the internal research wiki for the **Cook Patrilineal Lineage Researc
 
 ## 2. Generational Profiles (People)
 
-- [Generation 1: Alex H. Cook (b. 1991)](people/gen-01-alex-h-cook.md) — *Proven (99–100%)*
-- [Generation 2: Brian A. Cook (b. 1962)](people/gen-02-brian-a-cook.md) — *Proven (99–100%)*
+- [Generation 1: Living subject (details withheld)](people/gen-01-living-subject.md) — *Proven (99–100%)*
+- [Generation 2: Living line member (details withheld)](people/gen-02-living-line-member.md) — *Proven (99–100%)*
 - [Generation 3: Arlin Cook (1935–1991)](people/gen-03-arlin-cook.md) — *Proven (99–100%)*
 - [Generation 4: Russell Cook (1916–1982)](people/gen-04-russell-cook.md) — *Proven (99–100%)*
 - [Generation 5: George William Cook (1852–1935)](people/gen-05-george-william-cook.md) — *Proven (99–100%)*

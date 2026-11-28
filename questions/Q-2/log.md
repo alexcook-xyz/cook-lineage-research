@@ -48,7 +48,7 @@ Append only. Every search — including searches that found nothing — is logge
 - Search terms: Cook / Cooke, residence Adair County, KY, 1900; plus the two M-2 unchecked leads opened individually
 - Results: **25 Adair County persons** indexed as Cook, 0 as Cooke. Households: (a) Eliza E. Cook, Magisterial District 7 Columbia, ED 8 — George W. and Laura B. (already held, entry 3); (b) five household groups in Magisterial District 2, White Oak — Elijah W. Cook (b. Apr 1851) & Nancy E. (b. Dec 1850, TN) with six children; Benjamin E. Cook (b. Sep 1867) & Margaret S.; William Cook (b. Apr 1815) & Nancy (b. Nov 1842, GA); James R. Cook (b. May 1874) & Rosette, with son George W. (b. Apr 1896); James M. Cook (b. Mar 1879) & Alta A.; plus Levi Cook (b. May 1849) with no relationships shown. **No Thomas Cook and no John Cook appears in the Adair 1900 index.** These White Oak households are index findings only — collateral households, held unassigned, not transcribed.
 - Leads: both M-2 unchecked leads resolved and excluded — Thomas Cook b. Jul 1876 KY was enumerated with a U.S. Army hospital detachment at Ponce, Puerto Rico, ED 104 (ARK 1:1:M318-MLH); John R. Cook b. May 1858 KY was head of household in Stevens Co., WA, ED 74 (ARK 1:1:MMPB-45C). Neither is Adair; neither fits the brothers (both give parents born KY/KY).
-- Coverage note: FamilySearch's residence search is relevance-ranked, not an exact filter. Results pages 1–3 (1–300 of 436) were inspected in full; all 25 Adair entries fell on page 1 and none appeared on pages 2–3; pages 4–5 were not individually inspected. The 1900 Thomas/John negative rests on this survey plus the M-2 named searches — strong, with the ranking caveat stated here rather than hidden.
+- Coverage note: FamilySearch's residence search is relevance-ranked, not an exact filter. Results pages 1–3 (1–300 of 436) were inspected in full; all 25 Adair entries fell on page 1 and none appeared on pages 2–3; pages 4–5 were not individually inspected at this pass. **Completed by M-2c (search 10): results 301–436 inspected, zero Adair — the survey now covers all 436 results.**
 
 ## 2026-11-28 — M-3 (1910) retrieval pass (partial — completed by M-3b)
 
@@ -106,3 +106,14 @@ Append only. Every search — including searches that found nothing — is logge
 - Results: **Found** — the recorded will of Eliza E. Cook, executed 8 Oct 1900, proved 1 Jan 1906: livestock and money to "my two sons **Thomas H Cook** and **John D Cook**" equally; remainder, including her interest in the tract she lived on, to "my son **George W. Cook**". Witnesses Jas Earnest [?] Jr and H. A. Coffey. Images 72 (pp. 132–133) and 73 (pp. 134–135) downloaded as actual JPGs; transcription verified by the lead from the full image, with an enlarged reading of the names → `source-will-eliza-cook.md`. **C1 is resolved: John D.** The 2026-11-26 summary's "John M." was a misreading; the M-6 pass's own reading of George's initial as "M." was likewise corrected to "W." on the lead's enlarged reading — this clerk's capitals are a trap in both directions.
 - Repo defect found: the plates previously held as `Adair_WBM_p133.png` / `Adair_WBM_p134.png` are byte-identical duplicates showing book pp. 134–135 only — no will text, and the p133 filename mismatches its pages. The M-6 plates (`Adair_WBM_p132-133.jpg`, `Adair_WBM_p134-135.jpg`) supersede them; deletion of the defective plates is outside this question's blanket approval and is flagged for a separate fix.
 - Process note: the pass's first download attempt produced viewer confirmations but no delivered files; the images were re-downloaded and delivered on a follow-up before ingest. Nothing was ingested from the unverified first attempt.
+
+## 2026-11-28 — M-2c (1900 survey tail; commissioned by adversarial review cycle 1)
+
+### 10. FamilySearch — 1900 U.S. Census (collection 1325221), residence search results 301–436 (Muse's account)
+
+- Date: 2026-11-28
+- Repository: FamilySearch (online)
+- Indexes: 1900 census index, same search form as search 4 (`q.surname=Cook`, residence Adair, `f.collectionId=1325221`)
+- Search terms: as search 4; pages 4 (offset 300) and 5 (offset 400) only
+- Results: total confirmed at **436**. Results 301–436 inspected in full: **zero** persons with an Adair County census place (the only Kentucky census places in the tail are in Casey County; several entries show Kentucky as birthplace only). Combined with search 4, the 1900 Adair Cook survey is complete over the entire result set: 25 Adair persons, all on page 1, and no Thomas or John among them.
+- Leads: none.

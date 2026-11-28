@@ -57,20 +57,6 @@ The repository features a complete built-in markdown wiki documenting every indi
 
 ---
 
-## Research Tracking: Milestones & Issues
-
-Work is organized as one **epic** that tracks every generational link to the GPS standard: **[Epic #32](https://github.com/alexcook-xyz/cook-lineage-research/issues/32)**. Each link has a current and target probability, and the issues that move it. Tags on each issue show access type (`in-person-archive`, `blocked-film`, `remote-request`, `online-free`, `online-paid`), priority (`priority-p0`–`p3`), and the link it advances (`link-N-N`).
-
-- **[Milestones Overview](https://github.com/alexcook-xyz/cook-lineage-research/milestones):**
-  - **M1 — Gen 1–6 Profiles & Links to GPS Standard:** Records for links 1→2 through 5→6 ([#1](https://github.com/alexcook-xyz/cook-lineage-research/issues/1)–[#3](https://github.com/alexcook-xyz/cook-lineage-research/issues/3), [#19](https://github.com/alexcook-xyz/cook-lineage-research/issues/19)–[#21](https://github.com/alexcook-xyz/cook-lineage-research/issues/21))
-  - **M2 — Prove Links 6→7 and 7→8 (George B → George Sr.):** Will Book 1 ([#4](https://github.com/alexcook-xyz/cook-lineage-research/issues/4), [#24](https://github.com/alexcook-xyz/cook-lineage-research/issues/24)), tax lists ([#7](https://github.com/alexcook-xyz/cook-lineage-research/issues/7)), probate and orders ([#6](https://github.com/alexcook-xyz/cook-lineage-research/issues/6), [#14](https://github.com/alexcook-xyz/cook-lineage-research/issues/14)), chancery ([#23](https://github.com/alexcook-xyz/cook-lineage-research/issues/23)), Gen 7 profile ([#22](https://github.com/alexcook-xyz/cook-lineage-research/issues/22))
-  - **M3 — Prove Link 8→9 (Pittsylvania → Prince Edward/Amelia, 1771–1782):** [#10](https://github.com/alexcook-xyz/cook-lineage-research/issues/10), [#13](https://github.com/alexcook-xyz/cook-lineage-research/issues/13), [#15](https://github.com/alexcook-xyz/cook-lineage-research/issues/15), [#17](https://github.com/alexcook-xyz/cook-lineage-research/issues/17), [#25](https://github.com/alexcook-xyz/cook-lineage-research/issues/25)
-  - **M4 — Prove Link 9→10+: Identify the First Cook in North America:** [#11](https://github.com/alexcook-xyz/cook-lineage-research/issues/11), [#12](https://github.com/alexcook-xyz/cook-lineage-research/issues/12), [#16](https://github.com/alexcook-xyz/cook-lineage-research/issues/16), [#18](https://github.com/alexcook-xyz/cook-lineage-research/issues/18), [#26](https://github.com/alexcook-xyz/cook-lineage-research/issues/26), [#27](https://github.com/alexcook-xyz/cook-lineage-research/issues/27)
-  - **M5 — Cross-cutting: Proof Arguments, Review & Publication:** probability rubric ([#29](https://github.com/alexcook-xyz/cook-lineage-research/issues/29)), search log ([#30](https://github.com/alexcook-xyz/cook-lineage-research/issues/30)), proof arguments and review ([#31](https://github.com/alexcook-xyz/cook-lineage-research/issues/31))
-- **[Active Issues](https://github.com/alexcook-xyz/cook-lineage-research/issues):** Each issue is a concrete archival retrieval target, record analysis task, or disambiguation matrix. DNA testing is out of scope.
-
----
-
 ## Repository Directory Structure
 
 ```

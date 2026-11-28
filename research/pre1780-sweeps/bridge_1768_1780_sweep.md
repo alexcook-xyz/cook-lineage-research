@@ -26,7 +26,7 @@
 - **3 November 1750 (*LVA Patents 29:316–317*):** George Cook patented **400 acres** in Amelia County `"on the head Branches of Harriss's Creek"`, adjoining Hudson's and Williamson's lines.
 - **1754:** Prince Edward County was erected from Amelia County (enacted 1753, effective 1754); St. Patrick's Parish was established in 1755 coextensive with Prince Edward County from Nottoway Parish.
 - **18 April 1768 (*Prince Edward DB 3:366–368*):** `"George Cook of Prince Edward county"` sold **150 acres** from the southern portion of the 1750 patent (`S 10° W 180 p.`, `W 6° S 120 p.`, `N 3° W 178 p.`, closing `N 86° E 164 p.` by a new division line, adjoining Lockett's and Jones's lines) to **Alexander Guill** for **£13**; acknowledged April Court 1768, **no wife joined / no dower release**.
-- **250 Acres Unaccounted For:** The northern 250 acres of the 1750 patent (`Hudson's line` / `Williamson's line` side) remain untraced in available online abstracts.
+- **250 Acres Accounted For [SOLVED 2026-11-27]:** On 6 April 1771, George Cook conveyed the remaining 250 acres of his 3 Nov 1750 patent to **Lovel Wilkerson** for 30 pounds (*Prince Edward Deed Book 5*, pp. 67-68). This accounts for 100% of the 400-acre patent (150 ac to Guill in 1768 + 250 ac to Wilkerson in 1771 = 400 ac).
 
 ### 1.2 Sweeps Conducted for Prince Edward County (1754–1785)
 

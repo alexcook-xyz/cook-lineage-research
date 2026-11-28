@@ -1,6 +1,7 @@
 ---
 question: Q-10
 status: stalled
+tags: [resume-later, blocked-access]
 ---
 # Plan: Did George, Josiah, or Zachariah Cook own land or litigate in Halifax County, Virginia before 1767?
 
@@ -66,3 +67,23 @@ Every record group that could settle the question is blocked by access, and no f
 4. Land Office patents and grants, reel 42 pp. 403–404, and the Cook* name search (issue #39).
 5. Lunenburg tithables, Bell 1748–1752 (issue #40).
 See `analysis.md` for the conflicts (C1–C9). Stage 6 does not apply: no claim is `proven`.
+
+## Resume later
+**Status:** paused. Stalled on access, not on evidence. Resume when at least one retrieval issue (#36–#40) has images or index pages in hand.
+
+**What needs doing, in order:**
+1. Place the interlibrary-loan or remote-copy requests for Halifax deed reels 1–4 and grantor and grantee indexes, reels 30–35 (#36). This is the highest-yield step.
+2. Place requests for Halifax Pleas reels 54–56 (#37) and Halifax Will Book 0 (#38).
+3. Check the Pittsylvania Court Records No. 1 first pages and p. 17 against the IA scan, and confirm whether "1A" is "No. 1" (#38, conflict C2).
+4. Verify the Josiah grant images, pp. 403–404 (#39, conflict C3).
+5. Read the Cook entries in the Lunenburg tithables (#40).
+6. Once records are in: transcribe each hit to `sources/`, log every search and negative in `logs/`, merge into `log.md`, then re-run the pipeline from stage 2 (`pipeline_check.py ... --through 9 --record`).
+7. Decide again at stage 5. If a dated primary record settles a hypothesis, the question moves to `resolved`.
+
+**Known conflicts to keep open:** C1 (death date), C2 (volume label), C3 (grant label), C4 (which John Cook), C5 (1782 land tax, no issue yet), C6, C7, C8, C9. See `analysis.md`.
+
+**Gaps with no issue yet:** the 1782 Pittsylvania land tax (C5), the original 1767 tithable list (C7), Minute Book reel 264 (add to #38), and the title page of VTRC 26-R33 (C8, repo check).
+
+**Knowledge step:** still `none`. Lessons from this question (LVA catalog host unreachable; Pittsylvania court book on IA; Miller road orders as a free negative source) are not yet captured in the skills repo.
+
+**Resume command:** `/research-pipeline https://github.com/alexcook-xyz/cook-lineage-research/issues/10 resume`

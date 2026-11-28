@@ -105,3 +105,12 @@ Archived at evidence/muse-checkpoints/v4/ from Prince_Edward_George_Cook_Records
 | PE_DB2_Simmons_to_Spencer_1765_memo.jpg | 13 Feb 1765 | Prince Edward Co. Deed Book 2 | George Cook witness to livery-of-seisin memo with Joel Watkins and Elkanah Jennings. |
 | LVA_Patents29_p316_Cook_1750.jpg | 3 Nov 1750 | Virginia Land Office Patents 29:316 | 400-acre patent to George Cook on Harris's Creek (p. 316). |
 | LVA_Patents29_p317_Cook_1750.jpg | 3 Nov 1750 | Virginia Land Office Patents 29:317 | 400-acre patent to George Cook on Harris's Creek (p. 317 bounds). |
+
+## 7. Pittsylvania County Deed Books 6 & 7 Primary Scans (Archived 2026-11-27)
+
+Archived at evidence/va-pittsylvania/ from Pittsylvania_DB6_DB7_Deeds_2026-11-27.zip:
+
+| File Name | Date | Jurisdictional Source | Citation & Content Description |
+|---|---|---|---|
+| PITT_DB6_p34-35_Musick_to_CookeJr_1780.jpg | 2 Mar 1780 | Pittsylvania Co. Deed Book 6:34–35 | Electious Musick Sr. to George Cooke Jr., 97 acres on Sandy Creek of Dan River (£75 cash). Wit: William Collie, Elisha Cooke (mark), Ben Echols. Proved 15 Aug 1780. |
+| PITT_DB7_p106-107_CookJr_to_CookSr_1783.jpg | 9 Aug 1783 | Pittsylvania Co. Deed Book 7:106–107 | George Cook Jr. and Ruth his wife to George Cook Sr., ~100 acres on Sandy Creek adjoining James Holloway (£25 cash; reciting Musick purchase). Wit: Wm. Hedgeth, Joseph Flippen, James Holloway, Elijah Cook, Orlando Smith. Proved 19 Aug 1783. |

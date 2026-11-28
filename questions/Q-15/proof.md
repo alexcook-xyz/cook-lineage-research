@@ -157,3 +157,6 @@ Read from the clerk's page images, 2026-11-28 (logs `group-10-*.md`).
 - **Revolutionary claims, 1782:** Harmon and James Cook only; no George, Elijah, Elisha or Zachariah Cook; partial read (index leaves T–Z unsearched).
 - **Tunstall item 000141000001.7** is an 1812 fee memo book, not 1780s minutes, so it cannot prove the deed entries.
 - **Effect:** more weak negatives for a George Cook in Pittsylvania before 1780. H1–H4 stay `possible` and the question stays stalled. Still unread and possibly free: Pittsylvania order books and tithables 1771–1782 (check Internet Archive for scans; otherwise LVA reels 47–48 and 286), OLSB1 images 1–231, OLSB2 images 1–56, and the lower halves of the 1781–85 marriage bond pages.
+
+## Addendum 4: Muse M-1 (FamilySearch)
+Nothing here changes the conclusion (stalled, possible). New: George, Elijah and William Cook witness a Pittsylvania deed on 10 Jul 1781 (DB 6:140-141, machine transcript, unverified). The 1768 Prince Edward page hint DB 3:366-368 is wrong. Next free reads, in order: the Book 3 grantor index (film DGS 8153028, Item 4, image 4); DB 6 image 81 to verify the 1781 witnesses; Pittsylvania Court Record No. 4 (1777-1783) on FamilySearch full-text.

@@ -298,3 +298,9 @@ New sources: [[S-pittsylvania-db7-p453-454-martin-to-elijah-cook-1785]] (O, P, d
 
 ## 11. Addendum 3: group 11 readings
 Classes: marriage-bond and claims sources are derivative reads of partly seen pages (negative, weak); survey sources are original survey-book copies (George Musick line and corner on Sandy Creek, 1774; Collee entry uncertain). Agreement: a George Musick on Sandy Creek in 1772 (patent index) and 1774 (two surveys). No new conflict. The weak negatives are recorded as "not searched" where pages were unread.
+
+## Addendum 12: Muse M-1 (FamilySearch), all unverified
+- **Prince Edward DB 3 pp. 365-368** hold other deeds ([[S-pe-db3-p365-368-no-cook-guill-deed-muse-m1]]). The "DB 3:366-368" page hint for the 18 Apr 1768 Cook to Guill deed is wrong or misattributed; the deed rests on [[S-pe-ob4-p102-guill-deed-acknowledged-1768]]. The Book 3 grantor index (film DGS 8153028, Item 4, image 4) lists Cooke/Cook entries whose page numbers are unread.
+- **Pittsylvania DB 6 pp. 140-141, 10 Jul 1781:** George, Elijah and William Cook appear together as witnesses ([[S-pitt-db6-p140-141-cook-witnesses-1781-muse-m1]]). This is the first record of the Cook group in Pittsylvania between the 1780 Musick sale and the 1783 deed. It names no Sr./Jr. and rests on a machine transcript, so it counts as possible only. It does not settle C2 or C4.
+- Court Records 8 (1798) names a George Cook as neighbor but is outside the target years; Deeds and Wills v. 5 names Jonathan Musick (not Electious) as a 1777 witness.
+- Effect on hypotheses: H1 and H4 stay possible; H3 (no 1771-79 presence) is not settled either way.

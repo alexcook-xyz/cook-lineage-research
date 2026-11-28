@@ -46,7 +46,8 @@ Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Plan row 3 
 - **Leads (not evidence):** none
 - **Next:** none for these variants. Letter M (Musick) and the grantee indexes are other tasks.
 
-### Pages not read
+### 2026-11-28 — Grantor index C: pages not read (coverage note)
+- **Result:** not searched
 - PDF 92, 93, 94 (sheets 29-31): not opened, dated after 1826 by inference from sheet 28 (1826) and sheet 32 (1882 onward). Inference, not seen.
 - PDF 70-79 (Cole through Coles): not opened except 75 and 80; irrelevant headings.
 - PDF 1-59, 96-120: not opened.

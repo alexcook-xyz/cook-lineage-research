@@ -14,7 +14,7 @@ Last run 2026-11-28.
 |---|---|---|---|
 | 0 repo | research repo | PASS | initialized; question folder exists |
 | 1 plan | plan | PASS | plan has objective, hypotheses, record groups, done-when |
-| 2 search | search log | FAIL | log entries without a Result field: [97] |
+| 2 search | search log | PASS | 155 logged search(es) |
 | 3 ingest | muse requests ingested | PASS | no pending Muse requests |
 | 4 analysis | analysis | PASS | analysis with conflicts section |
 | 5 proof | proof | PASS | stalled; the record that would settle it is named |

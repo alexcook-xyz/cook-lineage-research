@@ -6,6 +6,15 @@ Research checkpoint, 28 November 2026. The [GitHub issue](https://github.com/ale
 
 The [FamilySearch catalog for Cumberland tax books](https://www.familysearch.org/en/search/catalog/155130) identifies [DGS 007834420](https://www.familysearch.org/en/search/catalog/film?dgs=007834420&cat=155130&i=0) as the film for 1799, 1805, 1833, 1837, and 1840–1857. Its viewer opened in a signed-in session and showed 658 images. The 1833 year marker is at [frame 37](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-67Z7-P); the first three following frames are [38](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-67Z4-B), [39](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-67ZW-7), and [40](https://www.familysearch.org/ark:/61903/3:1:3Q9M-CS3J-67ZM-B). These frames are a starting point, not a complete 1833 return.
 
+| Frame | Downloaded source image | What it shows |
+|---|---|---|
+| 37 | [007834420_00037.jpg](../sources/ky-cumberland/007834420_00037.jpg) | Cumberland County 1833 year marker. |
+| 38 | [007834420_00038.jpg](../sources/ky-cumberland/007834420_00038.jpg) | First filmed assessment page after the year marker; early A/B entries. |
+| 39 | [007834420_00039.jpg](../sources/ky-cumberland/007834420_00039.jpg) | Following assessment page, primarily B entries. |
+| 40 | [007834420_00040.jpg](../sources/ky-cumberland/007834420_00040.jpg) | Following assessment page, primarily B entries. |
+
+The downloaded 1833 assessment pages show columns for land, county, watercourse, entry, survey, patent, and “Whites over 21.” The first three assessment images do not cover the C-surname entries; they cannot support a negative finding for George or Henry. Resume at frame 41 for the likely C section, then check for additional districts, discontinuities, and supplements. The 1837 year marker has not yet been located.
+
 ## What the deed images show
 
 - **2 November 1836:** Pittsylvania County, Virginia, Deed Book 39, p. 242, identifies George Cook and Henry Cook as “of the County of Cumberland and State of Kentucky” and authorizes “our Brother James Cook of Adair County” to convey inherited land to James Nance. The power of attorney spells out “two hundred and twenty seven acres” in Pittsylvania County. That is not a Kentucky tax acreage, and it differs from the issue’s 277-acre description of the Virginia estate; compare with the 1831 deed before reconciling the figures. This is a dated Cumberland residence statement, not evidence of first arrival. [Deed book scan](https://github.com/alexcook-xyz/cook-lineage-research/blob/main/sources/va-pittsylvania/Pittsylvania_DB39_p242.png)

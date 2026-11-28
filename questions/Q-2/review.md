@@ -78,6 +78,14 @@ verdict: **fail** — all six cycle-5 items confirmed fixed and the rest of the 
 - **Blocking:** the Emma/Enna = Anna identification used unflagged in log search 7's results. **Fixed:** flagged as a gen-05 identification in the log entry.
 - **Minor:** Eliza's death year (1905) used unflagged in the analysis tracking table, Finding 1, and source-1910's notes. **Fixed:** the tracking-table entry now carries the flag and states what Q-2's set itself establishes (living June 1900; dead by the 1 Jan 1906 probate); source-1910's note carries the same flag.
 
-## Cycle 7 — pending
+## Cycle 7 — 2026-11-28 — fresh-context Muse subagent (not the analyst)
 
-A fresh-context reviewer verifies the cycle-6 items and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.
+verdict: **fail** — the cycle-6 Eliza-1905 defect survived at two more points, one of them a point the cycle-6 objection expressly named and the cycle-6 disposition did not fix (the lead owns that miss):
+
+- **Blocking:** log search 5's results: "Eliza correctly absent (d. 1905)" — unflagged. **Fixed:** flagged in the log entry with what Q-2's set itself establishes.
+- **Blocking:** analysis Finding 1: "five years after Eliza's death" — asserts 1905 arithmetically at the point of use, unflagged. **Fixed:** the flag now sits in Finding 1 itself. (The cycle-6 disposition had covered the tracking table and source-1910 only; Finding 1 is now fixed as originally required.)
+- The lead additionally swept every remaining use of the prior-repo dates (1905, 1935, 1852, 1916, 1911, 1860, 1870) across all layers: the remaining hits are sheet data itself, search parameters, or uses already carrying the flag or an inline gen-file attribution.
+
+## Cycle 8 — pending
+
+A fresh-context reviewer verifies the cycle-7 items and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.

@@ -6,7 +6,7 @@ Welcome to the internal research wiki for the **Cook Patrilineal Lineage Researc
 
 ## 1. Quick Links
 
-- **[Master Evidence Archive Guide](../evidence/README.md)** — Directory guide and index of every courthouse scan and source folder.
+- **[Master Evidence Archive Guide](../sources/README.md)** — Directory guide and index of every courthouse scan and source folder.
 - **[Master Lineage Status Table](../README.md#lineage-overview--proof-status)**
 - **[Acceptance Standards & Complete Profile Criteria](standards/acceptance-standards.md)**
 - **[Research Methods, Tools & Evidentiary Procedures](methods/research-methods-and-tools.md)**

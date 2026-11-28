@@ -1,6 +1,6 @@
 # Primary Evidence Archive Guide
 
-Every file inside `evidence/` is an original courthouse scan, state vital certificate, military draft card, obituary clipping, or official patent/grant image. Secondary vendor family trees are never stored here as proof.
+Every file inside `sources/` is an original courthouse scan, state vital certificate, military draft card, obituary clipping, or official patent/grant image. Secondary vendor family trees are never stored here as proof.
 
 ---
 

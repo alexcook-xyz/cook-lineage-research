@@ -69,7 +69,7 @@ agents:
 name: "Genealogical Evidentiary Pipeline"
 on:
   new_evidence_added:
-    paths: ["evidence/**"]
+    paths: ["sources/**"]
 
 stages:
   - name: "Extraction & Paleography"

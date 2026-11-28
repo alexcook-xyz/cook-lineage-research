@@ -176,18 +176,18 @@ The following verified primary scans from Generations 1–6 are recommended for 
 
 [^1]: Board for Certification of Genealogists, *Genealogy Standards*, 2nd ed. (Nashville: Turner Publishing, 2019), 1–3; Elizabeth Shown Mills, *Evidence Explained: Citing History Sources from Artifacts to Cyberspace*, 3rd ed. rev. (Baltimore: Genealogical Publishing Co., 2017), ch. 1–2.
 [^2]: Working benchmark paper: `the 25 November 2026 working paper (quarantined; removed from this repository)` (25 November 2026); audit report: `Second_Pass_Peer_Review_Audit_Cook_Lineage.md` (November 2026), workspace research archive.
-[^3]: Quarantined earlier draft: `Cook_Lineage_Scholarly_Proof_Paper.docx.txt`, workspace research archive; exposed in `Second_Pass_Peer_Review_Audit_Cook_Lineage.md`, "First-Pass Fabrication & Contradiction Ledger."
+[^3]: Quarantined earlier draft: `Cook_Lineage_Scholarly_Proof_Paper.pdf.txt`, workspace research archive; exposed in `Second_Pass_Peer_Review_Audit_Cook_Lineage.md`, "First-Pass Fabrication & Contradiction Ledger."
 [^4]: Privately held records for the living Generation 1 and Generation 2 persons; not published.
 [^5]: `the 25 November 2026 working paper (quarantined; removed from this repository)`, sec. 1–2, nn. 3, 5.
 [^6]: Kentucky National Guard, *The Kentucky National Guard in the Persian Gulf War 1990–1991*, pp. 92, 99 (service record for a living person; citation withheld).
 [^7]: Obituary of a deceased Generation 2 sibling (2025), citation withheld.
 [^8]: Obituary of Arlin Cook, unidentified Adair County/Columbia, Kentucky newspaper clipping, digital image `Arlin Cook Obituary.jpg`, Cook Family Tree archive; 15 December 1991 verified as Sunday, matching age 56 from 24 August 1935 birth.
-[^9]: Refuting `Cook_Lineage_Scholarly_Proof_Paper.docx.txt`, sec. 3 (Gen 2–3) and n. 6 (13 March 1991 fell on a Wednesday).
+[^9]: Refuting `Cook_Lineage_Scholarly_Proof_Paper.pdf.txt`, sec. 3 (Gen 2–3) and n. 6 (13 March 1991 fell on a Wednesday).
 [^10]: Obituary of Elsie Cook, unidentified Campbellsville, Kentucky newspaper clipping, digital image `Elsie Cook Obituary.jpg`, Cook Family Tree archive.
-[^11]: Refuting `Cook_Lineage_Scholarly_Proof_Paper.docx.txt`, sec. 3 (Gen 2) and n. 6 (27 February 2017 fell on a Monday).
+[^11]: Refuting `Cook_Lineage_Scholarly_Proof_Paper.pdf.txt`, sec. 3 (Gen 2) and n. 6 (27 February 2017 fell on a Monday).
 [^12]: `the 25 November 2026 working paper (quarantined; removed from this repository)`, sec. 2 and n. 4 (uninspected full obituary text of Elsie Cook); collateral yearbook image (collateral image withheld), Cook Family Tree archive.
 [^13]: U.S. Selective Service System, Registration Card (D.S.S. Form 1) for Russell Cook, Serial No. 1836, Order No. 1578, Adair County, Kentucky, DOB 28 November 1916, age 23, next of kin `Mrs. Anna Cook` (`Mother`), employer `Goff's Furniture Store`; digital image `Russell Cook WWII Draft Card .png`, Cook Family Tree archive.
-[^14]: Refuting `Cook_Lineage_Scholarly_Proof_Paper.docx.txt`, sec. 3 (Gen 4, falsely claiming birth `"10 May 1916"` to `Anna B. Sneed`).
+[^14]: Refuting `Cook_Lineage_Scholarly_Proof_Paper.pdf.txt`, sec. 3 (Gen 4, falsely claiming birth `"10 May 1916"` to `Anna B. Sneed`).
 [^15]: Citations from `the 25 November 2026 working paper (quarantined; removed from this repository)`, sec. 3, nn. 6–10: U.S. Social Security Administration Numident record for Arlin Cook (father `Russel Cook`, mother `Anna B. Sneed`); "Kentucky, Vital Record Indexes, 1911–1999," entry for `"Harlin Cook"` (24 August 1935, Adair County, mother `Annie Sneed`); 1940 U.S. Census, Adair Co., KY, Dist. 7 (Columbia), household of Anna Cook; and 1950 U.S. Census, Adair Co., KY, Dist. 7 (Columbia), household of Russell Cook (underlying images/extracts not in local file cache).
 [^16]: `Second_Pass_Peer_Review_Audit_Cook_Lineage.md`, sec. 3.1 (Gen 3 → 4 flag), noting `Freeman Hunt Profile Photo.jpg`, Cook Family Tree archive.
 [^17]: Adair County, Kentucky, Marriage Vol. 22:491, certificate of George W. Cook and Enna/Emma Janes, 27 September 1911, naming witness `John H. Sneed`; digital image `Adair_1911_Marriage_Cook_Janes.png`.
@@ -200,7 +200,7 @@ The following verified primary scans from Generations 1–6 are recommended for 
 [^24]: `Russell Cook WWII Draft Card .png`, item 7 (`Mrs. Anna Cook`, `Mother`).
 [^25]: *Find a Grave*, database and images, memorial `#96831073`, George William Cook (26 February 1852 – 16 July 1935), Cook Cemetery, Columbia, Adair County, Kentucky, archived locally in `ky_files_digest.txt` (`george_william-cook.html`).
 [^26]: `the 25 November 2026 working paper (quarantined; removed from this repository)`, sec. 4, nn. 12–15 (citing 1916 KY Birth Index [`Anna Jeans`], 1920 and 1930 U.S. Censuses of Adair Co., KY, July 1949 *Shelbyville News* obituary of James R. Cook, and 7 July 1949 Indiana death certificate of James Robert Cook; uninspected directly).
-[^27]: Refuting `Cook_Lineage_Scholarly_Proof_Paper.docx.txt`, sec. 3 (Gen 4–5) and nn. 15, 22.
+[^27]: Refuting `Cook_Lineage_Scholarly_Proof_Paper.pdf.txt`, sec. 3 (Gen 4–5) and nn. 15, 22.
 [^28]: Adair County, Kentucky, Deed Book Z:195, George W. Cook to `Thos. H. Cook`, 19 February 1877, $356 for two undivided shares (`2/6 or 1/3`) of 142 acres on Russell's Creek; County Clerk's Office, Columbia; digital image `Adair_DBZ_p194-195_EXACT.png` (also archived as `008574584_00110.jpg`). Contrasting microfilm frame-offset error in `Adair_DBZ_1877deed_start.png` (actually pp. 252–253) and `Adair_DBZ_p194-195.png` (actually pp. 254–255).
 [^29]: Adair County, Kentucky, Will Book M:133–134, will of Eliza E. Cook, dated 8 October 1900, proved 1 January 1906; County Clerk's Office, Columbia; digital images `Adair_WBM_p132-133start.png` (also `004818721_00430.jpg`, showing p. 133) and `Adair_WBM_p133.png` (duplicate of `Adair_WBM_p134.png`, showing p. 134).
 [^30]: *Find a Grave*, memorial `#121437185`, Eliza Cole Cook (8 May 1828 – December 1905), Cook Cemetery, Columbia, Adair County, Kentucky, quoting *Adair County News* obituary, archived in `ky_files_digest.txt` (`eliza-cook.html`).

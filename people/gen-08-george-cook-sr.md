@@ -32,12 +32,12 @@ George Cook Sr. died before **21 September 1835**, when his will (*Will Book 1:2
 
 | Date | Record & Repository | Verified Key Facts | Evidence Scan |
 |---|---|---|---|
-| **2 Mar 1780** | Pittsylvania *DB 6:34–35* | `Electious Musick Sr.` sells 97 ac on branch of Sandy Creek to `George Cooke Junior` (£75 cash); wit. William Collie, Elisha Cooke (mark), Ben Echols | [`PITT_DB6_p34-35_Musick_to_CookeJr_1780.jpg`](../../evidence/va-pittsylvania/PITT_DB6_p34-35_Musick_to_CookeJr_1780.jpg) |
+| **2 Mar 1780** | Pittsylvania *DB 6:34–35* | `Electious Musick Sr.` sells 97 ac on branch of Sandy Creek to `George Cooke Junior` (£75 cash); wit. William Collie, Elisha Cooke (mark), Ben Echols | [`PITT_DB6_p34-35_Musick_to_CookeJr_1780.jpg`](../sources/va-pittsylvania/PITT_DB6_p34-35_Musick_to_CookeJr_1780.jpg) |
 | **1782 & 1785** | Virginia State Lists (*Heads of Families*, pp. 41, 100) | `George Cook Sr.` (`7 white`); `George Cook Jr.` (`4 white`); `Elijah Cook` (`4 white`) | *Published GPO (1908)* |
-| **9 Aug 1783** | Pittsylvania *DB 7:106–107* (proved 19 Aug 1783) | `George Cook Junr. & Ruth` sell ~100 ac on Sandy Creek to `George Cook Senr.` (£25 cash); wit. Joseph Flippen, James Holloway, Elijah Cook, Wm Hedgeth, Orlando Smith | [`PITT_DB7_p106-107_CookJr_to_CookSr_1783.jpg`](../../evidence/va-pittsylvania/PITT_DB7_p106-107_CookJr_to_CookSr_1783.jpg) |
+| **9 Aug 1783** | Pittsylvania *DB 7:106–107* (proved 19 Aug 1783) | `George Cook Junr. & Ruth` sell ~100 ac on Sandy Creek to `George Cook Senr.` (£25 cash); wit. Joseph Flippen, James Holloway, Elijah Cook, Wm Hedgeth, Orlando Smith | [`PITT_DB7_p106-107_CookJr_to_CookSr_1783.jpg`](../sources/va-pittsylvania/PITT_DB7_p106-107_CookJr_to_CookSr_1783.jpg) |
 | **30 Mar 1785** | Virginia Land Office *Grants P:455–456* | `George Cook` granted 44 ac on Upper Double Creek (surveyed 28 Nov 1783, Warrant #8279) | *LVA Reel 56* |
 | **21 Sep 1835** | Pittsylvania *General Index to Wills*, p. 86 (`WB 1:293`) | `Cook, George Sen | W 1 293 | Cook Sarah & his children` *(will text restricted)* | *IA `pittcowbindex1` n85* |
-| **27 Jan 1837** | Pittsylvania *DB 39:319–320* (rec. 29 Jan 1837) | Sheriff Thomas H. Wooding *c.t.a.* sells **97 ac** on Sandy Creek adj. Thomas Flippin to John Williams for **$107.67** | [`Pittsylvania_DB39_p319-320_EXACT.png`](../../evidence/va-pittsylvania/Pittsylvania_DB39_p319-320_EXACT.png) |
+| **27 Jan 1837** | Pittsylvania *DB 39:319–320* (rec. 29 Jan 1837) | Sheriff Thomas H. Wooding *c.t.a.* sells **97 ac** on Sandy Creek adj. Thomas Flippin to John Williams for **$107.67** | [`Pittsylvania_DB39_p319-320_EXACT.png`](../sources/va-pittsylvania/Pittsylvania_DB39_p319-320_EXACT.png) |
 
 ---
 

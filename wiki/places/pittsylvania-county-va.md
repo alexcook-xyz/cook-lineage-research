@@ -17,12 +17,12 @@ Pittsylvania County is the primary ancestral seat of Generations 6, 7, and 8 fro
 
 ## 2. Key Primary Documents in Repository
 
-- **[Deed Book 33, p. 101 (1831)](../../evidence/va-pittsylvania/Pittsylvania_DB33_p101.png):** Heirs of George Cook convey 277 acres to James Nance.
-- **[Deed Book 39, p. 242 (1836)](../../evidence/va-pittsylvania/Pittsylvania_DB39_p242.png):** Cumberland Co., KY Power of Attorney.
-- **[Deed Book 39, pp. 256–257 (1836)](../../evidence/va-pittsylvania/Pittsylvania_DB39_p256-257.png):** James Cook follow-up deed reciting George & Henry were infants.
-- **[Deed Book 39, pp. 319–320 (1837)](../../evidence/va-pittsylvania/Pittsylvania_DB39_p319-320_EXACT.png):** Sheriff Thomas H. Wooding c.t.a. sale of 97 acres on Sandy Creek under the will of George Cook Senr decd.
-- **[Deeds & Wills Book 11, p. 240 (1801)](../../evidence/va-pittsylvania/Pittsylvania_DW11_p240.png):** Will of Samuell Pruett naming daughter Ruth Cook.
-- **[Accounts Current Book 7, pp. 210–211 (1823)](../../evidence/va-pittsylvania/Pittsylvania_AC7_GeorgeCook_Inventory_pp276-277.png):** Inventory of George Cook decd, Richard B. Cook admr.
+- **[Deed Book 33, p. 101 (1831)](../../sources/va-pittsylvania/Pittsylvania_DB33_p101.png):** Heirs of George Cook convey 277 acres to James Nance.
+- **[Deed Book 39, p. 242 (1836)](../../sources/va-pittsylvania/Pittsylvania_DB39_p242.png):** Cumberland Co., KY Power of Attorney.
+- **[Deed Book 39, pp. 256–257 (1836)](../../sources/va-pittsylvania/Pittsylvania_DB39_p256-257.png):** James Cook follow-up deed reciting George & Henry were infants.
+- **[Deed Book 39, pp. 319–320 (1837)](../../sources/va-pittsylvania/Pittsylvania_DB39_p319-320_EXACT.png):** Sheriff Thomas H. Wooding c.t.a. sale of 97 acres on Sandy Creek under the will of George Cook Senr decd.
+- **[Deeds & Wills Book 11, p. 240 (1801)](../../sources/va-pittsylvania/Pittsylvania_DW11_p240.png):** Will of Samuell Pruett naming daughter Ruth Cook.
+- **[Accounts Current Book 7, pp. 210–211 (1823)](../../sources/va-pittsylvania/Pittsylvania_AC7_GeorgeCook_Inventory_pp276-277.png):** Inventory of George Cook decd, Richard B. Cook admr.
 
 ---
 

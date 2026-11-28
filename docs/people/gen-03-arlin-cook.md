@@ -26,7 +26,7 @@ In early adulthood, Cook established his family in the neighboring manufacturing
 
 ## Primary Records & Archival Plates
 
-1. **Newspaper Obituary:** *Columbia News-Statesman* (Dec 1991), clipping preserved in `evidence/ky-modern/Arlin Cook Obituary.jpg` (Plate 1 in paper): *"COLUMBIA — Arlin Cook, 56, died here Sunday. His wife, Shelia, survives. Funeral, 11 a.m. Tuesday, Grissom Funeral Home."* (15 Dec 1991 was a Sunday, matching age 56 precisely).
+1. **Newspaper Obituary:** *Columbia News-Statesman* (Dec 1991), clipping preserved in `sources/ky-modern/Arlin Cook Obituary.jpg` (Plate 1 in paper): *"COLUMBIA — Arlin Cook, 56, died here Sunday. His wife, Shelia, survives. Funeral, 11 a.m. Tuesday, Grissom Funeral Home."* (15 Dec 1991 was a Sunday, matching age 56 precisely).
 2. **Social Security Numident File:** Records Arlin Cook, b. 24 Aug 1935, father **`Russel Cook`**, mother **`Anna B. Sneed`**.
 3. **Kentucky Birth Index:** Recorded under phonetic aspiration as `Harlin Cook`, b. 24 Aug 1935, Adair Co., mother `Annie Sneed`.
 4. **Federal Censuses:** 1940 Adair Co. census (age 5, household of mother Anna); 1950 Adair Co. census (age 14, household of father Russell Cook).

@@ -46,7 +46,7 @@ Where deeds do not explicitly name parental inheritance, survey bearings are mat
 When a new archival document or generational link is proposed for the project:
 
 1. **Open an Issue:** Submit an issue using `.github/ISSUE_TEMPLATE/record-retrieval.yml` specifying the jurisdiction, volume, folio/page, and research question.
-2. **Retrieve Primary Scan:** Place the uncompressed digital capture in the appropriate `evidence/` folder.
+2. **Retrieve Primary Scan:** Place the uncompressed digital capture in the appropriate `sources/` folder.
 3. **Full Verbatim Transcription:** Transcribe the complete legal instrument (including witness names, boundary descriptions, and court recording endorsements) rather than relying on an abstract.
 4. **Disambiguation Check:** Cross-reference against concurrent same-name tax lists and deeds.
 5. **Update Wiki Profile & Master Lineage Table:** Update the person's wiki markdown profile and commit the changes with a full source citation.

@@ -26,7 +26,7 @@ As a young man during the Great Depression, Cook moved into the town of Columbia
 
 ## Primary Records & Archival Plates
 
-1. **WWII Draft Registration Card (D.S.S. Form 1):** Selective Service System registration card executed October 1940 at Columbia, Adair County, preserved in `evidence/ky-modern/Russell Cook WWII Draft Card .png` (Plate 2 in paper):
+1. **WWII Draft Registration Card (D.S.S. Form 1):** Selective Service System registration card executed October 1940 at Columbia, Adair County, preserved in `sources/ky-modern/Russell Cook WWII Draft Card .png` (Plate 2 in paper):
    - Name: `Russell Cook`, Serial 1836, Order 1578.
    - Age & Birth: `23` years old, born **`Nov. 28, 1916`** in `Adair Co., Kentucky`.
    - Next of Kin: **`Mrs. Anna Cook`**, Relationship: **`Mother`**, Columbia, KY.

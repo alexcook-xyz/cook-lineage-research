@@ -6,7 +6,7 @@ Welcome to the internal research wiki for the **Cook Patrilineal Lineage Researc
 
 ## 1. Quick Links
 
-- **[Master Evidence Archive Guide](../evidence/README.md)** — Directory guide and index of every courthouse scan and source folder.
+- **[Master Evidence Archive Guide](../sources/README.md)** — Directory guide and index of every courthouse scan and source folder.
 - **[Master Lineage Status Table](../README.md#lineage-overview--proof-status)**
 - **[Acceptance Standards & Complete Profile Criteria](standards/acceptance-standards.md)**
 - **[Research Methods, Tools & Evidentiary Procedures](methods/research-methods-and-tools.md)**
@@ -17,16 +17,16 @@ Welcome to the internal research wiki for the **Cook Patrilineal Lineage Researc
 
 ## 2. Generational Profiles (People)
 
-- [Generation 1: Living subject (details withheld)](people/gen-01-living-subject.md) — *Proven (99–100%)*
-- [Generation 2: Living line member (details withheld)](people/gen-02-living-line-member.md) — *Proven (99–100%)*
-- [Generation 3: Arlin Cook (1935–1991)](people/gen-03-arlin-cook.md) — *Proven (99–100%)*
-- [Generation 4: Russell Cook (1916–1982)](people/gen-04-russell-cook.md) — *Proven (99–100%)*
-- [Generation 5: George William Cook (1852–1935)](people/gen-05-george-william-cook.md) — *Proven (99–100%)*
-- [Generation 6: George W. Cook (c. 1813–1873)](people/gen-06-george-w-cook.md) — *Proven (99–100%)*
-- [Generation 7: George Cook ("George B," d. 1831)](people/gen-07-george-cook-b.md) — *Proven (99–100%)*
-- [Generation 8: George Cook Sr. ("the Testator," d. 1835)](people/gen-08-george-cook-sr.md) — *Working Hypothesis (~75–80%)*
-- [Generation 9: George Cook (Amelia & Prince Edward, 1750–1771)](people/gen-09-colonial-piedmont-ancestor.md) — *Proven Profile (99–100%) | Direct Lineage Link Hypothesis (~45–55%)*
-- [Generation 10+: Transatlantic Immigrant Ancestor](people/gen-10-immigrant-ancestor.md) — *Unidentified*
+- [Generation 1: Living subject (details withheld)](../people/gen-01-living-subject.md) — *Proven (99–100%)*
+- [Generation 2: Living line member (details withheld)](../people/gen-02-living-line-member.md) — *Proven (99–100%)*
+- [Generation 3: Arlin Cook (1935–1991)](../people/gen-03-arlin-cook.md) — *Proven (99–100%)*
+- [Generation 4: Russell Cook (1916–1982)](../people/gen-04-russell-cook.md) — *Proven (99–100%)*
+- [Generation 5: George William Cook (1852–1935)](../people/gen-05-george-william-cook.md) — *Proven (99–100%)*
+- [Generation 6: George W. Cook (c. 1813–1873)](../people/gen-06-george-w-cook.md) — *Proven (99–100%)*
+- [Generation 7: George Cook ("George B," d. 1831)](../people/gen-07-george-cook-b.md) — *Proven (99–100%)*
+- [Generation 8: George Cook Sr. ("the Testator," d. 1835)](../people/gen-08-george-cook-sr.md) — *Working Hypothesis (~75–80%)*
+- [Generation 9: George Cook (Amelia & Prince Edward, 1750–1771)](../people/gen-09-colonial-piedmont-ancestor.md) — *Proven Profile (99–100%) | Direct Lineage Link Hypothesis (~45–55%)*
+- [Generation 10+: Transatlantic Immigrant Ancestor](../people/gen-10-immigrant-ancestor.md) — *Unidentified*
 
 ---
 

@@ -26,16 +26,16 @@ Cook married Catharine, with whom he had a family of at least seven surviving ch
 
 ## Primary Records & Archival Plates
 
-1. **[1831 Pittsylvania County Heirs' Deed (Deed Book 33, p. 101)](../../evidence/va-pittsylvania/Pittsylvania_DB33_p101.png):**
+1. **[1831 Pittsylvania County Heirs' Deed (Deed Book 33, p. 101)](../sources/va-pittsylvania/Pittsylvania_DB33_p101.png):**
    - Plate 8 in the compiled research paper.
    - Indenture dated 15 Oct 1831, proved 21 Nov 1831.
    - Parties: `Catharine Cook, Widow of George Cook Decd., David Cook, James Cook, Elizabeth Cook, John Cook, Washington Cook, Henry Cook & George Cook of the County of Pittsylvania` to `James Nance`.
    - Consideration: $140.74 for **277 acres** adjoining John Carter.
    - Execution: Signed by mark by Catharine, David, Elizabeth, James, and signatures of Washington and John. Blank seal lines left for infant sons **Henry Cook** and **George Cook**, who did not sign.
-2. **[1836 Cumberland County, KY Power of Attorney (DB 39:242)](../../evidence/va-pittsylvania/Pittsylvania_DB39_p242.png):**
+2. **[1836 Cumberland County, KY Power of Attorney (DB 39:242)](../sources/va-pittsylvania/Pittsylvania_DB39_p242.png):**
    - Plate 9 in the compiled research paper.
    - Adult George and Henry Cook appoint brother James Cook of Adair County to convey their interest in the 277-acre estate (indexed `227` / transcribed `277` acres in follow-up).
-3. **[1836 Pittsylvania County Follow-up Conveyance (DB 39:256–257)](../../evidence/va-pittsylvania/Pittsylvania_DB39_p256-257.png):**
+3. **[1836 Pittsylvania County Follow-up Conveyance (DB 39:256–257)](../sources/va-pittsylvania/Pittsylvania_DB39_p256-257.png):**
    - Plate 10 in the compiled research paper.
    - Proves George and Henry reached majority after moving to Kentucky.
 

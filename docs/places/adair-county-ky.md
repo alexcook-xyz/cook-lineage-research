@@ -18,10 +18,10 @@ Adair County served as the primary homestead of the Cook patrilineage for five g
 
 ## 2. Primary Record Groups in Repository
 
-- **Deed Book Z, p. 195 (1877):** George W. Cook heirship deed for 142 acres on Russell's Creek (`evidence/ky-adair/Adair_DBZ_p194-195_EXACT.png`).
-- **Will Book M, pp. 133–134 (1900/1906):** Will of Eliza E. Cook devises home tract to son George W. Cook (`evidence/ky-adair/Adair_WBM_p133.png`).
-- **Will Book M, p. 7 (1890/1893):** Will of brother James Cook (`evidence/ky-adair/Adair_WBM_p7.png`).
-- **Marriage Register Vol. 22:490–491 (1911):** George W. Cook marriage to Enna Janes (`evidence/ky-modern/Adair_1911_Marriage_Cook_Janes.png`).
+- **Deed Book Z, p. 195 (1877):** George W. Cook heirship deed for 142 acres on Russell's Creek (`sources/ky-adair/Adair_DBZ_p194-195_EXACT.png`).
+- **Will Book M, pp. 133–134 (1900/1906):** Will of Eliza E. Cook devises home tract to son George W. Cook (`sources/ky-adair/Adair_WBM_p133.png`).
+- **Will Book M, p. 7 (1890/1893):** Will of brother James Cook (`sources/ky-adair/Adair_WBM_p7.png`).
+- **Marriage Register Vol. 22:490–491 (1911):** George W. Cook marriage to Enna Janes (`sources/ky-modern/Adair_1911_Marriage_Cook_Janes.png`).
 
 ---
 

@@ -9,16 +9,16 @@ The research applies the **Genealogical Proof Standard (GPS)** to every person, 
 
 | Gen | Individual | Vital Dates | Primary Locations | Lineage Proof Status | Key Proving Documents | Wiki Profile |
 |:---:|---|---|---|:---:|---|:---:|
-| **1** | **Starting point (living person; details withheld)** | — | Kentucky | **Proven** | Documented in restricted records | [Profile](wiki/people/gen-01-living-subject.md) |
-| **2** | **Living line member (details withheld)** | — | Kentucky | **Proven** | Privately held records | [Profile](wiki/people/gen-02-living-line-member.md) |
-| **3** | **Arlin Cook** (*Harlin*) | 24 Aug 1935 – 15 Dec 1991 | Adair & Taylor Cos., KY | **Proven** | 1991 Columbia obit; SSA Numident; 1935 KY Birth Index | [Profile](wiki/people/gen-03-arlin-cook.md) |
-| **4** | **Russell Cook** | 28 Nov 1916 – 8 Jan 1982 | Columbia, Adair Co., KY | **Proven** | WWII Draft Card (DOB 28 Nov 1916); FAG #96831073; censuses | [Profile](wiki/people/gen-04-russell-cook.md) |
-| **5** | **George William Cook** | 26 Feb 1852 – 16 Jul 1935 | Russell's Creek, Adair Co., KY | **Proven** | 1911 Adair Marriage Vol. 22:490–491; 1935 Death Cert #18658; 1877 deed DB Z:195 | [Profile](wiki/people/gen-05-george-william-cook.md) |
-| **6** | **George W. Cook** | c. 1813 – by Sep 1873 | Pittsylvania Co., VA → Adair Co., KY | **Proven** | 1860 census (`PITTSYLVANIA VA`); DB Z:195 (142 ac); Eliza Cook will | [Profile](wiki/people/gen-06-george-w-cook.md) |
-| **7** | **George Cook ("George B")** | c. 1760/85 – bef. 15 Oct 1831 | Pittsylvania Co., VA | **Proven** | Pittsylvania DB 33:101 (277 ac); DB 39:242 (POA); DB 39:256–257 | [Profile](wiki/people/gen-07-george-cook-b.md) |
-| **8** | **George Cook Sr. ("the Testator")** | c. 1740/55 – by 21 Sep 1835 | Sandy Creek, Pittsylvania Co., VA | **Working Hypothesis (~75–80%)** | DB 7:106–107 (100 ac); WB 1:293 (will); DB 39:319–320 (1837 sheriff sale, 97 ac) | [Profile](wiki/people/gen-08-george-cook-sr.md) |
-| **9** | **George Cook (Harris's Creek)** | c. 1700/15 – aft. 1771 | Amelia & Prince Edward Cos., VA *(?Spotsylvania 1741–48)* | **Profile Proven (99–100%) \| Direct Link (~45–55%)** | 1750 Patent (`29:316–317`, 400 ac); 1760 levy excuse; 1768 **Sarah** dower (`OB 4:110`); `DB 3:366` (150 ac); `DB 5:67–68` (250 ac) | [Profile](wiki/people/gen-09-colonial-piedmont-ancestor.md) |
-| **10+** | **Colonial Immigrant Ancestor** | 17th / Early 18th century | British Port → Tidewater Virginia / Maryland | **Unidentified** | Headrights in Virginia Land Patents 1–28; Coldham Emigrants | [Profile](wiki/people/gen-10-immigrant-ancestor.md) |
+| **1** | **Starting point (living person; details withheld)** | — | Kentucky | **Proven** | Documented in restricted records | [Profile](people/gen-01-living-subject.md) |
+| **2** | **Living line member (details withheld)** | — | Kentucky | **Proven** | Privately held records | [Profile](people/gen-02-living-line-member.md) |
+| **3** | **Arlin Cook** (*Harlin*) | 24 Aug 1935 – 15 Dec 1991 | Adair & Taylor Cos., KY | **Proven** | 1991 Columbia obit; SSA Numident; 1935 KY Birth Index | [Profile](people/gen-03-arlin-cook.md) |
+| **4** | **Russell Cook** | 28 Nov 1916 – 8 Jan 1982 | Columbia, Adair Co., KY | **Proven** | WWII Draft Card (DOB 28 Nov 1916); FAG #96831073; censuses | [Profile](people/gen-04-russell-cook.md) |
+| **5** | **George William Cook** | 26 Feb 1852 – 16 Jul 1935 | Russell's Creek, Adair Co., KY | **Proven** | 1911 Adair Marriage Vol. 22:490–491; 1935 Death Cert #18658; 1877 deed DB Z:195 | [Profile](people/gen-05-george-william-cook.md) |
+| **6** | **George W. Cook** | c. 1813 – by Sep 1873 | Pittsylvania Co., VA → Adair Co., KY | **Proven** | 1860 census (`PITTSYLVANIA VA`); DB Z:195 (142 ac); Eliza Cook will | [Profile](people/gen-06-george-w-cook.md) |
+| **7** | **George Cook ("George B")** | c. 1760/85 – bef. 15 Oct 1831 | Pittsylvania Co., VA | **Proven** | Pittsylvania DB 33:101 (277 ac); DB 39:242 (POA); DB 39:256–257 | [Profile](people/gen-07-george-cook-b.md) |
+| **8** | **George Cook Sr. ("the Testator")** | c. 1740/55 – by 21 Sep 1835 | Sandy Creek, Pittsylvania Co., VA | **Working Hypothesis (~75–80%)** | DB 7:106–107 (100 ac); WB 1:293 (will); DB 39:319–320 (1837 sheriff sale, 97 ac) | [Profile](people/gen-08-george-cook-sr.md) |
+| **9** | **George Cook (Harris's Creek)** | c. 1700/15 – aft. 1771 | Amelia & Prince Edward Cos., VA *(?Spotsylvania 1741–48)* | **Profile Proven (99–100%) \| Direct Link (~45–55%)** | 1750 Patent (`29:316–317`, 400 ac); 1760 levy excuse; 1768 **Sarah** dower (`OB 4:110`); `DB 3:366` (150 ac); `DB 5:67–68` (250 ac) | [Profile](people/gen-09-colonial-piedmont-ancestor.md) |
+| **10+** | **Colonial Immigrant Ancestor** | 17th / Early 18th century | British Port → Tidewater Virginia / Maryland | **Unidentified** | Headrights in Virginia Land Patents 1–28; Coldham Emigrants | [Profile](people/gen-10-immigrant-ancestor.md) |
 
 ---
 
@@ -36,16 +36,16 @@ The repository features a complete built-in markdown wiki documenting every indi
 
 - **[Wiki Home Page](wiki/Home.md)**
 - **People Profiles:**
-  - [Gen 1: Starting point (living; details withheld)](wiki/people/gen-01-living-subject.md)
-  - [Gen 2: Living line member (details withheld)](wiki/people/gen-02-living-line-member.md)
-  - [Gen 3: Arlin Cook (1935–1991)](wiki/people/gen-03-arlin-cook.md)
-  - [Gen 4: Russell Cook (1916–1982)](wiki/people/gen-04-russell-cook.md)
-  - [Gen 5: George William Cook (1852–1935)](wiki/people/gen-05-george-william-cook.md)
-  - [Gen 6: George W. Cook (c. 1813–1873)](wiki/people/gen-06-george-w-cook.md)
-  - [Gen 7: George Cook ("George B," d. 1831)](wiki/people/gen-07-george-cook-b.md)
-  - [Gen 8: George Cook Sr. ("the Testator," d. 1835)](wiki/people/gen-08-george-cook-sr.md)
-  - [Gen 9: George Cook (Amelia / Prince Edward, 1750–1771)](wiki/people/gen-09-colonial-piedmont-ancestor.md)
-  - [Gen 10+: Transatlantic Immigrant Ancestor](wiki/people/gen-10-immigrant-ancestor.md)
+  - [Gen 1: Starting point (living; details withheld)](people/gen-01-living-subject.md)
+  - [Gen 2: Living line member (details withheld)](people/gen-02-living-line-member.md)
+  - [Gen 3: Arlin Cook (1935–1991)](people/gen-03-arlin-cook.md)
+  - [Gen 4: Russell Cook (1916–1982)](people/gen-04-russell-cook.md)
+  - [Gen 5: George William Cook (1852–1935)](people/gen-05-george-william-cook.md)
+  - [Gen 6: George W. Cook (c. 1813–1873)](people/gen-06-george-w-cook.md)
+  - [Gen 7: George Cook ("George B," d. 1831)](people/gen-07-george-cook-b.md)
+  - [Gen 8: George Cook Sr. ("the Testator," d. 1835)](people/gen-08-george-cook-sr.md)
+  - [Gen 9: George Cook (Amelia / Prince Edward, 1750–1771)](people/gen-09-colonial-piedmont-ancestor.md)
+  - [Gen 10+: Transatlantic Immigrant Ancestor](people/gen-10-immigrant-ancestor.md)
 - **Geographic & Jurisdictional Guides:**
   - [Adair County, Kentucky](wiki/places/adair-county-ky.md)
   - [Cumberland County, Kentucky](wiki/places/cumberland-county-ky.md)
@@ -81,7 +81,7 @@ cook-lineage-research/
 │   ├── methods/                              # Research methodologies, tools, and workflows
 │   ├── people/                               # Profile pages for each generation (Gen 1 to 10+)
 │   └── places/                               # Jurisdictional and archival research guides
-├── evidence/                                 # Primary record scans & transcriptions (see evidence/README.md)
+├── sources/                                 # Primary record scans & transcriptions (see sources/README.md)
 │   ├── README.md                             # Directory guide & index of every evidence folder & scan
 │   ├── ky-modern/                            # Modern Kentucky vital records, obits, draft cards
 │   ├── ky-adair/                             # Adair County deed books, wills, inventories

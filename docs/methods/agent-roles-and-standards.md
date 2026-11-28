@@ -88,7 +88,7 @@ To adhere to industry best practices, the research architecture divides responsi
 └───────────┬─────────────┘
             ▼
 ┌─────────────────────────┐
-│ 2. Archival Pull & Scan │ ──> Primary image placed in evidence/ with full folio check
+│ 2. Archival Pull & Scan │ ──> Primary image placed in sources/ with full folio check
 └───────────┬─────────────┘
             ▼
 ┌─────────────────────────┐

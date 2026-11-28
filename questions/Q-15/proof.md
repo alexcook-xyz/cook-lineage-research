@@ -132,3 +132,12 @@ Any of the following would move H1 or H4 to `probable` or overturn them:
 - Any record naming Jr. as Sr.'s son, or as the son of another man.
 
 The 1782 white-soul counts, the court year of DB 7, and the film and frame provenance of both deed images are unverified.
+
+## Addendum: Pittsylvania grantor and grantee indexes, letters C and M (group 9)
+Downloaded 2026-11-28 from the Internet Archive scans of the clerk's indexes (1765–1889) and read from the images. These are indexes (derivative; they give recording dates, not deed dates), not the deeds.
+- **No George Cook as grantor or grantee in Pittsylvania from 1768 to 1779.** Grantor C lists only George Jr. and Ruth to George Cook Sr., recorded 19 Aug 1783, DB 7:106 [[S-pitt-grantor-index-c-p26-cook-1769-1773]], [[S-pitt-grantor-index-c-p27-cook-1773-1814]]. Grantee C lists only DB 6:34 (1780) and DB 7:106 (1783) for a George [[S-pitt-grantee-index-cook-p24-1768-1794]], [[S-pitt-grantee-index-cooke-p29-1780-1810]]. Other Cooks (Harmon, John, William, Joseph, Shem, Benjamin) have many entries.
+- **Elijah Cook:** one grantee entry, from Peter Martin, 20 Jun 1785, DB 7:453. No Elisha as a grantee in range, no Zachariah.
+- **Musick:** Electious Musick Sr. sells to George Cooke Jr. (DB 6:34, recorded 15 Aug 1780) and "Elexicous/Elixicous" Musick sells to John Johnson, DB 6:93, recorded 18 Apr 1781 [[S-pitt-grantor-index-m-p36-musick-1780-1781]]. No Musick as a grantee (he held land by patent). The 1781 given-name cell is typed on two lines and is not a settled reading.
+- **Effect:** H3 is partly tested for Pittsylvania land: no land deed in the county names a George Cook before the 1780 purchase, so George Cook Jr. did not buy or sell recorded Pittsylvania land earlier. This does not cover Pittsylvania order books, tithables, Lunenburg, Halifax or North Carolina. It slightly favors a late arrival (about 1779–1780) and does not change H1, H2 or H4: all stay `possible`. The question stays stalled.
+- **Limits:** index pages were mostly read at 40–110 dpi, some page ranges were skimmed, and the indexes list only the first grantee or grantor of a multi-party deed.
+- **New pulls:** DB 7:453 (Elijah Cook, 1785), DB 6:93 (Musick to Johnson, 1781), DB 6:34 recording endorsement, DB 5:208 (attorney power, grantor name unclear).

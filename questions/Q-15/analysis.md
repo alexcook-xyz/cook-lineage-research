@@ -289,3 +289,6 @@ Pittsylvania George except by name and region. No record states a Sr.–Jr. rela
 
 **Proposed grades:** H1 possible; H2 possible (open); H3 unresolved (search not exhaustive); H4 possible.
 **Stalled** under R3.
+
+## 9. Addendum: grantor/grantee index readings (group 9)
+Sources: [[S-pitt-grantor-index-c-p26-cook-1769-1773]], [[S-pitt-grantor-index-c-p27-cook-1773-1814]], [[S-pitt-grantee-index-cook-p24-1768-1794]], [[S-pitt-grantee-index-cooke-p29-1780-1810]], [[S-pitt-grantor-index-m-p36-musick-1780-1781]]. Class: derivative indexes (O is the deed book), information undetermined (recording dates, not deed dates), evidence negative for a George Cook land deed in Pittsylvania 1768–1779 and indirect for Musick (two sales, 1780 and 1781). Weight: medium; pages read at 40–110 dpi, multi-party deeds indexed under the first name only. Agreement: the index rows for DB 6:34 and DB 7:106 match the deed images (independent confirmation of the tract chain). No new conflict. The "Elexicous/Elixicous" cell does not change C3 ("Dextrous" vs Electious). Coverage: groups 3 and 8 are now partly searched (land deeds, by index); order books, tithables, Lunenburg and NC remain blocked.

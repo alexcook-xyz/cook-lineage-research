@@ -968,3 +968,263 @@ Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free source
 - Sources created: [[S-pitt-tithables-1767-wilson-list-dextrous-musick]], [[S-pitt-oath-allegiance-1777-lists-music-collie-cook]]
 - Not resolved: no new primary record places Electious Musick Sr. in Prince Edward, Lunenburg, Pittsylvania, or Spotsylvania before the 2 Mar 1780 deed beyond the repo's existing 1748 Spotsylvania entry.
 
+
+# Q-15 research log, record group 9 (Pittsylvania Co. Grantee Index 1765-1889, letter C)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Item: the user-approved download of grantee-C.pdf (131 pages, image-only, no OCR), kept in the session scratchpad; treated as untrusted, opened only with pdftoppm and the image reader, no code run from its directory. Page renderings are in the scratchpad folder ia-index/pages-grantee-C/. Index layout: grantee surname, given-name columns, grantor, kind of instrument, volume and page; entries are sorted by surname and then by recording date. PDF page n carries a printed page number about 73 lower in the Cook area (PDF p. 97 = printed 24).
+
+### 2026-11-28 — Internet Archive file: Pittsylvania Grantee Index, locating the Cook/Cooke/Coke pages
+- **Searcher:** records-searcher
+- **Goal:** Find the surname pages by binary search on alphabetical order; supports plan rows 3 and 8 (deed index for Cook and Musick).
+- **Search terms:** Page-header and first-row surname reading at PDF pp. 1-3, 60, 80, 90, 96, 97, 98, 99, 100, 101, 102, 103, 104
+- **Coverage:** PDF p. 60 = Clark; p. 80 = Coleman; p. 90 = Collie/Collier; p. 96 = Conway; p. 97 = Cook (starts Jun 1768); p. 98 = Cook (1796 onward); p. 99 = Cook Tr / Robert (1820-1831); p. 100 = Cook (1832-1850); p. 101 = Cook (1851-1877); p. 102 = Cook (1878-1889) then Cooks/Cooke; p. 103 = Coply/Cooper; p. 104 = Corbin. Pp. 75-77 = Cobbs, Cochran, Cocke, Cockerham, Coke, Coker, Cole.
+- **Result:** found
+- **Findings:** Cook group = PDF pp. 97-102. Cooke group = foot of p. 102. Cocke (a different surname) = PDF p. 75. Coke = PDF p. 76 (one entry, 1869). The index does carry pre-1790 entries (earliest Cook entry 24 Jun 1768, vol. 1).
+- **Index or original:** Index only (typed ledger image). No deed image.
+- **Leads (not evidence):** none
+- **Next:** Read the Cook and Cooke pages (next entries).
+
+### 2026-11-28 — Pittsylvania Grantee Index, letter C: Cook, printed p. 24 (PDF p. 97), 1768-1794
+- **Searcher:** records-searcher
+- **Goal:** Read every Cook grantee entry 1767-1790; flag George, Elijah, Elisha, Zachariah; plan rows 3, 8 (H1, H2, H3).
+- **Search terms:** Surname Cook (all given names); years 1767-1790 (page runs to 1794)
+- **Coverage:** PDF p. 97 read at 90 dpi in three crops; every row from 24 Jun 1768 to 17 Feb 1794 read. 41 rows in all, 37 of them dated 1768-1790. PDF p. 98 (1796 onward) seen only at 40 dpi, outside the range.
+- **Result:** found
+- **Findings:** [[S-pitt-grantee-index-cook-p24-1768-1794]]. George: one entry as grantee (George Sr, 19 Aug 1783, from George Cook Jr & wife, 7:106; already held in the repo). No other George as grantee 1768-1790 (next is George, 17 Feb 1794, from William Lynch, 9:503). Elijah: 20 Jun 1785, from Peter Martin, B & S, 7:453. Elisha: no entry as grantee on this page; "Elisha Eastes" [reading about 80%] appears as grantor to Harmon Cook, 23 Jun 1769, 1:219. Zachariah: none. Bulk of the page is Harmon Cook (about 30 entries, 1769-1789). Also John (1768, 1771, 1776, 1789), Joseph (1771), Benjamin (1774). No Cook entry at all between Mar 1773 and Jul 1779 except the 1774 gift to Benjamin and the 1776 sale bill to John; no George 1768-1782.
+- **Index or original:** Index image only. Deed pages not seen.
+- **Leads (not evidence):** none
+- **Next:** Pull Pittsylvania DB 7:453 (Elijah, 1785, from Peter Martin). Pull DB 1:219 (Eastes to Harmon Cook, 1769) only as FAN context (Elisha given name, grantor side). Optionally check DB 5:208 (Atty Pwr of, grantor "George Erond [?]" "al", 20 Jul 1779) for a name like Elrod versus a Cook link.
+
+### 2026-11-28 — Pittsylvania Grantee Index, letter C: Cooke and Cooks, printed p. 29 (PDF p. 102, foot)
+- **Searcher:** records-searcher
+- **Goal:** Read every Cooke grantee entry 1767-1790; same flags; row 3, row 8.
+- **Search terms:** Cooke, Cooks, Coke, Cocke, Cockerham, Coker (variants of Cook); given names George, Elijah, Elisha, Zachariah
+- **Coverage:** Cooke group at foot of PDF p. 102 read at 90 dpi (all 7 rows). First read as "Cooks" at 40 dpi; the 90 dpi rendering shows "Cooke". Coke (PDF p. 76): one entry, 19 Apr 1869 (Coke Tr al, John A; outside range). Cocke (PDF p. 75) read at 90 dpi; Coker and Cockerham seen at 90 dpi / 40 dpi (different surnames).
+- **Result:** found
+- **Findings:** [[S-pitt-grantee-index-cooke-p29-1780-1810]]. George: one entry, 15 Aug 1780, George Jr from Electious Musick Sr, B & S, 6:34 (matches the repo's DB 6:34-35 deed of 2 Mar 1780; the index date is later, presumably the recording date, inference). Later Cooke rows: Harmon 1797 (11:173), Harmon Sr 1805 (14:361), Harmon Sr 1810 (17:24); out of range. No Elijah, Elisha, or Zachariah Cooke. Peripheral surnames, not Cook: Cocke, John, 28 Mar 1771, from John Bowmer, 2:124; Coker, William, 28 Mar 1771, from John Burks, Sale Bill, 2:98 (40 dpi only, about 85% sure). No Coke before 1869.
+- **Index or original:** Index image only.
+- **Leads (not evidence):** none; Cocke 1771 John is probably a different surname, not tested.
+- **Next:** Pull DB 6:34-35 recording endorsement (already in repo) to confirm the recording date of 15 Aug 1780. Nothing new on Cooke.
+
+### 2026-11-28 — Pittsylvania Grantee Index, letter C: Cook pp. 98-102 (post-1790), skim only
+- **Searcher:** records-searcher
+- **Goal:** Confirm that no Cook entry 1767-1790 is out of order after p. 97 (the index sorts by surname then date).
+- **Search terms:** Surname Cook, dates
+- **Coverage:** PDF pp. 98-102 viewed at 40 dpi only; dates read from p. 98 start (Feb 15 1796) to p. 102 end (1889). Not read line by line. Seen incidentally: Feb 15 1796, Elisha, from Samuel Watkins al, B & S, 10:208 (about 75% sure of the page number at 40 dpi).
+- **Result:** partial
+- **Findings:** No pre-1791 date seen on pp. 98-102. The 1796 Elisha Cook entry is outside the requested range and is recorded here as a lead for the FAN (Elisha Cooke witnessed DB 6:34-35); no source file made because it was not read at legible resolution.
+- **Index or original:** Index image only.
+- **Leads (not evidence):** none
+- **Next:** If wanted, re-read PDF p. 98 at 90 dpi for the Elisha 1796 row.
+
+### 2026-11-28 — Pittsylvania Grantee Index, pages not read
+- **Searcher:** records-searcher
+- **Goal:** Record gaps.
+- **Search terms:** n/a
+- **Coverage:** PDF pp. 4-59, 61-74, 78-79, 81-89, 91-95, 105-131 not opened (other surnames). Not a reading failure. No page in the Cook range was unreadable.
+- **Result:** nothing found
+- **Findings:** None. Limits: this is the grantee side only. The index covers recording dates and the Cott index may omit grantees named only as "al" (and others) or "heirs"; entries listed with "al" would have the principal first. A Cook named only as a second grantee ("al") may be indexed under the first grantee's surname. Deed Book 5 index page for the 1779 Atty Pwr entry could hide a Cook link.
+- **Index or original:** n/a
+- **Leads (not evidence):** none
+- **Next:** Check the Grantor Index (item grantor-index-june-1765-1889) for Cook as grantor, 1767-1790, to catch George Cook as a seller in Pittsylvania; that is a separate search.
+
+# Q-15 research log, record group 9 (Pittsylvania Co., VA Grantee Index 1765-1889, letter M: Musick / Music / Muzick / Mewsick)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free source (Internet Archive scan, downloaded by the user's approval; untrusted file, handled only with pdfinfo/pdftoppm, no code run from its directory). Plan rows 8 (Musick family records) and 3 (Pittsylvania 1767-1782, first arrival). No source file created: no Musick entry exists in this volume to cite.
+
+Working files (not part of the repo): PDF `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/grantee-M.pdf`; rendered pages in `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/pages-grantee-M/` (PNG, 40 dpi for survey pages, 80-110 dpi for pages 1, 58, and the crops of 109 and 113).
+
+Volume structure learned (for reuse): a Cott Family Name Index ledger, "Grantee Index to Deeds, Trust Deeds, Liens, Etc., Pittsylvania County, Va." Columns: date of record, surname, given names (three columns by initial A-H / I-O / P-Z), grantor, kind of instrument, volume, page. Entries are alphabetical by surname, then chronological. The PDF holds several lettered sections with their own ledger page numbers (Ma-Mc starts at PDF p. 2 as ledger p. 1; Me at PDF p. 47; Mi-Mu at PDF p. 51 onward, e.g. ledger p. 8 = PDF p. 58, ledger p. 14 = PDF p. 85, ledger p. 35 = PDF p. 106). Late entries indexed 13 Nov 2007 are at the end (PDF p. 115, ledger p. 44). Volume numbers are deed book numbers, for example "Vol. 1 Page 350".
+
+### 2026-11-28 — Internet Archive scan: Pittsylvania Grantee Index, letter M, locate surname run by binary search
+- **Searcher:** records-searcher
+- **Goal:** Find the Musick/Music/Muzick/Mewsick pages by alphabetical binary search; plan rows 8, 3.
+- **Search terms:** Page-by-page viewing at survey resolution. Pages viewed: PDF 1 (Cott key sheet), 2 (Mab-Mad), 30 (McC-McD), 40 (McK), 47 (Meb-Mes), 48 (Meg-Mer), 49 (Mer-Meu), 50 (Cott key sheet, Mi section), 58 (Miller-Millner), 85 (Morton-Mosley), 105 (Murphy-Murrell).
+- **Coverage:** 11 pages viewed, not all 115. Established that Musick would fall in the Mi-Mu section after Mushaw and before Mustain, at about PDF p. 109, and that Mewsick would fall in the Me section after Metts/Meux at about PDF p. 49.
+- **Result:** found (location only)
+- **Findings:** Mus- run located at PDF pp. 106-112; Me-run end at PDF p. 49. No hits yet. PDF pp. 3-29, 31-39, 41-46, 51-57, 59-84, 86-104 were not read (not needed for the alphabetical positions of the target surnames).
+- **Index or original:** Index (typed ledger, 1934 Cott format; the index is a later compilation, not the deed itself). Original deeds not seen.
+- **Leads (not evidence):** none
+- **Next:** read every page of the Mus- run (next entry).
+
+### 2026-11-28 — Internet Archive scan: Pittsylvania Grantee Index M, Mu section (PDF pp. 105-115), read every page
+- **Searcher:** records-searcher
+- **Goal:** Read every Musick/Music/Muzick entry 1767-1790; flag Electious/Elexius/Electius, George, Dextrous, Abram entries; plan rows 8, 3.
+- **Search terms:** Surnames Musick, Music, Muzick, Musik, Mewsick, Mewsic; given names Electious, Elexius, Electius, Elecious, George, Dextrous, Dexter, Abram, Abraham; all years, flag 1767-1790.
+- **Coverage:** PDF pp. 105 (Murphy, Murray, Murrell), 106 (Murrell, Murray, Murry, Muse 1782-1822), 107 (Muse 1822-1860), 108 (Muse 1864-1882), 109 (Muse 1883-1889; Musgrove; Mushaw; Mustain 1770-1837), 110 (Mustain 1837-1864), 111 (Mustain 1866-1886), 112 (Mustain 1886-1889; Mustine 1812, 1858), 113 (Mustean, Musteen, Musten, Mustin; Muter 1769; Myars; Myers 1807-1839), 114 (Myers 1841-1880), 115 (Myers 1883-1889; Myler; Myres; Late Entries 1790-1791). Pages 105-108 and 110-115 read at 40 dpi (surnames and dates legible; dates and book/page figures in dense rows are not guaranteed). PDF p. 109 Mushaw/Mustain top rows and PDF p. 113 Mustean/Muter rows re-read at 90-110 dpi. The surname run between Muse and Mustain is: Muse, Musgrove (Musgrove), Mushaw, Mustain.
+- **Result:** nothing found
+- **Findings:** No entry for Musick, Music, Muzick or any spelling variant exists anywhere in the Mu run. Where Musick would sort (after Mushaw, before Mustain, PDF p. 109) the index goes directly from Mushaw (1883) to Mustain. No Electious, Elexius, Electius, Elecious or Dextrous entry as a given name in the pages read. Abram: none. George: one entry, listed below, which is not Musick. Entries dated 1767-1790 that I saw in or beside the Mu run are listed below; none is Musick.
+
+  | Date of record | Surname as indexed | Given name | Grantor | Instrument | Vol:Page | Note |
+  |---|---|---|---|---|---|---|
+  | 25 Aug 1769 | Muter | George | Zachariah Waller | Mtg | 1:350 | PDF p. 113, read at 110 dpi. Indexed "Muter". Not Musick; George is a flag-name hit only. Not pulled. |
+  | 21 May 1782 | Muse | John | Peter Field Jefferson & wife | B & S | 6:318 | PDF p. 106. Not Musick. |
+  | 30 Aug 1770 | Mustain (Land Patent) | Thomas, Thomas | Jessey Patey & wife | B & S | 1:514 | PDF p. 109. Surname Mustain, not Musick. Red ink note 6/29/2023 refers to a plat. Not pulled. |
+  | 16 Jun 1788 | Mustain | Avery | Leonard Shelton & wife | B & S | 8:234 | PDF p. 109. Not Musick. |
+  | 20 Feb 1792 | Mustain | Avery and others | Thomas Mustain Est | Will | 9:119 | After 1790; not Musick. |
+  | 15 Jun 1790 (late entry) | Motley | Daniel | Reuben Payne | B & S | D&W 59 | PDF p. 115. Not Musick. |
+  | 19 Jul 1790 (late entry) | Motley | Joseph | Peter Dupea [40 dpi reading, uncertain] | B & S | D&W 15 | PDF p. 115. Not Musick. |
+  | 21 Mar 1791 (late entry) | Muse | John | Lodwick Tuggle | B & S | D&W 68 | PDF p. 115. After 1790. |
+  | 17 Aug 1790 (late entry) | Muse | Thomas | John Muse & wife | B & S | D&W 18 | PDF p. 115. Not Musick. |
+
+  The Muse and Mustain rows are listed only because they sit beside the expected Musick position; they are not Musick and may be skipped.
+- **Index or original:** Index only; typed ledger image seen. No deed image.
+- **Leads (not evidence):** Muter (George), 1769, Mtg 1:350: surname is a different name; no identity link to Cook or Musick is claimed. Muse, Mustain: similar-looking surnames, not variants of Musick as far as the index shows.
+- **Next:** Because Musick does not appear as a grantee 1767-1790, check the Grantor Index M (Musick as grantor, expected 2 Mar 1780, DB 6:34-35, and any earlier sale by Electious or George Musick) and the Grantee Index C (Cooke, 1780 and 1783 entries) to confirm the index is not defective. See "Next" in the entry below.
+
+### 2026-11-28 — Internet Archive scan: Pittsylvania Grantee Index M, Me section (PDF pp. 47-49), Mewsick
+- **Searcher:** records-searcher
+- **Goal:** Check Mewsick / Mewsic / Mewsik; plan row 8.
+- **Search terms:** Mewsick, Mewsic, Mewsik, Mewzick; Me- run.
+- **Coverage:** PDF pp. 47 (Mech-Mees), 48 (Meg-Merit), 49 (Merrick-Meux), viewed at 40 dpi. The run ends at Meux (1803-1819); Mi- begins at the next section (key sheet at PDF p. 50).
+- **Result:** nothing found
+- **Findings:** No Mewsick or Mew- surname between Metts and Meux (the position where Mewsick would sort). Page 48 and 49 contain Mero/Merit/Merrick/Merritt/Merriz/Merryman/Metcalf/Mettert/Metts/Meux only.
+- **Index or original:** Index only.
+- **Leads (not evidence):** none
+- **Next:** none for this volume.
+
+### 2026-11-28 — Internet Archive scan: Pittsylvania Grantee Index M, other pages (partial survey)
+- **Searcher:** records-searcher
+- **Goal:** Check the plan flag-names (Electious/Elexius, Dextrous, Abram) as given names under any M surname; plan row 8.
+- **Search terms:** given names Electious, Elexius, Electius, Dextrous, Abram, George.
+- **Coverage:** Only the pages named in the entries above were viewed (about 25 of 115 pages). I did not read PDF pp. 3-29, 31-39, 41-46, 51-57, 59-84, 86-104 line by line. PDF pp. 10, 20, 36 and 44 were rendered but not viewed. A given-name scan of the whole volume was therefore not done.
+- **Result:** partial
+- **Findings:** No flag-name given name seen on any viewed page except the Muter, George 1769 entry above. The remaining pages are surnames other than Mu-, Me-, and are unlikely to hold Musick entries; they could hold a Cook/Musick-associated name only as a grantee surname M (e.g., a Cook person named in the M index), which is not the question.
+- **Index or original:** Index only.
+- **Leads (not evidence):** none
+- **Next:** If wanted, read PDF pp. 2-29 and 51-104 for flagged given names in the 1767-1790 years (about 70 pages). Not recommended: Musick as grantee is absent, which is what this group set out to test.
+
+### 2026-11-28 — Local note: why the negative matters, and what it does not mean
+- **Searcher:** records-searcher
+- **Goal:** Record the limits of the negative for the evidence analyst; plan rows 8, 3.
+- **Search terms:** none (analysis of scope).
+- **Coverage:** the Pittsylvania Grantee Index, letter M, as scanned (115 pages).
+- **Result:** nothing found
+- **Findings:** "Nothing found" means no Musick, Music, Muzick or Mewsick grantee entry in this index at all (any year, 1765-1889), not just 1767-1790. This is not evidence that no Musick deed exists. The index lists grantees, so Electious Musick Sr. appears only if he bought land recorded in Pittsylvania. His own 1780 sale (DB 6:34-35) would be in the Grantor index under Musick and in the Grantee index under Cooke. It also fits that Musick patented land (Patent Book 40:861, 1772, per `[[S-va-land-patents40-p861-musick-1772-index]]`) and so may never have been a grantee in a Pittsylvania deed. I also cannot tell from the scan whether the index is complete for the earliest deed books.
+- **Index or original:** Index only.
+- **Leads (not evidence):** none
+- **Next:** Pull the Pittsylvania Grantor Index, letter M (Musick as grantor), for 1767-1790; pull Grantee Index letter C (Cooke/Cook) for 2 Mar 1780 (expected DB 6:34-35) and 1771-1782. If those exist on Internet Archive in the same series, they can be downloaded with the user's approval. The deed book/page citations to pull next are therefore the ones already in the plan: DB 6:34-35 (1780) and DB 7:106-107 (1783), already held locally; no new Musick citation comes from this volume.
+
+# Q-15 research log, record group 9 (Pittsylvania Grantor Index 1765-1889, letter C: Cook / Cooke / Cock / Coke)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Plan row 3 (finding aid to Pittsylvania deed books 1767-1790). Source: user-downloaded PDF (120 pages, image-only, untrusted; opened only with poppler's pdftoppm, no code run from its directory). Page numbering: PDF page N shows a printed red sheet number; PDF 68 = sheet 5, PDF 89 = sheet 26, PDF 90 = sheet 27, PDF 95 = sheet 32.
+
+### 2026-11-28 — Internet Archive file, Pittsylvania Grantor Index 1765-1889, letter C: locating the Cook pages
+- **Searcher:** records-searcher
+- **Goal:** Find the Cook/Cooke/Cock/Coke pages by binary search on alphabetical order; row 3.
+- **Search terms:** page-by-page position probes at PDF pages 60, 75, 85, 95, then 88-94, 80, 76, 68-72
+- **Coverage:** Probe pages only. PDF 60 = Clement; 75 = Coleman; 85 = Collins/Colly/Colquhoun; 95 = end of Cook, then Cooke, Cooley, Cooper. Cook block runs from sheet 26 foot (PDF 89) to sheet 32 (PDF 95).
+- **Result:** found
+- **Findings:** Locator only. Cook begins at the foot of PDF 89 (sheet 26) after Conway/Conwell. NOTE the alphabet is not strict: "Cock/Cocke/Cockerham" sit at PDF 68 (sheet 5), between Cobb and Cochran, and the file's "Cook" also occurs on PDF 89-95.
+- **Index or original:** Index images only (typed clerk's index, Cott form).
+- **Leads (not evidence):** none
+- **Next:** Read every Cook page (next entries).
+
+### 2026-11-28 — Grantor Index letter C, PDF 89-90 (sheets 26-27): Cook, 1769-1814
+- **Searcher:** records-searcher
+- **Goal:** Read every Cook grantor entry 1767-1790; flag George, Elijah, Elisha, Zachariah.
+- **Search terms:** Cook (also typed "do"); read all rows on sheets 26 (foot) and 27, 110 dpi, legible.
+- **Coverage:** Full read of both sheets. Index runs chronologically within the surname; first Cook row is 23 Jun 1769; sheet 27 runs to 15 Aug 1814.
+- **Result:** found
+- **Findings:** 25 Cook grantor rows dated 1769-1789 (table in the report to the parent agent and transcribed in the source files). Only one George: 19 Aug 1783, George Jr and Ruth (wf) to George Cook Sr, DB 7:106 (already held as an original image). No George (Sr. or Jr.) grantor row before 1783. No Elijah and no Zachariah as grantor on these sheets in any year. Elisha (with Ann, wf) appears 16 Sept 1806 (out of range, 1767-1790). Other first names in range: Harmon (most rows, 1771-1789), John, William (with Margaret wf, 1769), Joseph, Shem. No Sandy Creek-era 1771-1780 grantor entry for George. [[S-pitt-grantor-index-c-p26-cook-1769-1773]] [[S-pitt-grantor-index-c-p27-cook-1773-1814]]
+- **Index or original:** Index only (typed 1934-form clerk's index; not the deed books). Index gives date of record, not deed date.
+- **Leads (not evidence):** none
+- **Next:** Do not open the deed books for non-George rows unless the analyst wants the Cook family context (Harmon, John, William, Joseph, Shem). Pull DB 7:106 already done. Grantee index letter C is a separate task (George as grantee: e.g. the Cook gifts 1774 DB 4:42-43 go to Benjamin Cook and Gideon Rucker).
+
+### 2026-11-28 — Grantor Index letter C, PDF 91-95 (sheets 28-32): Cook, 1815-1889, and Cooke
+- **Searcher:** records-searcher
+- **Goal:** Complete the Cook block and read Cooke; row 3.
+- **Search terms:** Cook, Cooke
+- **Coverage:** PDF 91 (sheet 28) read at low resolution (about 40 dpi, legible; rows 1815-1826). PDF 95 (sheet 32) read at 110 dpi (Cook 1882-1889, Cooke, Cooley, Cooper). PDF 92, 93, 94 (sheets 29-31) were NOT opened: the rows are dated after 1826 and fall outside the 1767-1790 range because the index is chronological within a surname.
+- **Result:** partial
+- **Findings:** Cooke grantors on sheet 32: 26 Jan 1775 Harmon Cooke to George Peeke al, Sale Bill, DB 4:97; 20 Apr 1779 Harmon and Mary Ann (wf) Cooke to Stephen Senter, B & S, DB 5:160. (The grantee reads "Senter" at this resolution; the earlier low-res view read "Santer".) Also on PDF 68 (sheet 5), separate heading "Cooke": 19 Aug 1783 Andrew Cooke to Arthur Keesee, B & S, DB 7:92; 16 Sept 1783 Nathaniel Cooke to James Bruce Jr, B & S, DB 7:122; later rows 1818 onward. Headings "Cook" on PDF 68: 26 Sept 1776 John and Elizabeth (wf) to Patrick Morison, DB 4:266 (the heading is typed "Cook" on this sheet; it sits between Cochran and Cooke; I read the given-name columns as Elizabeth (wf) and John). No Cooke row for a George, Elijah, Elisha, or Zachariah in 1767-1790. Cook rows from PDF 91-95 are not transcribed into a source file (outside range).
+- **Index or original:** Index only.
+- **Leads (not evidence):** none
+- **Next:** The PDF 68 "Cook" row (Morison 1776, DB 4:266) and the Cooke rows 1783 are not George; add to analyst's FAN notes only. If the analyst wants a full Cook-all-years list, read PDF 92-94.
+
+### 2026-11-28 — Grantor Index letter C, PDF 68-69, 76-80: Cock, Cocke, Coke, Cocks, Cox-like variants
+- **Searcher:** records-searcher
+- **Goal:** Check Coke/Cock variants for 1767-1790; row 3.
+- **Search terms:** Cock, Cocke, Coke, Cocks, Cockerham, Cochran(e)
+- **Coverage:** PDF 68 read at 110 dpi; PDF 69 (sheet 6) and PDF 80 (Coles Comr, 1880s) read at low resolution; PDF 70-72 and 76-79 not opened (Cole, Coleman, Coles: not variants of Cook). Headings on PDF 68-69: Cobb(s), Coble, Cochran, Cook (1776, 1820 rows), Cooke (see above), Cockerham 1772 (Abner), Cockram 1772 (Nathan), Cockran, Cockron, Cocks 1812, Cody 1790 (Redmond), Coffee, Coffin, Colbert, Colburn, Cole.
+- **Result:** nothing found
+- **Findings:** No "Coke" heading seen. No Cock/Cocke grantor row for a George, Elijah, Elisha, or Zachariah. Rows on PDF 68-69 do not name George Cook. (Heading spelling "Cocke" is typed "Cooke" on PDF 68, as read at 110 dpi; I did not find a separate Cocke heading.)
+- **Index or original:** Index only.
+- **Leads (not evidence):** none
+- **Next:** none for these variants. Letter M (Musick) and the grantee indexes are other tasks.
+
+### Pages not read
+- PDF 92, 93, 94 (sheets 29-31): not opened, dated after 1826 by inference from sheet 28 (1826) and sheet 32 (1882 onward). Inference, not seen.
+- PDF 70-79 (Cole through Coles): not opened except 75 and 80; irrelevant headings.
+- PDF 1-59, 96-120: not opened.
+
+### 2026-11-28 — Correction to the two entries above (PDF 68 headings)
+- **Searcher:** records-searcher
+- **Goal:** Correct my reading of the headings on PDF 68 (sheet 5), re-checked against the 110 dpi image.
+- **Search terms:** none (re-read)
+- **Coverage:** PDF 68 only.
+- **Result:** found
+- **Findings:** The headings on PDF 68 are typed "Cock" (not "Cook") and "Cocke" (not "Cooke"). So: Cock: 26 Sept 1776 John and Elizabeth (wf) to Patrick Morison, DB 4:266; 18 Dec 1820 Smith, by Tr, al, to Samuel D Rawlins, DB 23:441. Cocke: Andrew (19 Aug 1783, to Arthur Keesee, DB 7:92); Nathaniel (16 Sept 1783, to James Bruce Jr, DB 7:122); later rows 1818-1880. These are the Cocke family, not Cook. The only true "Cooke" heading is on PDF 95 (Harmon Cooke 1775 and 1779, above), which is the "Cook" spelling plus e. The statement "Cocke is typed Cooke" in the previous entry is wrong. No Cock/Cocke row names George, Elijah, Elisha or Zachariah.
+- **Index or original:** Index only.
+- **Leads (not evidence):** none
+- **Next:** none.
+
+# Q-15 research log, record group 9 (Pittsylvania Co., VA Grantor Index 1765-1889, letter M: Musick / Music / Muzick / Mewsick)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free source (Internet Archive scan, https://archive.org/details/grantor-index-june-1765-1889, downloaded with the user's approval; untrusted file, handled only with pdfinfo/pdftoppm and `python3 -I` for image crops, nothing run from its directory). Plan rows 8 and 3. Source created: [[S-pitt-grantor-index-m-p36-musick-1780-1781]].
+
+Working files (not part of the repo): PDF `/tmp/claude-1000/-home-alex-cook--claude-spares-spare-JeL5mW/6268c0a6-1cd4-4b37-811a-a6cda1abeb91/scratchpad/ia-index/grantor-M.pdf` (115 pages, image only); renders in `.../scratchpad/ia-index/pages-grantor-M/` (50 dpi surveys, 110 dpi for PDF pp. 109-111, a crop of p. 110).
+
+Volume structure: Cott ledger, grantor index; columns date of record, surname, given names (three columns by initial), grantee, kind of instrument, volume (deed book), page. Alphabetical by surname, then chronological. Ledger page numbers restart by section: PDF p. 100 = ledger p. 26 (Motley 1883-87), PDF p. 108 = ledger p. 34 (Muse), PDF p. 110 = ledger p. 36, PDF p. 111 = ledger p. 37, PDF p. 112 = ledger p. 38.
+
+### 2026-11-28 — Internet Archive scan: Pittsylvania Grantor Index, letter M, binary search for Mus- run
+- **Searcher:** records-searcher
+- **Goal:** Locate the Musick pages by alphabetical binary search; plan rows 8, 3.
+- **Search terms:** page headers and first surnames at 50 dpi
+- **Coverage:** PDF pp. 90, 100 (Motley), 104, 107, 108 (Muse 1806-1871), 110 (Muse 1889; Musgrove; Musick; Mustain from 1756), 113, 115 opened at survey resolution (90, 104, 107, 113, 115 rendered but only 100, 108, 110 viewed in detail).
+- **Result:** found (location only)
+- **Findings:** Musick falls on PDF p. 110 (ledger p. 36), between Musgrove and Mustain.
+- **Index or original:** Index (typed ledger). Deeds not seen.
+- **Leads (not evidence):** none
+- **Next:** read PDF pp. 109-112 in full (next entry).
+
+### 2026-11-28 — Internet Archive scan: Pittsylvania Grantor Index M, Mus- run, read for Musick / Music / Muzick
+- **Searcher:** records-searcher
+- **Goal:** Read every Musick entry, any year 1767-1790; flag Electious/Elexius/Electius, George, Dextrous, Abram; plan rows 8, 3.
+- **Search terms:** Surnames Musick, Music, Muzick, Musik, Mewsick; given names Electious, Elexius, Electius, Elexicous, Elixicous, George, Dextrous, Abram, Abraham.
+- **Coverage:** PDF p. 110 read at 110 dpi (Musick rows and crop); PDF p. 111 (Mustain 1836-1871) read at 110 dpi; PDF p. 112 (Mustain 1872-1889, Mustaine, Musteen, Mustean, Myers, Myer) read at 50 dpi. PDF p. 109 was rendered at 110 dpi but not viewed: the Muse run before Musgrove is not relevant to Musick (see Muse note below). Index runs in order Muse, Musgrove, Musick, Mustain, so no "Music/Muzick" lines elsewhere in the run. The index gives only two Musick lines for all years.
+- **Result:** found
+- **Findings:** Two entries, both grantor "Musick" (verbatim from the image):
+
+  | Date of record | Grantor | Grantee | Instrument | Deed book : page | Flag |
+  |---|---|---|---|---|---|
+  | 15 Aug 1780 | Musick, Electious Sr | George Cooke Jr | B & S | 6 : 34 | Electious; George (grantee, Cooke Jr). Matches the repo anchor DB 6:34-35 (dated 2 Mar 1780 in its text) |
+  | 18 Apr 1781 | Musick, "(Elexicous / Elixicous or" | John Johnson | B & S | 6 : 93 | Elexius variant; NEW citation, not previously in the repo |
+
+  No Musick grantor entry for George, Dextrous or Abram; no entry for any year other than 1780 and 1781. Source: [[S-pitt-grantor-index-m-p36-musick-1780-1781]].
+- **Index or original:** Index only (typed 1934 Cott ledger). Deed images not seen.
+- **Leads (not evidence):** The 1783 land alterations list in the repo ([[S-pitt-land-alterations-1783-vagenweb]]) has "John Johnson 304 Abram Musick", which may relate to the 1781 John Johnson purchase; this is a lead, not established.
+- **Uncertain readings:** (1) the 1781 given-name cell, typed on two lines as "(Elexicous" and "Elixicous or"; legible at 110 dpi, but what the typist meant (a variant pair? "Elexicous or Elixicous"?) is unclear; read with high confidence as typed. (2) The index is a later compilation; the 15 Aug 1780 date of record against the deed's 2 Mar 1780 date is unverified, and the vol/page figures were read at 110 dpi (high confidence).
+- **Next:** pull Deed Book 6:93 (Musick to John Johnson, recorded 18 Apr 1781) and re-read 6:34 recording endorsement; see the grantee index (group-9-grantee-M.md) for Cooke/Johnson as grantee (volumes C and J).
+
+### 2026-11-28 — Internet Archive scan: Pittsylvania Grantor Index M, Mewsick spelling
+- **Searcher:** records-searcher
+- **Goal:** Check Mewsick/Mewsic placement; plan row 8.
+- **Search terms:** Mewsick, Mewsic, Meusick (would sort after Metts/Meux, before Meyer)
+- **Coverage:** PDF pp. 40, 45, 50, 51-54, 56, 57, 60, 70, 80 at 50 dpi (crops of the left columns only). PDF p. 54 shows Merriman/Merrett/Merritt/Merrix/Metts/Meux/Meyer/Myers: no Mewsick. Pages 51-54 viewed in reduced crops (left ~330 px), so surnames legible but not every row of every page was checked beyond the visible crop; PDF p. 55 is a Cott buff instruction sheet, not index rows.
+- **Result:** nothing found
+- **Findings:** No Mewsick or similar line in the Me run at the position where it would sort.
+- **Index or original:** Index.
+- **Leads (not evidence):** none
+- **Next:** none for this volume.
+
+### 2026-11-28 — Internet Archive scan: Pittsylvania Grantor Index M, pages not read
+- **Searcher:** records-searcher
+- **Goal:** Record coverage gaps.
+- **Search terms:** n/a
+- **Coverage:** Not read: PDF pp. 2-39, 41-44, 46-49, 58-59, 61-69, 71-79, 81-99, 101-103, 105-107, 109 (rendered, not viewed), 113-115 (113, 115 rendered only). None would hold Musick/Music/Muzick/Mewsick by alphabet. Surname cells under "do" (ditto) on p. 110 were checked as Musick.
+- **Result:** partial
+- **Findings:** none.
+- **Index or original:** Index.
+- **Leads (not evidence):** none
+- **Next:** none.

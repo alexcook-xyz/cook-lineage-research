@@ -1,0 +1,18 @@
+name: audit
+
+on:
+  pull_request:
+  schedule:
+    - cron: "0 6 1 * *"   # monthly: catches broken links and drift
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Repository audit (hygiene, links, secrets, naming)
+        run: python3 tools/repo_audit.py .

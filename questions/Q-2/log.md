@@ -83,3 +83,15 @@ Append only. Every search — including searches that found nothing — is logge
 - Results: **Found** — George W. Cook household, West Columbia Precinct, ED 14, Sheet 4A, dwelling 78: George W. 67 (farmer, owns free, farm schedule 69), wife **Anna** 24 (the Emma/Enna Janes of the 1911 marriage; cannot read/write), son Russell 3 1/12. Image 327 of 1,212 downloaded (actual JPG); transcription verified by the lead → `source-1920-census-ed14.md`. Other Adair Cook persons in the filtered survey (index only, collateral, unassigned): Nancy (b. 1843, GA), William R. (1893), Tandy H. (1892), Levona F. (1916), Bridget (1898), Rose E. (1882), Silla M. (1899), Birtha F. (1913), James R. (1874), Melvin G. (1905), Willis (1916). **Negatives:** no John Cook in Adair in 1920 (dedicated search: only Hancock Co. and out-of-state hits); no Thomas Cook of any age in the survey — consistent with the 1918 Illinois death lead.
 - Leads: none new requiring follow-up within this question's scope.
 - Coverage note: survey complete on the filtered set (57 results, all inspected); the pass ended exactly at its 25-view cap after the Cooke check (identical result set, no Cooke-spelled person).
+
+## 2026-11-28 — M-5 (1930) retrieval pass
+
+### 8. FamilySearch — 1930 U.S. Census (collection 1810731), filtered survey + image pull (Muse's account)
+
+- Date: 2026-11-28
+- Repository: FamilySearch (online)
+- Indexes: 1930 census index, collection-filtered via the search UI (`f.collectionId=1810731`)
+- Search terms: Cook / Cooke, residence Adair, 1930 collection (26 results total; 8 with an Adair census place, 16 non-Adair excluded by place, 2 unplaced — all accounted for)
+- Results: **Found** — George Cook household, part of Magisterial District 7, ED 1-14, Sheet 12B, dwelling 276: George 78 (farmer, truck farm, owns, age at first marriage 60), wife Anna 35 (age at first marriage 17; cannot read/write), son Russell 13, and **son James 9 — a second son not previously recorded for this family**. Image 343 of 1,127 downloaded (actual JPG); transcription verified by the lead → `source-1930-census-ed1-14.md`. Other Adair Cook persons in the survey (index only): Melvin (b. 1903) & Etta (b. 1911), White Oak; W. Walls Cook (b. 1888) and George Cook (b. 1895), Columbia — the latter two viewed on their sheet (ED 1-12, Sheet 5A) as brothers-in-law in the Sam Stevenson household; far too young to be George W.'s brothers, held unassigned. **Negatives:** no Thomas Cook anywhere in the 26-result survey; no John Cook in Adair (the only John is Hancock Co., b. 1882).
+- Leads: none new within this question's scope. James Cook (b. ~1920–21), second son of George and Anna, is a new person for the family structure — flagged for the gen-05 person file at the knowledge stage.
+- Coverage note: survey complete (all 26 results inspected and accounted for); Cooke variant returned the identical set.

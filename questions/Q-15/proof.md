@@ -160,3 +160,6 @@ Read from the clerk's page images, 2026-11-28 (logs `group-10-*.md`).
 
 ## Addendum 4: Muse M-1 and M-2 (FamilySearch)
 Nothing here changes the conclusion (stalled, possible). Verified from full images: (1) the 18 Apr 1768 Cook to Guill deed is Prince Edward DB 3:366-368 (the earlier "not on these pages" reading was wrong); (2) George, Elijah and William Cook witness a Pittsylvania deed on 10 Jul 1781 (DB 6:140). Neither names a relationship. Next free reads, in order: the Court Record No. 4 index (Pittsylvania, DGS 007897274, Item 1, from image 7); the court-order indexes (Films 33304-33307, DGS 8191463-8191466); the Book 3 index entry "Cooke to Nash"; then the remaining Pittsylvania Full-Text hits.
+
+## Addendum 5: Muse M-3 (FamilySearch)
+No change to the conclusion (stalled, possible). New: index-level entries for a Cook or Cooke at Pittsylvania court on pp. 100, 116, 119, 138, 159 of Court Records No. 4 (1777-1783), first names unknown; no Musick entry. The order pages are the next free read (DGS 007897274, Item 1, after the index; find the image-to-page calibration first). The court-order index films (Films 33304-33307) need a FamilySearch Center visit (issue #44).

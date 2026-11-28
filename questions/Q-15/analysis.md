@@ -304,3 +304,10 @@ Classes: marriage-bond and claims sources are derivative reads of partly seen pa
 - **Pittsylvania DB 6 p. 140, 10 Jul 1781 (verified from the full image, M-2).** George, Elijah and William Cook witness Nathaniel Murray's deed to Jeremiah Stimson, together with Daniel Everett ([[S-pitt-db6-p140-141-cook-witnesses-1781-muse-m1]]); proved at court 17 Jul 1781. Same spread: a Sandy Creek deed (Ashby to James Collie, 11 Apr 1781). This is the first original Pittsylvania record of the Cook group between the 1780 Musick sale and the 1783 deed. It names no Sr./Jr. and no kinship, so it does not settle C2 or C4. It raises the chance that George Cook (Jr.) and Elijah were in Pittsylvania from 1780, which fits H1, H2 and H4 equally.
 - Court Records 8 (1798) and Deeds and Wills v. 5 (1777, Jonathan Musick) add nothing for the target years; both rest on unverified machine transcripts.
 - Effect: H1 and H4 stay possible. H3 (no 1771-79 presence) is not settled. The next test is the Court Record No. 4 index (images 7 onward) and the court-order indexes (Films 33304-33307).
+
+## Addendum 13: Muse M-3 (FamilySearch)
+- The front index of Pittsylvania Court Records No. 4 (1777-1783) lists Cook/Cooke on pp. 100, 116, 119, 138 and 159 (suits, "Cook for a Mill", a guardianship), with no first names ([[S-pitt-court-record-4-index-cook-entries-1777-1783-muse-m3]]). They suggest a Cook was active in Pittsylvania from 1777-1783, but it is not shown which Cook, and the order pages were not read. Index-level only; derivative.
+- No Musick line (any spelling) in that index. A weak negative for Electious Musick in Pittsylvania court business 1777-1783.
+- The 1767-1904 court-order index films are locked to FamilySearch Centers; they join retrieval issue #44's settling list.
+- Prince Edward DB 3 index line "Cooke to Nash": page not located (printed p. 380 is another deed). Not used.
+- Effect on hypotheses: none; H1 and H4 stay possible. If the order pages show George Cook in Pittsylvania by 1778, that would narrow H3 (no presence 1771-79).

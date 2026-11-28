@@ -1585,3 +1585,294 @@ Volume structure learned: the images are a manuscript minute book, apparently a 
 - **Index or original:** Original-image scan, but the volume is a clerk's copy of the vestry minutes, so Result "found" for John, Joseph, William and Benjamin Cook is only for this copy.
 - **Leads (not evidence):** The parish divided in 1779 (Henry County part collected separately, fol. 35); the plan's Sandy Creek land may have been in a different vestry's bounds. The cluster's Sandy Creek may be in Camden Parish (DB 7 text per the plan) but the only Sandy Creek precincts processioned in 1771/1776/1780 are on the NC line; whether those are the same stream is not established.
 - **Next:** (1) Pittsylvania County Court order books (processioning returns for Sandy Creek and a Cook Sr./Jr. entry). (2) Compare the 1780 precinct (Burches Creek, Harrises Road) with the DB 6:34-35 bounds. (3) Test whether John/Joseph/William/Benjamin Cook of the vestry book is the same family as the Prince Edward George Cook; no link in this volume.
+
+# Q-15 research log, record group 11 (Pittsylvania Court of Claims volume, Internet Archive item pittcorevolutionary-war-claims)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free Internet Archive item (uploader BWatlington; title "Pitt Co Revolutionary War Claims"; item date 1782-03-18). Downloaded by standing user permission: five image-only PDFs (TOC 25 leaves, 1_6 6 leaves, 7_18 12 leaves, 19_28 10 leaves, 29_71 43 leaves, about 22 MB total). Untrusted; opened only with pdfinfo, pdftoppm and the image reader; no code run from the download directory. Working files: local scratch directory, not in repo. Plan rows 3, 4, 8 (Pittsylvania presence 1771-1782; FAN cluster). The volume is the county Court of Claims record for property impressed or taken for public service (cover title "Claims for Supplies Revolutionary War Soldiers 1782 Pittsylvania County"; sittings headed p. 1 18 Mar 1782, p. 45 5 Oct 1782, p. 58 18 Apr 1783, p. 62 22 Oct 1783, p. 66 17 May 1784, p. 70 17 May 1785). Sources created: [[S-pitt-claims-1782-p28-harmon-cook]], [[S-pitt-claims-1782-p41-james-cook]], [[S-pitt-claims-1782-p43-echols-phlipping]], [[S-pitt-claims-1782-p44-harmon-cook-assignee]], [[S-pitt-claims-1782-index-partial-read]].
+
+Method note: no OCR text (hocr/djvu files are stubs of under 9 KB). Every body page 1-71 was viewed once at 85 dpi. Pages 1-8, 28, 29, 40-44, 47-71 were read name by name and re-read; pages 9-27 and 30-39 were viewed once and are covered mainly by the clerk's hand index (see below), not by a line-by-line transcript. The item's file inventory: "1_6" = pp. 1-6, "7_18" = pp. 7-18, "19_28" = pp. 19-28, "29_71" = pp. 29-71, "TOC" = cover, endpaper and a hand A-Z index.
+
+### 2026-11-28 — Internet Archive: pittcorevolutionary-war-claims, metadata and file inventory
+- **Searcher:** records-searcher
+- **Goal:** Identify the item, its file set and coverage; plan rows 3, 8.
+- **Search terms:** https://archive.org/metadata/pittcorevolutionary-war-claims
+- **Coverage:** Five PDFs and their jp2 zips (not downloaded). No OCR text.
+- **Result:** found
+- **Findings:** Item date 1782-03-18; description "Documents filed in Pittsylvania County for renumeration following the Revolutionary War"; covers the 1782-1785 Court of Claims sittings, pp. 1-71 (plus unlisted blank or index leaves). The item names no repository for the original; the imaged endpaper bears a Virginia State Library microfilm stamp (Reel No. 265, dated 7-16-23 as read).
+- **Index or original:** Original-image scan.
+- **Leads (not evidence):** none
+- **Next:** Read the TOC (index) first, then the body.
+
+### 2026-11-28 — Internet Archive: pittcorevolutionary-war-claims, "Revolutionary War Claims TOC.pdf" (cover, endpaper, hand index A-S)
+- **Searcher:** records-searcher
+- **Goal:** Find every Cook, Musick, Holloway, Flippin, Echols, Collie claimant by the clerk's own index; plan rows 3, 8.
+- **Search terms:** Cook, Cooke, Cock, Coke, Cox; George, Elijah, Elisha, Zachariah; Musick, Music, Muzick, Musik, Electious, Elexius; Holloway, Holoway, Halloway; Flippin, Flippen, Phlipping, Philippins; Echols, Eckols, Echoles, Abadiah, Abediah; Collie, Colly, Collier, Collins.
+- **Coverage:** Cover, endpaper and index leaves 3-21 of 25 (A through S, ending at Smith/Southerland), at 70-85 dpi; the Cook line at 200 and 400 dpi. Leaves 22-25 (T-Z) NOT SEARCHED.
+- **Result:** found
+- **Findings:** "Cook Harmon 28 - 4[overwritten digit]", "Cook James 41", "Echols Abadiah 43", "Philippins Jos. 43" (index spelling; the body reads "Phlipping"); Collins Mary 61 and Elizabeth 50 (Collins, not Collie). No Musick, Music or Muzick under M (names run Minier to Martin). No Holloway under H. No Collie. No Cook other than Harmon and James. No George, Elijah, Elisha or Zachariah Cook. Elijah King 46-47 is a King. [[S-pitt-claims-1782-index-partial-read]]
+- **Index or original:** Index (hand-made, same period hand as the body or a later clerk) and original-image scan; the index can omit entries, so the body was also viewed.
+- **Leads (not evidence):** none
+- **Next:** Read the body pages for Harmon Cook (28, 44), James Cook (41), Echols and Phlipping (43).
+
+### 2026-11-28 — Internet Archive: Revolutionary War Claims 1_6.pdf and "claims 7_18.pdf" (pp. 1-18)
+- **Searcher:** records-searcher
+- **Goal:** Same names, body pages; sitting of 18 Mar 1782.
+- **Search terms:** as for the index.
+- **Coverage:** pp. 1-8 read name by name at 85 dpi (p. 1 sitting header read: "At a Court of Claims held at Pittsylvania County, the 18th day of March 1782 for adjusting Claims for property impressed or taken for Public Service"; Present: Jas. Roberts, John Dix, Wm Witcher, Reubin Payne, John Parks, Jeremiah White, Daniel Hankins, Wm Short). Claimants seen include Jere Duncan, Joseph Ballinger, Wm Thomas, Robert Wooding, William Davis, Daniel Hankins, Samuel Prewett, Col. Peter Perkins, Nicholas and Constant Perkins, William Harrison, Joseph Austin, Abraham Aaron, Christopher Hutchings, William Norton. pp. 9-18 viewed once at 85 dpi, not re-read line by line.
+- **Result:** nothing found
+- **Findings:** No Cook, Musick, Holloway, Flippin, Echols or Collie in the pages read name by name (1-8). pp. 9-18 consistent with the index (no such names), not independently transcribed.
+- **Index or original:** Original-image scan.
+- **Leads (not evidence):** none
+- **Next:** none for these pages.
+
+### 2026-11-28 — Internet Archive: Revolutionary War claims 19_28.pdf (pp. 19-28)
+- **Searcher:** records-searcher
+- **Goal:** Same names; Harmon Cook on p. 28.
+- **Search terms:** as above.
+- **Coverage:** p. 28 read at 100 dpi; pp. 19-27 viewed once at 85 dpi, not re-read line by line.
+- **Result:** found
+- **Findings:** p. 28 opens with "To Harmon Cook for 85 lb pork @ 25/ Pasturage for 4 Horses imp.d for the Cont.l Troops" followed by about 15 "the same for" items: whiskey, a smooth bore gun, a rifle, gun flints, kettles, 2 horses, bacon, beef, a wagon and team 32 days, a bay horse, horse shoes: [[S-pitt-claims-1782-p28-harmon-cook]]. No other claimant on pp. 19-28 named Cook, Musick, Holloway, Flippin, Echols or Collie (pp. 19-27 by index only).
+- **Index or original:** Original-image scan.
+- **Leads (not evidence):** none
+- **Next:** Page 29 (read) continues with other claimants; Harmon Cook's later page is 44.
+
+### 2026-11-28 — Internet Archive: Revolutionary War Claims 29_71.pdf (pp. 29-71)
+- **Searcher:** records-searcher
+- **Goal:** Same names, body pages through the 17 May 1785 sitting.
+- **Search terms:** as above; also Cack (p. 53, a marginal "Cack paid the Wag[es]", read as "Cash", not a surname).
+- **Coverage:** pp. 29, 40-44 and 47-71 read and re-read at 85-100 dpi; pp. 30-39 viewed once at 85 dpi, not re-read line by line. Last populated page is p. 71.
+- **Result:** found
+- **Findings:** (1) p. 41: "To James Cook for 24 lb Bacon @ 1/. impressed for Continental Troops . . . 1. 1." [[S-pitt-claims-1782-p41-james-cook]]. (2) p. 43: "To Abadiah Echols for the damage of a horse impressed into Continental Service . . . 3. 10." and next "To Jos. Phlipping for 30 lb Bacon ... 6 Bushels Corn ... 500 lb fodder ... impressed for Continental use . . . 4. 13. 6." [[S-pitt-claims-1782-p43-echols-phlipping]]. (3) p. 44: "To Harmon Cook assign of John Lucas for 350 lb Beef @ 16/8 for State Troops . . . 2. 15." and two further items as assignee (incl. "assign of Jeremiah Potect [?]"): [[S-pitt-claims-1782-p44-harmon-cook-assignee]]. (4) No Musick, Holloway, Flippin (other than Phlipping above) or Collie claimant on pp. 40-71. No George, Elijah, Elisha or Zachariah Cook. p. 46 right edge shows a cut-off "Muske[tt]" (a gun, not a name). (5) Neighbors on pp. 41-43: Hendrick, Hutchings, Conway, Constant Perkins, Worsham, Waller, Peak, Simpson, Loney.
+- **Index or original:** Original-image scan.
+- **Leads (not evidence):** none
+- **Next:** none from this item. Later sittings (1783-85, pp. 58-71) name none of the target surnames.
+
+### 2026-11-28 — Internet Archive: search for Henry County (Virginia) claims or certificates naming Musick
+- **Searcher:** records-searcher
+- **Goal:** Check for a Henry County claim naming Musick (Camden Parish divided 1779; Henry County cut from Pittsylvania 1777).
+- **Search terms:** Internet Archive advancedsearch: title "henry county claims"; title "henry county revolutionary"; full text "henry county virginia" AND (claims OR certificates OR "public service"), mediatype texts.
+- **Coverage:** First 20 hits of the third query only; the first two returned 0 hits. Hits were unrelated (CIA reading room, 19th-century US histories). No Henry County claims volume located. Not searched: Library of Virginia Henry County claims or Revolutionary War Public Service Claims index, FamilySearch, Ancestry, Fold3.
+- **Result:** nothing found
+- **Findings:** none. This does not show that no Henry County claim names Musick; the Pittsylvania volume does not cover Henry County, and the free IA search found no Henry County claims item.
+- **Index or original:** none seen.
+- **Leads (not evidence):** none
+- **Next:** Library of Virginia "Virginia Revolutionary War Public Service Claims" (Henry County series) would be the place; needs browsing a free index or ordering, not done here.
+
+# Q-15 research log, record group 11 (Pittsylvania Co. marriage bonds 1767-1787, Internet Archive item 1785_20250812)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free Internet Archive item "1767-1787 Pittsylvania County Marriage Licenses" (added 12 Aug 2025; no creator stated). Downloaded by the user's standing permission: eight image-only PDFs (1767_1769 4.8 MB, 1770_1771 3.1 MB, 1773_1776 3.7 MB, 1777_1780 13.7 MB, 1781_1782 6.3 MB, 1783_1784 7.4 MB, 1785 15.4 MB, 1787 9.8 MB) plus the eight djvu text files (about 100 KB total). Untrusted: kept in a local scratch directory, not in repo; opened only with pdftoppm and the image reader; contact sheets made with PIL under python -I from a different directory; no code run from the download directory. Plan rows 3 and 8 (Pittsylvania 1767-1782 presence; FAN). Sources created: [[S-pitt-marriage-bonds-ia-1767-1787-upper-halves-no-cook-seen]], [[S-pitt-marriage-bonds-ia-1777-1778-prewitt-variants]].
+
+Reader's note on method: PDF page counts are 21, 18, 16, 42, 21, 29, 47, 52 (246 pages). Every page was rendered at 90 dpi and viewed on contact sheets showing the top ~58% of each page. The bottom ~42% of nearly every page (signatures, witnesses, clerk endorsements) was not viewed. Names are those in the bond preamble and the "Whereas ... between" clause plus consent notes.
+
+### 2026-11-28 — Internet Archive: item 1785_20250812, metadata and file inventory
+- **Searcher:** records-searcher
+- **Goal:** Identify files and coverage; plan row 3.
+- **Search terms:** https://archive.org/metadata/1785_20250812
+- **Coverage:** Eight image PDFs with year ranges 1767-1769, 1770-1771, 1773-1776, 1777-1780, 1781-1782, 1783-1784, 1785, 1787. No 1772 file and no 1786 file exists in the item. Item description: "There is not a database yet."
+- **Result:** found
+- **Findings:** Item present; see coverage. djvu OCR text files exist (9.6 KB, 9.3 KB, 3.6 KB, 17.7 KB, 7.7 KB, 7.5 KB, 23 KB, 31 KB) but are non-Latin noise from handwriting. A grep of them for Cook, Cocke, Koch, Pruett, Ruth, Geo found only noise (2 junk hits); not usable as a search.
+- **Index or original:** Images of loose papers (not an index). Holding repository not stated.
+- **Leads (not evidence):** none
+- **Next:** View every page.
+
+### 2026-11-28 — Internet Archive: 1767_1769.pdf (21 pp.)
+- **Searcher:** records-searcher
+- **Goal:** Any Cook/Cooke marriage, bondsman or surety; any Ruth; any Pruett; 1767-1769.
+- **Search terms:** Cook, Cooke, Cock, Cox, Koch, George, Ruth, Pruett/Prewett/Pruitt (by eye).
+- **Coverage:** All 21 pages viewed at 90 dpi, top ~58% of each. Pp. 1, 3, 7 are nearly blank (a year slip "1769" etc.). Pp. 7, 9, 10, 13 are faint or partly unreadable.
+- **Result:** nothing found
+- **Findings:** No Cook. Couples and bondsmen read: Richard White and Peggy Donald (bond dated 10? Feb 1767, p. 2; consent note p. 21); Ambrose Bramlett? and Adam Loving, bond 25 Nov 1768, marriage Ambr. Bramlett? and Jane Woodson? (p. 4); James Mitchell and Robt. Dalton, 25 Nov 1768, marriage James Mitchell and Agatha Dalton (pp. 5-6); Beverley Shelton and [a second name], 23 Dec 1769, marriage Beverley Shelton and Ann Coleman (pp. 8, 17); William Owen and John Owen, 21 Feb 1769, marriage William Owen and Eliz? Pigg (pp. 11-12); Munford Smith and another, 16 Dec 1769, marriage Munford Smith and Catherine Armstrong (pp. 14, 16); Archelaus Hughes and Wm Tunstall, 25 Aug [1769], marriage Archelaus Hughes and Mary Dalton (pp. 15, 19); Samuel Dalton and a second bondsman, 2 Dec 1767, marriage Samuel Dalton and Charlotte Gatthewe? (p. 18); Asnoyah? Harbour and Saml Dalton, 25 Aug [1769] (p. 20). Names marked ? are uncertain.
+- **Index or original:** Image of the original loose bond.
+- **Leads (not evidence):** none
+- **Next:** none
+
+### 2026-11-28 — Internet Archive: 1770_1771.pdf (18 pp.)
+- **Searcher:** records-searcher
+- **Goal:** Same; 1770-1771 (George Cook's last Prince Edward sale is 1771).
+- **Search terms:** as above.
+- **Coverage:** All 18 pages viewed at 90 dpi, top ~58%. Pp. 7, 8, 11, 12, 13 are fragments, cropped or consent notes only partly legible.
+- **Result:** nothing found
+- **Findings:** No Cook. Read: Lewis Salmon and John Salmon, 3 Mar 1770, marriage Lewis Salmon and Margaret Shannon (pp. 2-3); William Todd and another, Feb 1771 (hand reads "1774" on p. 4 but the filed year slip puts it with 1770-71; date uncertain), marriage William Todd and Jean Shelton (p. 4; the same couple is in 1773_1776.pdf p. 8 dated 7 Feb 1774, so p. 4 is probably 1774 misfiled: reading uncertain); David Hanby and Thomas Hutchings, 1? Feb 1771, marriage David Hanby and Jenney Dalton (p. 5); Edmund King and Frances Luck?, 23 Aug 1771, marriage Edmund King and Mary Thomas (p. 6); Dillion Blevins, consent re a daughter of Will. Armstrong, 1770 (p. 8); Thomas Dudley and Dudley Gatewood, 2 Feb 1770, marriage Thomas Dudley and Susanna Dunton (pp. 9, 12); Charles Williams and Peter Wilson, 3 Mar 1770, marriage Charles Williams and Ann Wilson? (p. 10); Spilsbe Coleman and Benjamin Terry, 7? Dec 1771, marriage Spilsbe Coleman and Judith Burton, consent by Robt Burton, 6 Dec 1771 (pp. 14, 17, 18); Jesse Robinson and [Joh]nson?, 28 Mar 1771, marriage Jesse Robinson and Betty Pigg, consent by John Pigg (pp. 15-16).
+- **Index or original:** Image of the original loose bond.
+- **Leads (not evidence):** none
+- **Next:** none
+
+### 2026-11-28 — Internet Archive: 1773_1776.pdf (16 pp.)
+- **Searcher:** records-searcher
+- **Goal:** Same; 1773-1776.
+- **Search terms:** as above, plus Cox (to separate from Cook).
+- **Coverage:** All 16 pages viewed at 90 dpi, top ~58%; pp. 15-16 re-read at 200 dpi. No 1772 file in the item; this file holds 1773, 1774, 1775, 1776 (and one 1777 bond, p. 13).
+- **Result:** nothing found
+- **Findings:** No Cook. Read: William Rayburn and Benj. Terry, 30 Aug 1773, marriage William Rayburn and Mary Terry (pp. 2-3); William Lovell and Daniel Lovell, 19 Apr 1774, marriage William Lovell and Mary Goodly? (p. 5); Armistead Shelton and Joseph Akin, [1?] Sep 1774, marriage Armistead Shelton and Susanna Shelton (pp. 6-7); William Todd and another, 7 Feb 1774, marriage William Todd and Jean Shelton, consent Crispin Shelton (p. 8); Edmund Taylor and Daniel Shelton, Apr 1775, marriage Edmund Taylor and Millicent Shelton (pp. 10-11); John Thurston and Stephen Coleman, 2? Aug 1777, marriage John Thurston and Susanah Pace (p. 13); Samuel Galland and Ralph Smith (consent), marriage Saml Galland and Elizabeth Smith, 16 Dec 1776 (pp. 14, 16; co-bondsman on p. 16 read "John Leaf?/Loaf?", not Cook); Richd. Murrell and James Cox, 26 Jan 1776 (p. 15; "Cox" is clear, not Cook; the couple is cut off on the page and not read).
+- **Index or original:** Image of the original loose bond.
+- **Leads (not evidence):** none
+- **Next:** none
+
+### 2026-11-28 — Internet Archive: 1777_1780.pdf (42 pp.)
+- **Searcher:** records-searcher
+- **Goal:** Same; 1777-1780 (Pittsylvania presence of George Cook Jr. from Mar 1780; Prewitt-type surnames as a test of the Pruett lead).
+- **Search terms:** as above.
+- **Coverage:** All 42 pages viewed at 90 dpi, top ~58%; pp. 5, 7, 10 re-read at 170 dpi. Lower part of pages not viewed.
+- **Result:** nothing found for Cook; partial for Prewitt (see Findings)
+- **Findings:** No Cook, Cooke or Cock and no Ruth. Prewitt-type surnames: Joseph Austin and Wealthey Prewit(t)? (bond 26 Nov 1777, p. 5); Edward Covington and Frances Prewitt? (1777, p. 7); Levy Prewitt? and Elizabeth Fulkerson? (Oct 1778, p. 10): see [[S-pitt-marriage-bonds-ia-1777-1778-prewitt-variants]]. Other couples read (not Cook): John May and Susanna Porter, 15 Nov 1777 (pp. 2-3); John Morton and Lucy Blakley, 27 Sep 1777 (p. 4); Samuel Johnston and Elizabeth Ballinger, 26 Jun 1777 (p. 6); John Weir and Sukey? Burton, 1778 (p. 9); Lemuel Smith and a Perkins daughter, 13 [month] 1778, consent of Peter Perkins, witness Nicholas Perkins (pp. 11-12); John Whitsell and Nathan Dickinson, 25 Jul 1778, marriage John Whitsell and Catharine Aaron (p. 13); Wm Parker? and Jno Dickinson, 20 Nov 1778, marriage Wm Parker? and Elizabeth Perkins (p. 14); Caleb Hundley and Edwd/Wade, Feb 1778, marriage of daughter Sarah of Wade with Caleb Hundley (p. 16); Daniel White and John White, 7 Oct 1778, marriage Daniel White and Molley Wade (p. 17); Joseph Morton and Lewis Gwinn?, 6 May? 1778, marriage Joseph Morton and Clancy Hamilton (p. 18); Clement McDaniel and Stephen Coleman, [1779], marriage Clement McDaniel and Elizabeth Coleman (p. 20); Edwd? Covington and another, 2? Mar 1779, marriage with Sarah? Morrison (p. 21); Joshua Dodson and Wm? Tunstall, 21 Sep 1779, marriage Joshua Dodson and Ann Shelton (p. 22); William Hardaway and Robt Williams, 2? Feb 1779, marriage William Hardaway and Polly White, consent 25 Feb 1779 (pp. 23, 25); Wm Parks and Wm Tunstall?, marriage Wm Parks and Caty Pain? (p. 24); Rashy? and another, 3? Aug? 1779, marriage not read (p. 26); Geo. Adams and Jos. Akin?, 21 Nov 1780, marriage George Adams and Isabell? Wilson (p. 28); Wm Wilson and Hez. Smith, [1780], marriage William Welton? and Mary Dix? (p. 29); Danl Gambel and Paul Razon?, 21 Nov 1780 (p. 30); Tobias Kingary and Jos. Akin, 6 Oct [1780], marriage Tobias Kingary and Mary Aaron, consent of Abraham Aaron (pp. 31-32); Rich Todd and Jos. Akin, 19 Sep 1780?, marriage Richd Todd and Mary Langhan? (p. 33); John Kendrick and Jos. Akin, 9 Apr 1781?, marriage John Kendrick and Ann Neal (p. 34; dated 1780 or 1781: last digit uncertain); Wm Jenkins and Cyrus? Roberts and Henry Conway, 23 Apr 1780, marriage Wm Jenkins and Damaras Roberts (pp. 35-36); Moses Hutchings and Jos. Akin, 13 Dec 1780, marriage Moses Hutchings and [?] Parks (p. 37 upper); bond to the Governor [name unclear], Jas Allen? and Elijah [surname unreadable], sum "One Hundred and Fifty Dollars" (p. 37 lower, not Cook as far as read; surname after Elijah not read); Henry Burnett and Jos. Cantrell, 5 Oct 1780, marriage Henry Burnett and Ely? Thulog? (p. 38); Joel Atkinson and Jos. Akin, 9 Apr [1780?], marriage Joel Atkinson and Rachel [Thompson? unread] (pp. 39-40); consent of Tucker Woodson, 29 Feb 1780, for Sarah Woodson to marry Enoch? Ellington (p. 41); Benja Farmer and Lodowick Farmer, 1 Dec 1780, marriage Benjamin Farmer and Lamin? Herring (p. 42). Names marked ? uncertain. A George Cook Jr. bond would be expected here if George Jr. married about 1780-1783; none seen. George Cook Jr.'s wife Ruth is first named 9 Aug 1783 [[S-pittsylvania-db7-p106-107-cook-jr-to-cook-sr-1783]]; this file ends in 1780 and the 1781-1783 files are read below.
+- **Index or original:** Image of the original loose bond.
+- **Leads (not evidence):** none
+- **Next:** none
+
+### 2026-11-28 — Internet Archive: 1781_1782.pdf (21 pp.)
+- **Searcher:** records-searcher
+- **Goal:** Same; 1781-1782.
+- **Search terms:** as above.
+- **Coverage:** All 21 pages viewed at 90 dpi, top ~58% (landscape pages). Lower part not viewed.
+- **Result:** nothing found
+- **Findings:** No Cook, Cooke, Cock, Ruth or Pruett seen in the names read. Name-by-name transcription not made for this file beyond checking for those surnames; the pages were scanned for the target surnames, not abstracted. No other record is claimed from this file.
+- **Index or original:** Image of the original loose bond.
+- **Leads (not evidence):** none
+- **Next:** If the bottom halves are wanted (signatures, witnesses), re-view at higher resolution.
+
+### 2026-11-28 — Internet Archive: 1783_1784.pdf (29 pp.)
+- **Searcher:** records-searcher
+- **Goal:** Same; 1783-1784 (George Jr. and Ruth sell to George Sr. 9 Aug 1783).
+- **Search terms:** as above.
+- **Coverage:** All 29 pages viewed at 90 dpi, top ~58%. P. 11 is rotated 90 degrees and was only skimmed. Lower part not viewed.
+- **Result:** nothing found
+- **Findings:** No Cook, Cooke, Cock, Ruth or Pruett seen. Not abstracted (see 1781_1782 note).
+- **Index or original:** Image of the original loose bond.
+- **Leads (not evidence):** none
+- **Next:** none
+
+### 2026-11-28 — Internet Archive: 1785.pdf (47 pp.)
+- **Searcher:** records-searcher
+- **Goal:** Same; 1785 (Elijah Cook buys in DB 7:453, 1785).
+- **Search terms:** as above.
+- **Coverage:** All 47 pages viewed at 90 dpi, top ~58%, landscape pages. Lower part not viewed. P. 37 is a torn fragment; p. 30 a short consent (Elijah Adams, Dec 1785).
+- **Result:** nothing found for Cook; partial for Prewitt
+- **Findings:** No Cook, Cooke or Cock, no Ruth. Bonds read (selection): Jno Hill and another, 12 Sep 1785, marriage Jno Hill and Sarah Wilson? (p. 15); John Shackelford and Joshua Cantrill, 28 Jan 1785, marriage John Shackelford and Joan Shelton? (p. 16); Thos Shelton and Lekay Shelton, 10 Jan 1785, marriage Thomas Shelton and Nancy Hunt, consent of Moses Hunt, 7 Jan 1785 (pp. 17-18); Blank Moody and Robt Baker, 21 Feb 1785 (p. 19); Armistead? Harrison and Joseph Akin, marriage Armstead? Harrison and Coleman (p. 20); Samuel Brewer and Jos. Akin, 14 Feb 1785, marriage Samuel Brewer and Fanny Hopkins (pp. 21, 18 certificate); John Spurr? and Robt Clopton, 18 Apr 1785 (p. 22); James Dunning and Arthur Kezee?, 28 Jun 1785, marriage James Dunning and Mary Maril? (p. 23); the Prewitt bonds of 17 Oct 1785 (pp. 24, 29: [[S-pitt-marriage-bonds-ia-1777-1778-prewitt-variants]]); George Swaugh and Geo. Dyer, 10 Sep 1785, marriage George Swaugh and Peggy Oneal (pp. 25-26); George Young and Jesse Hodges, 12 Jul 1785 (p. 27); Edmd Samuel and Wm Dix, 19 Sep 1785, marriage Edmund Samuel and Eliza Harrison (p. 28); Claiborn Shelton and Robt Tucker, 16 May 1785, marriage Claiborn Shelton and Lucy Munteen? (p. 31); Laban Bowden and Wm Short, 27 Dec 1785, marriage Laban Bowden and Milley Adams (pp. 30, 32-33); consent of Jos. Roberts, 19 Dec 1785, for Susanna to marry Leonard Shelton (p. 34); Hudson? and Vincent Shelton, 1? Dec 1785, marriage with Susannah Mobins? (p. 35); Robt Glascoe and Tabot May, 21 Nov 1785, marriage Robt Glascoe and Sally? Tom? (p. 36); George Hall and Wm Murray, 8 Oct 1785, marriage George Hall and Susanna Hamblin (p. 38); Griffeth Dickinson and Jos. Akin, 1 Oct 1785, marriage Griffith Dickinson and Susanna Shelton, consent of Crispin Shelton, 10 Oct 1785 (pp. 39, 40, 42); Charles Walker and Jos. Akin, 19 Nov 1785 (p. 41); John Hoskins and Danl Lovell, 2 Aug 1785, marriage John Hoskins and Eliza Lovell (p. 43); Jesse Ashlock and Jno Hill, 6 Sep 1785, marriage Jesse Ashlock and Anne Scott? (p. 44); consent of Elizabeth Pigg to son Hezekiah Pigg to marry Agnes Owen?, witness William Nash? (p. 45); Hezekiah Pigg and William Wright, 12 Oct 1785 (p. 46); consent of Arthur Fuller, 2 May 1785, for daughter Rachell Fuller and William Lawrence (p. 47). Names marked ? uncertain.
+- **Index or original:** Image of the original loose bond.
+- **Leads (not evidence):** none
+- **Next:** none
+
+### 2026-11-28 — Internet Archive: 1787.pdf (52 pp.)
+- **Searcher:** records-searcher
+- **Goal:** Same; 1787 (end of requested range).
+- **Search terms:** as above.
+- **Coverage:** All 52 pages viewed at 90 dpi, top ~58%, landscape pages. Lower part not viewed. 1786 is not in the item.
+- **Result:** nothing found
+- **Findings:** No Cook, Cooke or Cock, no Ruth, no Pruett. "Drury Cross" (p. 9) and a Price Skinner (p. 26) noted as names only; not Cook. A bond for a Turner marriage appears in both 1783_1784 p. 21 and 1787 p. 35 (possible duplicate filing; irrelevant). Not abstracted.
+- **Index or original:** Image of the original loose bond.
+- **Leads (not evidence):** none
+- **Next:** none
+
+### 2026-11-28 — Not done: bottoms of pages, 1772, 1786, ministers' returns, the bound bond book
+- **Searcher:** records-searcher
+- **Goal:** State what this group did not search.
+- **Search terms:** none run.
+- **Coverage:** Not searched: (a) the lower ~42% of each page (signatures, witnesses, clerk's memoranda) in all eight files; (b) 1772 and 1786 (no file in the item); (c) any minister's return (marriage return) apart from stray notes in 1787.pdf pp. 1-2 that were seen but not read; (d) the bound Marriage Bonds Book 1767-1861 on microfilm (FamilySearch catalog 475922, per a web search listing; not opened here; likely behind a login or on-site viewing); (e) Knorr's printed transcription of the bonds (1767-1805), not seen. Also the USGenWeb 1767 marriage PDF was fetched by URL but exceeded the tool's size limit (10 MB) and was not read.
+- **Result:** not searched
+- **Findings:** none. These are gaps, not negatives.
+- **Index or original:** n/a
+- **Leads (not evidence):** The earlier lead that a Samuell Pruett's daughter Ruth married a Cook comes from the 1801 will (DW 11:240, already in the repo), not from these bonds. No bond found here confirms or contradicts it.
+- **Next:** (1) Re-view the lower halves of 1781_1782, 1783_1784 and 1785 at higher resolution for a Cook as witness or signer. (2) Look for the Cook marriage elsewhere: a George Cook Jr. marriage before 1780 may be outside Pittsylvania (e.g., Prince Edward, Halifax, Lunenburg) or may be unrecorded in surviving bonds. (3) Check the printed Knorr abstract (1767-1805) and the Pittsylvania marriage register (1761-1800s) at the Library of Virginia for 1772 and 1786.
+
+# Q-15 research log, record group 11 (IA scans: Pittsylvania Old Land Survey Books 1 and 2)
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Items: Internet Archive "old-land-survey-book-1" (367 page images) and "OLSB2" (178 page images). Downloaded by standing user permission as single page JPEGs (page/nK.jpg, about 3168 x 4896 px each, about 1.4 MB): OLSB1 images 225-360 (136 leaves) and OLSB2 images 57-178 (122 leaves), no PDFs. Files are untrusted; opened only with an image library (resize/crop) and the image reader; no code run from the download directory. Working files: local scratch directory, not in repo. IA has no usable OCR (stub hOCR). Page numbering: OLSB1 has a printed/pencil page number at the top corner of each leaf; printed page = IA image number + 4 (e.g. image 251 = p. 255). Plan rows 3, 8 (Sandy Creek neighbors, Musick, FAN names). Sources created: [[S-pitt-olsb1-img251-walthers-1774-george-musick-line]], [[S-pitt-olsb1-img249-owen-1774-musick-corner]], [[S-pitt-olsb1-img312-collee-1775-echols-line]], [[S-pitt-olsb1-img356-clements-resurvey-1781-holloway-corner]].
+
+Reading method and its limit: each two-page spread was viewed at about 1000 px per leaf (roughly 90 dpi equivalent), every entry heading and plat label scanned for the names below; entries that mentioned a target name, a Sandy Creek or Russell Creek call, or a Stamps/Musick/Cook-like word were enlarged (about 190 dpi) and read line by line. Names inside long metes-and-bounds calls at the lower resolution could be missed, so the negatives below are moderate-confidence, not exhaustive. This book gives no chain carriers or markers (not recorded in these entries); only the surveyor's signature (T. Hutchings to about 1773; John Donelson Jr. 1772-1775; Phil. Payne, Mel. Spraggins, Joshua Stone, 1777-1782) appears.
+
+Surname variants looked for: Cook, Cooke, Cock, Musick, Music, Muzick, Mushick, Electious, Elexius, Elixeous, Holloway, Hollowey, Hollaway, Holoway, Flippin, Flippen, Flipping, Echols, Eckols, Ecols, Echoles, Collie, Colly, Collee, Hedgpeth, Hedgepeth, Stamps, Stamp.
+
+### 2026-11-28 — Internet Archive: Old Land Survey Book 1, images 253-360 (printed pp. 257-364), surveys 1769-1782
+- **Searcher:** records-searcher
+- **Goal:** Every survey on Sandy Creek or Russell Creek, or naming Cook, Musick, Holloway, Flippin, Echols, Collie, Hedgpeth, Electious; note adjoiners (plan rows 3, 8).
+- **Search terms:** names and variants above; place words Sandy Creek, Sandy River, Russell(s) Creek, Peters Creek.
+- **Coverage:** Images 253-360 all viewed (54 spreads), all 108 leaves; enlarged and read: images 255, 259, 307, 312, 355-356, 358-360 (printed 259, 263, 311, 316, 359, 362-364). Printed pp. 360-361 (images 357-358) are a large plat of Harmon Hook's patent. NOT read at high resolution: all other entries (names scanned at ~90 dpi).
+- **Result:** partial (one Echols hit on Sandy Creek, no Cook, no Flippin, no Hedgpeth, no Musick, no Stamps on Sandy Creek)
+- **Findings:**
+  1. ECHOLS on Sandy Creek: 25 Mar 1775 survey for James "Co?lee" (surname uncertain), 304 ac "on the Branches of Sandy Creek", calls "Beginning at William Twedwell Corner pointers and thence along Echols Line N 69 E 246 po." and later "along Wynns line", "Wm Owens Cor. pine" [[S-pitt-olsb1-img312-collee-1775-echols-line]]. Echols has no given name. Collee/Collie reading is NOT secure (see source).
+  2. Other Echols (not Sandy Creek): printed p. 264, 18 Mar 1773, John Hollaway 485 ac on "Doe creek", "Beginning at a white oak in Edward Echols's Line" (by Thomas Hutchings; read at 90 dpi, the surveyor line and 'Hollaway' spelling not enlarged); printed p. 267, John Noble 290 ac Beaches creek, "John Echols's corner" (90 dpi); p. 343 (image 339), 8 May 1780, David Irby 370 ac north branches of Stinking River, "Beginning at Joseph Echols's corner Pine ... Black Walnut in Echols Line aforesd" (90 dpi); p. 358 (image 354), 27 Feb 1770, Edward Hubbard 400 ac branches of Straight Stone creek, "Freemans corner in Isaac Echols line ... White Oak in Isaac Echols line" (enlarged; by Thomas Hutchings D.S.; recorded late in the book). These are Stinking River, Straight Stone, Beaver/Doe creek: different waters from the Sandy Creek of DB 6.
+  3. HOLLOWAY: 5 Sep 1781, resurvey for Isaac and Adam Clements, Exr's of Benjamin Clements dec'd, 375 ac Staunton River and Sycamore Creek, call "to Hollowey's Co. Pine & thence on his Line N 10 W 76 po." (printed p. 359) [[S-pitt-olsb1-img356-clements-resurvey-1781-holloway-corner]]. Sycamore Creek, not Sandy.
+  4. COLLIE: no surname Collie read; only the uncertain James "Co?lee" entry above. "William Collins" 234 ac read as Collins, a different surname.
+  5. COOK (not George): printed p. 270 (image 266), "9 Apr 1772 Survey for Capt John Cook 444 acres" on a Greasy fork (reading of creek name uncertain), "Transferd to Benjamin Cook by order of Jn Cook Ex'or of Jn Cook Deceas'd 4 Aug 1783" (90 dpi, not enlarged); p. 281 James Ferris 350 ac North Fork Georges Creek, 29 Nov 1774, "Transfd to Nath. Cook 3 Apr 1780"; p. 314 James Ferris 345 ac Stinking River branches, 18 Feb 1775, "Transfer'd to Nat Cook Gen."; p. 362-363 (images 358-359) Harmon "Hook" (written "Kook"/"Hook"; reading not settled, may be the Harmon Cook of the deed indexes): 2780 ac Pigg River, 4 Jan 1782, and a Harping Creek call "Harmon Kooks Line" (Witcher 115 ac, 10 Jan 1782). No George, Elijah, Elisha, Josiah, or Ruth Cook.
+  6. MUSICK in this range: none read. (Musick appears in the 1774 surveys just before the range; see next entry.)
+  7. STAMPS: only James Watson 107 ac, Draughts of the Double Creek and Birches creek, 2 Mar 1780 (printed p. 327, image 323): "...on Hardy's Lines N12E 66 po to pointers in STAMPS Line thence the same N30E 42 po" (enlarged to ~90 dpi only; read as "Stamps"). It names no Musick. No Stamps survey in his own name seen; the Grants A:425 index (Stamps adjoining Musick) is NOT matched here.
+  8. SANDY CREEK surveys read (adjoiners only, no target names): printed p. 257 Henry Harden 344 ac 1769 (Mark Harden's corner), Richard Kerby 204 ac 30 Jul 1773 (John Donelson's corner); p. 265 Moses Vincent 205 ac 13 Dec 1777; p. 266 John Davidson 2038 ac Sweetling fork of Sandy creek; p. 270 Theophilus Lacy 122 ac 30 Jul 1773 (Kerby, Williams, Hatcher, King); p. 275 Henry McDaniel 976 ac 10 Jun 1772; p. 282-283 Jesse Barker 420 ac, John Anglin 238 ac, Jacob Certain 229 ac (3-4 Nov 1774, Dodson, Ashworth, Hall); p. 291 John Morefield 697 ac; p. 292 Thomas Burgess 357 ac (5 Aug 1772?), Edward Tatum 324 ac "branches of Peters creek and Russell creek" 7 Dec 1773 (Jonathan Hanley's and Jonathan Kerby's lines); p. 297 Mathew Sparks 305 ac; p. 313 James Roberts Gen 302 ac, James Lawson 252 ac (3-4 Nov 1774); p. 315-316 John Payne 388 ac (23 Mar 1775), Moses Ayres 304 ac, and the Collee entry above; p. 321-324 Thomas Chambers 400 ac (27 Mar 1778), Benjamin Terry 564 ac (24 Nov 1779), Henry Terry Senr 356 ac (28 Feb 1780), George Hardy 236 ac (26 Mar 1774), Philip Thomas 47 ac (7 Mar 1780); p. 325-326 Joseph Terry Senr 420 ac and 400 ac (10 Mar 1780); p. 336 Jeremiah White 98 ac and David Parish 160 ac (Apr 1780); p. 346 John Pyner 233 ac (19 Oct 1780); p. 347 Charles Burton 1040 ac, Thomas Drake 30 ac (26-27 Oct 1780); p. 349 Hezekiah Pigg etc.; p. 351 Joshua Cantrill 250 ac (19 Jan 1781), Syl. Adams 351 ac (30 Jan 1781); p. 364 Wm Vincent 175 ac "Draughts of Sandy & Strawberry creeks" 30 Oct 1781. Neighbors recurring: Kings (Elijah King), Dodson, Walker, Terry, Burgess, Wynn, Hardy, Roberts, Atkinson, Payne, Donelson. Several "Sandy River" surveys are the Staunton ("Sandy River"), not Sandy Creek.
+  9. No Flippin/Flippen, no Hedgpeth/Hedgepeth, no Electious/Elixeous in these 108 leaves.
+- **Index or original:** original (clerk's survey book; IA page images). No index in the item.
+- **Leads (not evidence):** none
+- **Next:** Re-read pp. 257-340 at 150 dpi if a second reader is wanted; see the "Wynn", "King", "Walker", "Burgess" and "Owen" neighbors as the Sandy Creek cluster.
+
+### 2026-11-28 — Internet Archive: Old Land Survey Book 1, images 225-252 (printed pp. 229-256), surveys 1768-1775 (outside the assigned range, read to find the Musick survey)
+- **Searcher:** records-searcher
+- **Goal:** Find the 1772 Musick survey behind Patent 40:861 (194 ac Russell Creek of Sandy Creek) and any Sandy Creek survey before 1773.
+- **Search terms:** Musick and variants, Russell Creek, Sandy Creek, Cook.
+- **Coverage:** Images 225-236 (printed pp. 229-240) viewed at ~90 dpi: images 232-235 (printed 237-240) only; images 225-231 NOT read in this session (files downloaded, not viewed). Images 236-252 (printed 241-256) all viewed at ~90 dpi; images 249 and 251 enlarged.
+- **Result:** found (Musick as an adjoiner) / nothing found (the Musick survey itself)
+- **Findings:**
+  1. Printed p. 253 (image 249), 1 Apr 1774, John Donelson Jr. ass't, William Owen 400 ac on branches of Sandy Creek: "...N 77 E 30 po. to Musick Corner Red Oak thence along his Lines N 3 E 266 po. crossing Bold branch to Robert Walthers Corner" [[S-pitt-olsb1-img249-owen-1774-musick-corner]].
+  2. Printed p. 255 (image 251), 1 Apr 1774, Robert Walthers 400 ac on branches of Sandy Creek: "...S 200 po. to a pine in George Musick Line thence along his line N 83 E 134 po. to a pine in the Aff.d Kings line" [[S-pitt-olsb1-img251-walthers-1774-george-musick-line]]. The same page lists Thomas Walthers 314 ac, "Adkensons corner", and William Walthers 398 ac on Beaches creek, same dates (1-2 Apr 1774).
+  3. The Electious Musick survey (1772, 194 ac, Russell Creek) was NOT seen in images 232-256. Surveys dated 1768-1773 on these pages are Banister/Pigg/Smith River/Leatherwood waters (Hutchings, Donelson). David Gowers 140 ac "Russells creek" 13 Mar 1768 (printed p. 239) and Azariah Shelton 484 ac "waters of Russells creek ... Henry Lankfords" 15 Oct 1770 (printed p. 244) are a Russell Creek in the Banister/Pigg area, with no tie to Sandy Creek.
+  4. No Cook on any page 237-256.
+- **Index or original:** original
+- **Leads (not evidence):** Musick's 1772 survey may sit in an entry book or be copied in a different volume (OLSB2 images 1-56 were read only partially in group 10); not found here.
+- **Next:** Read images 225-231 and OLSB2 images 1-56 at 150 dpi for the 1771-1772 Musick survey; read Pittsylvania Order Book 1-2 for Musick/Walthers/Owen.
+
+### 2026-11-28 — Internet Archive: OLSB2 images 57-74 (printed pp. 59-76), entry book 1791-1794
+- **Searcher:** records-searcher
+- **Goal:** same names; images 57-178 of OLSB2 (plan rows 3, 8).
+- **Search terms:** same as above.
+- **Coverage:** Images 57-74 viewed at ~90 dpi (9 spreads, printed 59-76). These pages are a land-entry/warrant book for 1791-1794 (entries "X enters N acres ..." on 1780s warrants), not 1770s surveys.
+- **Result:** nothing found for Cook, Musick, Flippin, Hedgpeth; Echols and Collie as neighbors only
+- **Findings:** (1) Printed p. 63 (image 61, left page of the o2_60 sheet): "Also 260 acres on Bear Branch of Birches creek Beginning at Charles Collies Cor. Pointers in Weatherfords Order Line" (entry on a 1783 warrant); (2) printed p. 75 (image 73): "100 acres between James Williams, Wm Stratton, Wm Beardley Stokes & Echols's lines" (Echols, 1794 date; read at 90 dpi); (3) Harmon "Kook"/Hook, Pigg River and Tomahawk Creek, entered 1791-1792 (as in OLSB1, reading Hook vs Cook not settled); (4) Sandy River entries by Blizard Magruder, Mortons, Still, Shields, Pennell (the Staunton "Sandy River"), and Thomas Atkinson on the Beaver? "Sandy Cr of Dan" in 1793 (not read closely). No Cook (other than Harmon Hook), no Musick. All dates 1791 or later, after the 1783 Jr.-to-Sr. deed; low relevance.
+- **Index or original:** original
+- **Leads (not evidence):** none
+- **Next:** none for Q-15 unless the Sandy Creek adjoiners (Walthers, Owen, King) are traced.
+
+### 2026-11-28 — Internet Archive: OLSB2 images 101-102, 131-132, 177-178 (spot checks)
+- **Searcher:** records-searcher
+- **Goal:** Check the later part of OLSB2 for date range and any target names.
+- **Search terms:** same.
+- **Coverage:** Image pairs 101-102 (Nov 1798-Jun 1799 surveys by J. Stone, Thomas Stitt, Thomas Whelon, Adin Gray, Isaac Oakes warrants, Charles Waldin, David Irby), 131-132 (26 Mar-15 May 1804, Nicholas Parish, John Bruce, Henry Pickral, Thomas Dalton, John Parsons; a call "Harmon Cooks Line", spelled Cook/Kook), 177-178 (1825-1829 surveys by Wm Hall, Pittsylvania Superior Court orders). Viewed at ~90 dpi; not enlarged.
+- **Result:** nothing found in those pairs for the six surnames (Harmon Cook line only)
+- **Findings:** All are after 1782 and outside Q-15's 1771-1782 window. OLSB2 images 75-100, 103-130, 133-176 were NOT searched.
+- **Index or original:** original
+- **Leads (not evidence):** none
+- **Next:** not needed unless a post-1783 Cook survey is wanted.
+
+### 2026-11-28 — Not searched in this group (explicit)
+- **Searcher:** records-searcher
+- **Goal:** Record gaps.
+- **Search terms:** n/a
+- **Coverage:** OLSB1 images 1-224 (except images 225-252 above); OLSB1 images 361-367; OLSB2 images 1-56 (read only partially in group 10) and 75-100, 103-130, 133-176; Old Land Survey Book 3.
+- **Result:** not searched
+- **Findings:** none. Not searched does not mean negative.
+- **Index or original:** n/a
+- **Leads (not evidence):** none
+- **Next:** If the 1772 Musick survey is wanted: images 225-231 of OLSB1 and OLSB2 images 1-56 at 150 dpi, or the Library of Virginia patent 40:861 image (needs a TIFF viewer).
+
+# Q-15 research log, record group 11 (Internet Archive item 000141000001.7, "William Tunstall Clerk Minutes")
+
+Searcher: records-searcher (agent). Date of all entries: 2026-11-28. Free Internet Archive page images downloaded under the user's standing permission to a local scratch directory, not in repo (untrusted; only viewed, and a contact sheet of page tops was made with PIL under `python3 -I`; nothing executed from the download directory). No source file created: nothing read is citable for Q-15.
+
+### 2026-11-28 — Internet Archive: 000141000001.7 metadata and identification
+- **Searcher:** records-searcher
+- **Goal:** Identify the item (which court, which years) and decide whether it can hold the 1767-1785 entries wanted (proof of DB 6:34-35, DB 6:93, DB 7:106-107).
+- **Search terms:** item metadata; page images n0-n5, n20, n40, n60, n80, n100, n120, n140, n153
+- **Coverage:** Metadata: title "William Tunstall Clerk Minutes"; item description "1812 Memo Book of William Tunstall"; date 1812; subjects "Tunstall", "Pittsylvania County"; 154 page images; PDF about 185 MB (not downloaded); no usable OCR ("language not currently OCRable"); no name index in the item. Images viewed in full: n0 (cover) and n3. Tops of pages (upper 30%) viewed for n1, n2, n20, n40, n60, n80, n100, n120, n140, n153.
+- **Result:** found (identification); nothing relevant to the 1767-1785 target
+- **Findings:** It is a clerk's pocket memorandum book of fees, suits and copy/search charges, headed by court term. Dates seen: "March 1812" / "March Court" (n3, n2), "April 1812" (n20), a Nov 1812 to 25 Apr 1813 interest computation (n153). All sampled pages are 1812-1813 (the book is a different series from the deed books). The location is not stated in the item; the subject tag and the 1812 date point to Pittsylvania County clerk's office (Tunstall was clerk in 1780, per the DB 6 endorsements "Test Will Tunstall Clk"), but the book itself is 1812, about 30 years after the target dates. n3 holds charges such as "To search for one Deed" and "To copy ... courses of Deed book"; no Cook, Musick, Holloway, Flippin, Collie, Hedgpeth or Sandy Creek seen on n3. A "James Echols" appears on n100 (a covenant action, 1812 era hand; not 1767-1785 and not tied to Q-15). Reading of that name: medium confidence.
+- **Index or original:** Original page images (clerk's memorandum book); no index exists.
+- **Uncertain readings:** n3 "Josiah Crews" (could also be another surname; not a Cook reading); "Echols" n100 medium.
+- **Leads (not evidence):** none
+- **Next:** none from this item. DB 6:34-35, 6:93 and 7:106-107 are already proved by the deed books themselves (group 10); this memo book cannot add to them.
+
+### 2026-11-28 — 000141000001.7: Cook / Cooke / Musick / Holloway / Flippin / Echols / Collie / Hedgpeth / Elijah / Sandy Creek / processioning / road order, 1767-1785
+- **Searcher:** records-searcher
+- **Goal:** Find any 1767-1785 entry for the FAN names or the three deed proofs.
+- **Search terms:** Cook, Cooke, Musick, Holloway, Flippin, Echols, Collie, Hedgpeth, Elijah, Sandy Creek, processioning, road order; 1767-1785
+- **Coverage:** Pages n0, n3 read in full; 10 further pages sampled by their top 30% only. The remaining pages (about 140 of 154) are NOT SEARCHED: no index, no OCR, handwriting needs a page-by-page read. Not a full-book negative.
+- **Result:** nothing found (in the sample); remainder not searched
+- **Findings:** Every dated heading seen is 1812-1813, so the book is outside the target years and unlikely to hold them. Possible later references (1812 clerk charges to search or copy old deeds) would be after the fact and derivative at best.
+- **Index or original:** Original images; no index.
+- **Leads (not evidence):** none
+- **Next:** If the analyst wants a full negative, a page-by-page read of n4-n152 (about 140 pages, cursive) is needed; low expected value. Remaining Q-15 settling records are the order books (LVA Reels 47-48), tithables (Reel 286) and the other groups in proof.md.

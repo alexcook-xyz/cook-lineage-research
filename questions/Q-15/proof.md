@@ -23,7 +23,7 @@ Cook Sr. the father of George Cook Jr.? (plan.md)
 the owner's approval to download.
 
 ## Research scope
-82 logged searches across plan groups 1–8 (log.md).
+155 logged searches across plan groups 1–8 and the follow-up index and scan groups 9–11 (log.md).
 - **Done:** groups 1 and 2 against images. Group 4 against a published transcription. Group 7 against a printed
   compilation, web transcriptions, and the LVA patent index. Group 8 partly.
 - **Not done:**
@@ -150,3 +150,10 @@ Read from the clerk's page images, 2026-11-28 (logs `group-10-*.md`).
 - **Camden Parish vestry book, folios 1–49a (1767–1785).** No George, Elijah, Elisha, Musick, Flippin, Echols or Collie. John, Joseph, William and Benjamin Cook appear as collectors, sureties and processioners on the northern waters (Pigg River, Snow Creek). The three Sandy Creek processionings (1771, 1776, 1780) name no Cook, but they are for the county-line Sandy Creek and are not tied to the DB 6 tract.
 - **Surveys, claims, marriage bonds:** a weak negative, partly unread (see log).
 - **Effect:** H1, H2 and H4 stay `possible`; H3 for Pittsylvania land, 1768–1779, is now supported by both indexes and the DB 5 pages read, but not for order books, tithables, Lunenburg, Halifax or North Carolina. The question stays stalled.
+
+## Addendum 3: marriage bonds, surveys, claims, Tunstall book (group 11)
+- **Marriage bonds 1767–1787** (Internet Archive item `1785_20250812`; upper halves of pages only, no 1772 or 1786 file): no Cook marriage, bondsman or surety seen, no Ruth, and no Pruett groom or bride, so the lead that Ruth was a Pruett is untested, not refuted. No marriage bond for George Cook Jr. and Ruth was found [[S-pitt-marriage-bonds-ia-1767-1787-upper-halves-no-cook-seen]].
+- **Surveys (Old Land Survey Book 1, images 232–360, partial):** two 1 Apr 1774 Sandy Creek surveys name a "George Musick Line" and a "Musick Corner" [[S-pitt-olsb1-img251-walthers-1774-george-musick-line]], [[S-pitt-olsb1-img249-owen-1774-musick-corner]], which agrees with a George Musick adjoining Electious Musick's 1772 patent. No George, Elijah or Elisha Cook appears. A 1775 Sandy Creek survey for "James Co?lee" (Collie is not secure) runs along "Echols Line" [[S-pitt-olsb1-img312-collee-1775-echols-line]].
+- **Revolutionary claims, 1782:** Harmon and James Cook only; no George, Elijah, Elisha or Zachariah Cook; partial read (index leaves T–Z unsearched).
+- **Tunstall item 000141000001.7** is an 1812 fee memo book, not 1780s minutes, so it cannot prove the deed entries.
+- **Effect:** more weak negatives for a George Cook in Pittsylvania before 1780. H1–H4 stay `possible` and the question stays stalled. Still unread and possibly free: Pittsylvania order books and tithables 1771–1782 (check Internet Archive for scans; otherwise LVA reels 47–48 and 286), OLSB1 images 1–231, OLSB2 images 1–56, and the lower halves of the 1781–85 marriage bond pages.

@@ -1,0 +1,40 @@
+---
+id: S-pittsylvania-db7-p106-107-cook-jr-to-cook-sr-1783
+title: Pittsylvania Co., VA, Deed Book 7:106-107, George Cook Jr. and Ruth to George Cook Sr., 9 Aug 1783 (proved 19 Aug 1783)
+type: land
+source_class: original
+accessed: 2026-11-28
+---
+## Citation
+Pittsylvania County, Virginia, Deed Book 7: 106-107, George Cook Junr. and Ruth his wife to George Cook Senor., indenture 9 August 1783, proved 19 August 1783; County Court Clerk's Office, Chatham; digital image (two-page spread). Local copy: `sources/va-pittsylvania/PITT_DB7_p106-107_CookJr_to_CookSr_1783.jpg` (4858 x 4101 px; byte-identical duplicate in `sources/muse-checkpoints/pittsylvania-db6-db7/`). Image viewed by records-searcher 2026-11-28 from the local copy, with enlarged crops of every line. I did not re-open FamilySearch. The image carries no catalog banner or frame label, so its repository, film, and image number are NOT confirmed from the image. The Muse findings file gives "FamilySearch, film 33265, DGS 7646007, Item 2, image 65" as a comparison only; unverified.
+
+## Transcription
+Verbatim from the image; line breaks not preserved; `[ ]` = my uncertainty or editorial note. The right edge of the scan trims the ends of some lines on p. 107 and the right side of p. 106 (a few letters lost at line ends, shown as "-").
+
+Margin, p. 106: "Cook Senr. from Cook Junr. Deed"
+
+p. 106: "This Indenture Made this 9th Day of August in the year of our Lord Christ one thousand Seven hundred and Eighty three Between George Cook Junr. of the County of Pittsylvania and Parish of Camden of one part and George Cook Senor. of the County and Parish aforesaid of the Other part Witnesseth that the said George Cook Junr. and Ruth his Wife for and in consideration of the Sum twenty [interlined: five] pounds [interlined: good] and Lawfull Money of the Colony of Virginia all Ready in hand paid them by the said George Cook Senr. the Receipt whereof they the said George Cook and Ruth his Wife doth hereby Acknowledge themselves thereof fully and intirely Satisfied Contented and paid have Bargained Sold alined and forever Confirm unto the said George Cook Senor. his Heirs and Assigns forever a Certain Tract Plantation or parcell of Land Situate lying and being on Sandy Creek of Dan River in the County and Parrish aforesaid and adjoins the Land of James Holloway and is part of the same Tract the said George Cook Junr. purchased of Electus Musick being by Estimation one hundred Acres more or less together with all Houses out houses Orchards Gardens Waters ways Priviledges woods & Low Grounds Marshes Springs and fountains thereunto belonging or in any wise appertaining the Reversion Reversions Remainder & Remainders Rents issues and profits thereof and of every part and parcel thereof To have and to hold the said Bargained premises with the appurtenances unto the said George Cook Senor. his Heirs and Assigns forever to his and their proper use and Benefit forever and the said George Cook Junr. doth Covenant for himself his Heirs Executors and Admrs to and with George Cook Senr. his Heirs and Assigns forever in the following manner that is to say that the said George Cook Junr. hath Bargained and Sold the aforementioned premises with the appurtenances"
+
+p. 107: "unto said George Cook Senr. his Heirs and Assigns forever and that the Same is fully and freely & Clearly Acquited and Discharged of and from all manner of incumbrances whatsoever and the said George Cook Junr. in like manner doth further Covenant to and with the said George Cook Senr. his [interlined: Heirs] and Assigns that the said George Cook Junr. his Heirs Executors Administrators or either of them Shall and will when being thereunto reasonably required by the said George Cook Senr. his Heirs Exrs. Admrs. or Assigns make or cause to be made any Other or further Act or Acts Deed or Deeds whereby for the Better further or Surer Conveyingthe hereby Bargained Premises unto the said George Cook Senr. his Heirs and Assigns & lastly the said Bargained premises with the Appurtenances unto the George Cook Senr. his Heirs and Assigns and the said George Cook Junr. doth Warrant and defend by these presents against all Manner of persons Whatsoever In Witness whereof the said George Cook Senor and Ruth his Wife have hereunto Set there Hands and Seals the Day and year above Written"
+
+Signature block: "Signed Sealed and Delivered in presents of us ---- [right:] George Cook Junr. L.S."
+Witnesses, line 1: "Wm. Hedgpeth  Joseph Flippin [reading: Flipp-in/-en]"; line 2: "James Holloway  Elijah Cook  Orlando Smith"
+
+Receipt: "Receiv'd the Day and Date within Specified the Sum of twenty five pounds Current Money from the within mentioned George Cook Senr. being in full for the Consideration Deed [?] [right:] George Cook Junr. L.S."
+Receipt witnesses: "Wm. Hedgpeth  Joseph Flippin  James Holloway / Elijah Cook  Orlando Smith"
+
+Court endorsement: "At a Court held for Pittsylvania County the 19th Day of August 178[3; last digit clipped by the scan edge] The within Indenture together with the Receipt hereon endorsed was proved by the Oaths of three of the Witnesses thereto to be the Acts & Deed of the within Named George Cook Junr. and the Same was Ordered to be Recorded By the Court Test Willm. Tunstall Cl."
+
+## Notes
+- Informant: the clerk copying into the deed book; the parties supplied the terms. Book copy of a signed deed.
+- KEY DISCREPANCY with the Muse findings file (comparison only): the testimonium reads "In Witness whereof the said George Cook Senor and Ruth his Wife have hereunto Set there Hands and Seals", not "George Cook Junr. and Ruth his Wife". The word has the long, S-shaped initial that the clerk uses for "Senor." elsewhere; compare "Junr." (short word, J initial, abbreviation tail) in the signature and the covenants. The word ends in a fully written "-or" (the clerk writes "Junr." with a raised r and no o), which is my main reason; the capital itself is ambiguous. I read it as "Senor" with moderate-to-high confidence (not certain at this resolution; second reader recommended). If correct it is a clerk's slip (the grantor was the Junr. and the grantee the Senr.); it should not be used to argue that Sr. and Ruth were married. Muse's reading "Junr." is likely a normalization of the intended meaning.
+- Other discrepancies and uncertainties:
+  1. Consideration: "twenty" with "five" interlined above and "good" interlined at the line end; the findings file did not note the interlineations. Receipt reads "twenty five pound(s) Current Money"; no "Colony of Virginia" there.
+  2. Witness surname: I read "Hedgpeth" (the clerk's "gp" ligature), the findings file reads "Hedgeth". "Flippin" (findings "Flippen"). Both are variant spellings; medium confidence on both.
+  3. Court year: the last digit of 178_ is cut off by the scan edge on the court endorsement. The deed date "Eighty three" is clear, and the endorsement is 10 days later; "1783" is an inference from the deed date, not read.
+  4. Ruth: Ruth is named in the preamble, the acknowledgement, the covenant block, and the testimonium. She does not sign or mark the instrument (agreeing with the findings file). The signature and receipt are by George Cook Junr. only. No privy examination appears on these pages.
+  5. The abbreviation "Senr./Senor." after "George Cook" in the grantee position, and "Junr." in the grantor position, are both used consistently except the testimonium slip above.
+  6. The findings file's "Parrish of Camden" and "Sandy Creek of Dan River" agree with my reading; "Colony of Virginia" in a 1783 deed (the state is not "colony" by then) is as written.
+- No relationship between Jr. and Sr. is stated in the deed. No mention of Prince Edward.
+- Name readings I am less than high on: "Hedgpeth" (medium), "Flippin" (medium), "Electus" (high on the form; the clerk writes no "i"), "Holloway" (high).
+- Image condition: clear; right margin trimmed by scan; pen strike-throughs at "Discharged" and elsewhere (a stray ink mark through "Dis-", not a cancellation).

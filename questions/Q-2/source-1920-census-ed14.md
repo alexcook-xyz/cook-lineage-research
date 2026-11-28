@@ -24,10 +24,10 @@ Household, dwelling 78 / family 78:
 
 Neighbouring households: above, dwelling 77, Henry Clay Willis (with wife Zilpha M. and children); below, dwelling 79, Harrison Crawhorn (with wife Rodie and children).
 
-Transcription verified from the full image by the lead (Jolly), 2026-11-28, with two small corrections to the M-4 pass report: Russell's age reads 3 1/12 (the pass read 3½ [?]) — right for a 28 Nov 1916 birth at a 12 Jan 1920 enumeration — and the Willis wife's name reads Zilpha M. Retrieved by Muse browser pass M-4 on 2026-11-28 (FamilySearch only).
+Transcription verified from the full image by the lead (Jolly), 2026-11-28, with two small corrections to the M-4 pass report: Russell's age reads 3 1/12 (the pass read 3½ [?]) — right for a 28 Nov 1916 birth (prior repo work, gen-04 file; outside Q-2's evidence set) at a 12 Jan 1920 enumeration — and the Willis wife's name reads Zilpha M. Retrieved by Muse browser pass M-4 on 2026-11-28 (FamilySearch only).
 
 ## Notes
 
-- George's wife is written **"Anna"** — the Emma/Enna Janes of the 1911 marriage record (Vol. 22:490–491). Age 24 (b. ~1895–96) runs about two years below the marriage record's age 17 in Sep 1911 (b. ~1894); the drift is noted at analysis C8. She is recorded as unable to read or write.
+- George's wife is written **"Anna"** — the Emma/Enna Janes of the 1911 marriage record (Vol. 22:490–491; prior repo work, gen-05 file; outside Q-2's evidence set). Age 24 (b. ~1895–96) runs about two years below the marriage record's age 17 in Sep 1911 (b. ~1894); the drift is noted at analysis C8. She is recorded as unable to read or write.
 - George's parents' birthplaces are both written **Kentucky** here — against Virginia/Virginia in both 1900 and 1910 (and Virginia for his mother in 1880). The informant is unknown, as on every sheet in this set; the item is weighed at analysis C2 and does not disturb the identification (name, age, place, farm, family all align).
 - Same ED (14) and precinct (West Columbia) as 1910; the household is on the Greensburg Road margin. District-level continuity across the set: 1900 (with Eliza) → 1910 (alone) → 1920 (with wife and son) — see analysis Finding 1 on what this does and does not establish about the tract itself.

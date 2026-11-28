@@ -22,7 +22,7 @@ Append only. Every search — including searches that found nothing — is logge
 
 - Date: 2026-11-28
 - Repository: FamilySearch (online), NARA T9 roll 401, digital film 005160662
-- Indexes: 1880 census index; full Adair Cook/Cooke surname index (47 results, 30 in Adair)
+- Indexes: 1880 census index; the Adair Cook/Cooke surname-index result set (47 results, 30 in Adair)
 - Search terms: Cook/Cooke, residence Adair KY, 1880; Thomas H. Cook b. 1844 exact; John Cook + mother Eliza
 - Results: **Found** — Eliza Cook household, ED 1, Page 2 (Sheet 1B), dwelling 11: Eliza 51, George 28, Liddie 17, Laura 13, Mattie 9. Image 7 of 1,053 downloaded (actual JPG via viewer Download control); transcription verified by the lead against the full image → `source-1880-census-ed1.md`. Other Adair Cook households in the index (index findings only, not transcribed): Joseph (b. 1837) & Betsey, Columbia; Mahala (b. 1849) + children, Columbia; Elijah (b. 1852, TN) & Nancy E., Cane Valley; William (b. 1823) & Martha A., Neatsville; James (b. 1804, VA) & Suanna; Moriah (b. 1814). **Negatives:** no Thomas, no John, and no senior George Cook anywhere in the Adair 1880 index. Thomas H. b. 1844 exact: 38 results nationally, none in Adair (only KY hit Thomas J. Cook, Graves Co. — different family). John + mother Eliza: 4,846 results, no Adair hit in first 100.
 - Leads: unconfirmed out-of-scope lead — Thomas H. Cook with wife Laura M., Phillipstown, White Co., IL (ARK 1:1:MXKY-PP3), attached by the FamilySearch tree to the 1873 Adair marriage to Laura M. Vaughan, but the sheet gives age 24 (b. ~1856) and parents' birthplaces reversed vs this family. **Not assigned**; held for analysis as an unresolved candidate.

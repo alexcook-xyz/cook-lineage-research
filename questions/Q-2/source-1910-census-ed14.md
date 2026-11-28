@@ -27,6 +27,6 @@ Transcription verified from the full image by the lead (Jolly), 2026-11-28. Retr
 ## Notes
 
 - George is **head of his own household for the first time** in this series, five years after his mother's death — consistent with the will's devise to him of "my interest in the tract of land I now live on" (proved 1906). Same precinct (West Columbia, Mag. Dist. 7) as the 1900 household.
-- Age 57 against a 26 Feb 1852 birth (he had turned 58) — one-year drift, matching the index's estimated 1853. Not an identity problem: name, place, bachelor status, farmer, parents Virginia/Virginia all align.
+- Age 57 against a 26 Feb 1852 birth (birth date per prior repo work, gen-05 file; outside Q-2's evidence set) (he had turned 58) — one-year drift, matching the index's estimated 1853. Not an identity problem: name, place, bachelor status, farmer, parents Virginia/Virginia all align.
 - Parents' birthplaces Virginia/Virginia again — agreeing with 1900; the 1880 "Ky" for his father stands against both (see analysis C2 for the full weighing, including the 1920/1930 Kentucky entries).
 - Laura B. is **not** in this household. Where she was in 1910 is unresolved (see log.md, M-3/M-3b entries).

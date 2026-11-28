@@ -62,6 +62,14 @@ verdict: **fail** — on one blocking clause, plus five minors. The reviewer con
 - **Minor:** log search 2's coverage note still said "complete Adair surname index." **Fixed:** the note now states the result set exactly, with the correction itself recorded in the note.
 - **Minor:** source-1900's 1860 comparison lacked the external flag. **Fixed:** flagged as prior repo work outside Q-2's evidence set.
 
-## Cycle 5 — pending
+## Cycle 5 — 2026-11-28 — fresh-context Muse subagent (not the analyst)
 
-A fresh-context reviewer verifies the six cycle-4 items against the revised text and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.
+verdict: **fail** — all six cycle-4 items confirmed fixed in the places specified; the fail rests on the same defect class surviving in the source layer:
+
+- **Blocking:** prior-repo-work dates used unflagged in source notes — Russell's 28 Nov 1916 birth in source-1920's verification note; the 1911 marriage record cited by volume/page in source-1920's notes; the 27 Sep 1911 marriage date in source-1930's notes; George's 26 Feb 1852 birth in source-1910's notes. **Fixed:** the "(prior repo work … outside Q-2's evidence set)" flag added at all four points.
+- **Minor:** log search 2's Indexes line still said "full Adair Cook/Cooke surname index." **Fixed:** "the Adair Cook/Cooke surname-index result set."
+- **Minor:** proof ¶1 presented the age chain as a clean progression against the exact birth date. **Fixed:** ¶1 now notes the 1910 age is a year low against that date, and flags the exact day (26 Feb) as prior repo work (the 1900 sheet gives Feb 1852).
+
+## Cycle 6 — pending
+
+A fresh-context reviewer verifies the cycle-5 items and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.

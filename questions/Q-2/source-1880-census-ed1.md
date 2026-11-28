@@ -6,7 +6,7 @@ question: Q-2
 
 - **Type:** census
 - **Source class:** original (image of the original schedule)
-- **Image:** downloaded from FamilySearch, image 7 of 1,053, film 1254401 (NARA T9, Roll 401), Digital Folder 005160662 — https://www.familysearch.org/ark:/61903/3:1:33S7-9YBX-9FCX — held in the question inbox as `M-1_1_image.jpg` (the connector cannot push binary files, so the image is not committed; see pipeline.md).
+- **Image:** downloaded from FamilySearch, image 7 of 1,053, film 1254401 (NARA T9, Roll 401), Digital Folder 005160662 — https://www.familysearch.org/ark:/61903/3:1:33S7-9YBX-9FCX — committed to the repo as `sources/ky-adair/Adair_1880_Census_ED1_p2.jpg` (commit d0a54d5, via GitHub web upload — the connector's pushes are text-only; see pipeline.md). Local inbox copy: `M-1_1_image.jpg`.
 
 ## Citation
 

@@ -71,3 +71,15 @@ Append only. Every search — including searches that found nothing — is logge
 - Results: **23 Adair Cook persons** — Little Cake 14 (incl. Elijah W. b. 1851 & Nancy E. b. 1851, James R. b. 1876), East Columbia 5 (incl. George L. b. 1871), Gradyville 3, West Columbia 1 (George W. b. 1853 — the target). Cooke returned the identical set. **Negatives, now on filtered coverage:** no Thomas (already covered by entry 5's dedicated search), no adult John (only John S. Cook b. 1908, a child), no Laura Cook in Adair in 1910. Eliza correctly absent.
 - Leads: John B. Cook, b. 1859 KY, Magisterial District 4, Green Co. (adjacent), wife Lillie B. (ARK 1:1:M2DC-SSK) — parents' birthplaces unverified; lead only, not identified. Laura: nearest statewide matches are other men's wives in Henderson, Crittenden and Fulton counties — none fits Laura B.; she is not in Adair under Cook in 1910 (married name, removal, or death all possible; unresolved).
 - Note on entry 5's partial list: its birth years and a few names (e.g. Tandy b. 1872/1879, Dorinda b. 1858) do not match this filtered survey — that list was drawn from a relevance-ranked all-collections search and mixed in records from other years. This filtered entry supersedes it for the 1910 survey; the George W. Cook sheet itself (entry 5's download) is unaffected.
+
+## 2026-11-28 — M-4 (1920) retrieval pass
+
+### 7. FamilySearch — 1920 U.S. Census (collection 1488411), filtered survey + image pull (Muse's account)
+
+- Date: 2026-11-28
+- Repository: FamilySearch (online)
+- Indexes: 1920 census index, collection-filtered via the search UI (the URL form with `f.collectionId=1488411` worked; an ID of 2487484, tried first, is not this collection and returned 0)
+- Search terms: Cook / Cooke, residence Adair, 1920 collection (57 results, 14 Adair); John Cook dedicated search (6 results, none Adair)
+- Results: **Found** — George W. Cook household, West Columbia Precinct, ED 14, Sheet 4A, dwelling 78: George W. 67 (farmer, owns free, farm schedule 69), wife **Anna** 24 (the Emma/Enna Janes of the 1911 marriage; cannot read/write), son Russell 3 1/12. Image 327 of 1,212 downloaded (actual JPG); transcription verified by the lead → `source-1920-census-ed14.md`. Other Adair Cook persons in the filtered survey (index only, collateral, unassigned): Nancy (b. 1843, GA), William R. (1893), Tandy H. (1892), Levona F. (1916), Bridget (1898), Rose E. (1882), Silla M. (1899), Birtha F. (1913), James R. (1874), Melvin G. (1905), Willis (1916). **Negatives:** no John Cook in Adair in 1920 (dedicated search: only Hancock Co. and out-of-state hits); no Thomas Cook of any age in the survey — consistent with the 1918 Illinois death lead.
+- Leads: none new requiring follow-up within this question's scope.
+- Coverage note: survey complete on the filtered set (57 results, all inspected); the pass ended exactly at its 25-view cap after the Cooke check (identical result set, no Cooke-spelled person).

@@ -1,0 +1,39 @@
+name: Research question
+description: One specific, answerable genealogical question.
+title: "Q: "
+labels: ["research-question"]
+body:
+  - type: textarea
+    id: question
+    attributes:
+      label: Research question
+      description: Specific and answerable. Name the person, a date range, and a place.
+      placeholder: Who were the parents of John Cook, born about 1792 in Virginia, who died in Pittsylvania County in 1861?
+    validations:
+      required: true
+  - type: textarea
+    id: known
+    attributes:
+      label: What is already known
+      description: Facts with their sources, and existing person IDs (P-...).
+  - type: dropdown
+    id: era
+    attributes:
+      label: Era
+      options:
+        - modern (1900-now)
+        - early-modern (1500-1900)
+        - medieval (800-1500)
+        - ancient (before 800 / deep ancestry)
+    validations:
+      required: true
+  - type: input
+    id: jurisdictions
+    attributes:
+      label: Jurisdictions
+      description: County, parish, state, country as they were at the time.
+  - type: textarea
+    id: done
+    attributes:
+      label: Done when
+      description: What would answer this question? It may also end as "stalled — evidence exhausted".

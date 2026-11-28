@@ -5,3 +5,8 @@ __pycache__/
 .idea/
 *.tmp
 *.log
+# Raw retrievals (images and screenshots from licensed sites). Never commit these.
+inbox/
+
+# Local noise
+.DS_Store

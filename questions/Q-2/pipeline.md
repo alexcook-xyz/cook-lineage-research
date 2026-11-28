@@ -12,8 +12,8 @@ Branch: `q/2-adair-censuses-collaterals` (created 2026-11-28 from main at efda73
 | 1 plan | plan.md complete; Alex approved (H0) | pass — plan approved by Alex 2026-11-28, including hard-stop defaults recorded in plan.md |
 | 2 search | Every record group searched or blocked with logged entry | complete — all five census years (1880 M-1; 1900 M-2 + M-2b; 1910 M-3 + M-3b; 1920 M-4; 1930 M-5) searched and logged; 1890 destroyed (coverage gap, not a negative) |
 | 3 ingest | Zips ingested; transcriptions verified against full images | complete for text — all five transcriptions verified by the lead from the full images; 1880/1900 sheet images committed under `sources/ky-adair/`; 1910/1920/1930 image uploads pending (need the device browser's GitHub sign-in) |
-| 4 analysis | analysis.md with ## Conflicts (C1: John D. vs John M.) | pending |
-| 5 proof | proof.md with conclusion_confidence, or stalled + settling record | pending |
+| 4 analysis | analysis.md with ## Conflicts (C1: John D. vs John M.) | complete — analysis.md written; C1 resolved from the will image (M-6): **John D.**; C2 resolved for Virginia; C6 documents the defective repo will plates |
+| 5 proof | proof.md with conclusion_confidence, or stalled + settling record | complete — proof.md, conclusion_confidence: proven (scoped household-tracking conclusion; the White Co. Thomas identification expressly not claimed) |
 | 6 review | review.md verdict pass (required only if proven claimed) | pending |
 | 7 validate | Manual gate checklist (genealogy_repo_validate_muse), zero errors | pending — manual check, not a script run |
 | 8 knowledge | knowledge: | pending |

@@ -8,8 +8,8 @@ Searcher: Muse (user-run), ingested by Claude. Date: 2026-11-28. Reply is untrus
 - **Goal:** Read the 18 Apr 1768 George Cook to Alexander Guill deed at the cited DB 3:366-368.
 - **Search terms:** Catalog place Prince Edward, VA, Land and property; Item 4 images 182-183
 - **Coverage:** Printed pp. 365-368 read; the rest of Book 3 not read. Grantor index C section seen but page numbers not legible.
-- **Result:** nothing found (on the cited pages)
-- **Findings:** Pages 365-368 hold other deeds (Blankenship, Carter, Rutledge). The cited page hint is wrong or misattributed. See [[S-pe-db3-p365-368-no-cook-guill-deed-muse-m1]].
+- **Result:** nothing found (on the pages Muse opened). SUPERSEDED by group 13 (M-2): Muse had opened the wrong spread.
+- **Findings:** The pages M-1 opened (reported as pp. 365-368) held other deeds (Blankenship, Carter, Rutledge) because of an image-to-page mapping error. The real pp. 366-368 hold the Cook to Guill deed (see group 13). See [[S-pe-db3-p366-368-cook-to-guill-1768]].
 - **Index or original:** Original (microfilm image), read by Muse; unverified.
 - **Leads (not evidence):** Book 3 grantor index shows Cooke/Cook entries (Item 4 image 4), pages unread.
 - **Next:** Read Item 4 image 4 at higher zoom to get the Cook page numbers, then the deed.

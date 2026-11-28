@@ -11,7 +11,7 @@ Identify primary records that place George Cook (Jr. and/or Sr.) and Electious M
 ## Known facts
 | Fact | Source | Confidence |
 |---|---|---|
-| George Cook of Prince Edward sells 150 ac on Harris's Creek to Alexander Guill, 18 Apr 1768 | Prince Edward DB 3:366–368 (cited in bridge sweep) | Page hint disproved by M-1: those pages hold other deeds. Deed attested at OB 4:102 |
+| George Cook of Prince Edward sells 150 ac on Harris's Creek to Alexander Guill, 18 Apr 1768 | Prince Edward DB 3:366–368 | Verified from the image (M-2): deed is at DB 3:366-368; also acknowledged at OB 4:102 |
 | George Cook sells Prince Edward land, 6 Apr / 16 Sep 1771 | DB 5:67–68 (per issue #15) | Unverified in repo; image not yet archived |
 | Electious Musick Sr. sells 97 ac on Sandy Creek to George Cooke Jr., 2 Mar 1780 | Pittsylvania DB 6:34–35; `sources/va-pittsylvania/PITT_DB6_p34-35_Musick_to_CookeJr_1780.jpg` | Proven (image in repo; confirm transcript against image) |
 | George Cook Jr. and Ruth sell ~100 ac on Sandy Creek to George Cook Sr., 9 Aug 1783 (proved 19 Aug 1783) | Pittsylvania DB 7:106–107; `sources/va-pittsylvania/PITT_DB7_p106-107_CookJr_to_CookSr_1783.jpg` | Proven (image in repo); no relationship stated |

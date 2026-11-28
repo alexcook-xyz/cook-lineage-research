@@ -70,6 +70,14 @@ verdict: **fail** — all six cycle-4 items confirmed fixed in the places specif
 - **Minor:** log search 2's Indexes line still said "full Adair Cook/Cooke surname index." **Fixed:** "the Adair Cook/Cooke surname-index result set."
 - **Minor:** proof ¶1 presented the age chain as a clean progression against the exact birth date. **Fixed:** ¶1 now notes the 1910 age is a year low against that date, and flags the exact day (26 Feb) as prior repo work (the 1900 sheet gives Feb 1852).
 
-## Cycle 6 — pending
+## Cycle 6 — 2026-11-28 — fresh-context Muse subagent (not the analyst)
 
-A fresh-context reviewer verifies the cycle-5 items and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.
+verdict: **fail** — all six cycle-5 items confirmed fixed and the rest of the scan clean; the fail rests on the same flagging defect at two more points, plus one minor:
+
+- **Blocking:** George's death date (16 Jul 1935) used unflagged in source-1930's notes. **Fixed:** flagged as prior repo work (gen-05 file).
+- **Blocking:** the Emma/Enna = Anna identification used unflagged in log search 7's results. **Fixed:** flagged as a gen-05 identification in the log entry.
+- **Minor:** Eliza's death year (1905) used unflagged in the analysis tracking table, Finding 1, and source-1910's notes. **Fixed:** the tracking-table entry now carries the flag and states what Q-2's set itself establishes (living June 1900; dead by the 1 Jan 1906 probate); source-1910's note carries the same flag.
+
+## Cycle 7 — pending
+
+A fresh-context reviewer verifies the cycle-6 items and gives the file set a final scan. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.

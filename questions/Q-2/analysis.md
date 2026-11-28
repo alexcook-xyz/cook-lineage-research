@@ -14,7 +14,7 @@ Evidence: five verified census transcriptions (`source-1880-census-ed1.md`, `sou
 |---|---|---|---|---|
 | 1880 (ED 1, p. 2, Columbia) | 28, son, single, farming — in his mother Eliza's household (dwelling 11) | not in Adair | not in Adair | sisters Liddie 17, Laura 13, Mattie 9 |
 | 1900 (ED 8, Sh. 4A, West Columbia, MD 7) | 48, son, single, farmer — in Eliza's household (dwelling 3) | not in Adair | not in Adair | sister Laura B. 29 |
-| 1910 (ED 14, Sh. 7A, West Columbia Pct 2, MD 7) | 57, **head, alone**, single, farmer, owns free, farm schedule 49 (dwelling 74) | not in Adair | not in Adair | — (Eliza d. 1905) |
+| 1910 (ED 14, Sh. 7A, West Columbia Pct 2, MD 7) | 57, **head, alone**, single, farmer, owns free, farm schedule 49 (dwelling 74) | not in Adair | not in Adair | — (Eliza d. 1905 — prior repo work, gen-05 file; Q-2's set establishes only that she was living in June 1900 and dead by the will's probate, 1 Jan 1906) |
 | 1920 (ED 14, Sh. 4A, West Columbia) | 67, head, married, farmer, owns free, farm schedule 69 (dwelling 78, Greensburg Road) | not in Adair | not in Adair | wife Anna 24; son Russell 3 1/12 |
 | 1930 (ED 1-14, Sh. 12B, part of MD 7) | 78, head, farmer (truck farm), owns, age at first marriage 60 (dwelling 276) | not in Adair | not in Adair | wife Anna 35; sons Russell 13 and **James 9** |
 

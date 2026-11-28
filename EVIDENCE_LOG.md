@@ -77,3 +77,31 @@ This inventory details all primary and archival documents gathered, audited, and
 | `evidence/va-colonial-lva/PE_Vestry_img66_JohnCook_Processioning.jpg` | St. Patrick's Parish Vestry Book (*Film 33857 / DGS 7895965*, img 66) | 1760/61 | Processioning return naming **John Cook** (`Ligon & Crafford` precinct) |
 | `evidence/va-colonial-lva/PE_PPTax_1789_John_William_Cook.jpg` | Prince Edward Personal Property Tax, John Morton Dist. | 17 Jun 1789 | John Cook & William Cook (2 white males, 5 enslaved, 4 horses) |
 | `evidence/va-colonial-lva/PE_PPTax_1787_Alexander_Guill.jpg` | Prince Edward Personal Property Tax | c. 1787–1789 | Alexander Guill Sr., Alexander Guill Jr., Reubin Guill |
+
+## 6. Muse Checkpoint v4: Primary Evidence Records (Extracted 2026-11-27)
+
+Archived at evidence/muse-checkpoints/v4/ from Prince_Edward_George_Cook_Records_2026-11-27_v4.zip:
+
+| File Name | Date | Jurisdictional Source | Citation & Content Description |
+|---|---|---|---|
+| PE_DB5_p67-68_Cook_to_Wilkerson_1771.jpg | 6 Apr 1771 | Prince Edward Co. Deed Book 5:67–68 | Conveyance of remaining 250 ac of 1750 patent to Lovel Wilkerson (£30). Wit: Henry Walker, Ben Johns, Wm Anderson, Ab Venable. |
+| PE_OB4_p109-110_Sarah_Dower_Release_1768.jpg | 20 May 1768 | Prince Edward Co. Order Book 4:109–110 | Sarah, wife of George Cooke, privily examined and released dower in Guill conveyance. |
+| OR_OB5_p251_Cook_Importation_1750.jpg | 25 May 1750 | Orange Co. Order Book 5:251 | George Cook oath: imported himself immediately from Great Britain; assigned 50-ac right to Tully Choice. |
+| SP_OB_img102_DeedsToGeorgeCook_1742.jpg | 4 May 1742 | Spotsylvania Co. Order Book 1738–1749:166–167 | Deeds to George Cook from Stubblefield and Sartin acknowledged. |
+| SP_OB_img137_CookAndSarah_to_Lewis_1743.jpg | 6–7 Sep 1743 | Spotsylvania Co. Order Book 1738–1749:236–237 | George Cook and Sarah his wife acknowledged deed to Henry Lewis. |
+| SP_OB_img269_RunawayClaim_1748.jpg | 7 June 1748 | Spotsylvania Co. Order Book 1738–1749:466–467 | George Cook certified claim for taking up runaway slave belonging to George Morton. Adjacent to Charles Gordon & Elexius Musick entry. |
+| CA_OB_p337_Roberts_v_Musick_Attachment_1736.jpg | 12 Mar 1736 | Caroline Co. Order Book 1732–1740:337 | Joseph Roberts attachment against Ambrose Musick estate; Mary Collawn summoned. |
+| CA_OB_p376_Roberts_v_Musick_Judgment_1736.jpg | 8 Oct 1736 | Caroline Co. Order Book 1732–1740:376 | Judgment for Roberts vs Ambrose Musick; 378 lbs tobacco attached in hands of Catharine Lahone. |
+| CA_OB_p260_Bell_v_WilliamCook.jpg | c. 1743 | Caroline Co. Order Book 1741–1746:260 | Humphrey Bell of London v. William Cook in Trespass on the Case. |
+| PE_Vestry_img73_GeorgeCook_Processioning_1760.jpg | 4 June 1760 | St. Patrick's Parish Vestry Book:62 | George Cook precinct processioning failure to attend; listed with Edward Grisham, Lockett, Robert Donald. |
+| PE_Vestry_img66_JohnCook_Processioning.jpg | 1759/1760 | St. Patrick's Parish Vestry Book | John Cook processioning attendance with Green, Stone, Harriss. |
+| PE_OB2_1760_Levy_Excused_GeorgeCook.jpg | Sep 1760 | Prince Edward Co. Order Book 2:96 | George Cook excused from paying County Levy. |
+| PE_OB2_1760_Tithables_GeorgeCook.jpg | 9 Sep 1760 | Prince Edward Co. Order Book 2:94 | George Cook added to list of tithables (one tithe). |
+| PE_OB2_p130-131_Buchanan_v_Cook_Dismissed_1762.jpg | Jan 1762 | Prince Edward Co. Order Book 2:130–131 | Buchanan/Bowman merchant debt suit vs George Cook dismissed. |
+| PE_OB2_p244-245_Speirs_v_Cook-Campbell_1763.jpg | July 1763 | Prince Edward Co. Order Book 2:244–245 | Alexander Speirs & Co. v. George Cook & William Campbell confession of judgment (£5.10.10). |
+| PE_OB4_p101-102_Guill_Deed_Acknowledged_1768.jpg | 18 Apr 1768 | Prince Edward Co. Order Book 4:102 | Guill deed (150 ac) acknowledged by George Cook. |
+| PE_DB3_p445-446_Guill_to_Buchanan_1769.jpg | 3 Oct 1769 | Prince Edward Co. Deed Book 3:445–446 | Guill mortgage to Buchanan; bounds state adjoining George Cooke. |
+| PE_DB2_Simmons_to_Spencer_1765_deed.jpg | 13 Feb 1765 | Prince Edward Co. Deed Book 2 | Simmons to Spencer deed. |
+| PE_DB2_Simmons_to_Spencer_1765_memo.jpg | 13 Feb 1765 | Prince Edward Co. Deed Book 2 | George Cook witness to livery-of-seisin memo with Joel Watkins and Elkanah Jennings. |
+| LVA_Patents29_p316_Cook_1750.jpg | 3 Nov 1750 | Virginia Land Office Patents 29:316 | 400-acre patent to George Cook on Harris's Creek (p. 316). |
+| LVA_Patents29_p317_Cook_1750.jpg | 3 Nov 1750 | Virginia Land Office Patents 29:317 | 400-acre patent to George Cook on Harris's Creek (p. 317 bounds). |

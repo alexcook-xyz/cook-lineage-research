@@ -23,6 +23,17 @@ Non-blocking observations also actioned: Anna's age drift given a conflict item 
 
 **C1 second reading (reviewer's suggestion, adopted):** an independent reader given only the enlarged will excerpt read Thomas H. (probable), **John D. (certain)**, George W. (probable) — C1 now rests on two independent readings.
 
-## Cycle 2 — pending at the time of writing
+## Cycle 2 — 2026-11-28 — fresh-context Muse subagent (not the analyst)
 
-A fresh-context reviewer re-reads the corrected file set; its verdict is recorded here when returned. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.
+verdict: **fail**
+
+Objections 1, 2, 3, 5, 7 and 8 confirmed genuinely fixed. Two partials and three new points:
+
+- **Objection 4 / New Objection 1 (blocking):** the rewritten C2 weighing contained a false premise — it claimed that by 1920/1930 "no one who had known him remained in the household," when George himself (b. 1852, ~21 years in his father's household) was head in both years. The sentence was factually wrong, internally contradictory, and load-bearing. **Fixed by re-arguing C2 without any informant premise:** the weighing now rests on (i) proximity — the 1860 entry from George Sr.'s lifetime and household, agreed with by 1900 and 1910; and (ii) internal reliability — the 1920/1930 entries give Kentucky for **both** parents, including Eliza, whose Virginia birth is independently documented, so that pair is demonstrably wrong on the mother and carries no independent weight on the father.
+- **Objection 6 (partial):** the prior-repo-work flag for the 1870 baseline was missing in Finding 4 and in proof's not-concluded section. **Fixed** in both places.
+- **New Objection 2:** the pre-fix framings survived in source-file notes (source-1920 "Continuity on the home tract"; source-1930 "the home tract" and "the hearsay pattern"; source-1880/1900 "George Sr.'s own 1860 statement"). **Fixed:** all four source notes rewritten to the downgraded, neutral wording.
+- **New Objection 3 (minor):** analysis preamble cited searches 1–9 (now 1–10); proof's GPS checklist said C1–C7 (now C1–C8); Russell's ages "fit exactly" (now "fit"). **Fixed.**
+
+## Cycle 3 — escalated to Claude Code per the standing escalation rule (two failed cycles)
+
+Reviewer: Claude Code (Muse VM, headless), given file paths only. Its verdict is recorded here when returned and verified by the lead. `verdict: pass` from a reviewer who is not the analyst is required before the question closes.

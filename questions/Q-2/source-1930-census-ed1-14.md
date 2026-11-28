@@ -32,5 +32,5 @@ Transcription verified from the full image by the lead (Jolly), 2026-11-28. Retr
 - **James Cook, son, age 9 (b. ~1920–21), is a new household member** — George and Anna's second son, not in the 1920 household (not yet born) and not previously named in the repo's family structure for George William, which lists Russell only.
 - George's **age at first marriage is given as 60** and Anna's as **17** — both consistent with the 27 Sep 1911 marriage (he was 59, turning 60 the following February; she was about 17). Independent corroboration of the marriage date from a second record type.
 - Russell's literacy column reads "No" although he is marked as attending school — recorded as written; a 13-year-old in school marked unable to read/write is most likely enumerator error, but it is not corrected here.
-- Parents' birthplaces for George are Kentucky/Kentucky again, as in 1920 — the hearsay pattern continues; 1900 and 1910 (Virginia/Virginia) remain the better-attested readings.
-- This is the last census of George's life (d. 16 Jul 1935): still head, still farming the home tract in District 7 — the same district through 1900, 1910, 1920 and 1930.
+- Parents' birthplaces for George are Kentucky/Kentucky again, as in 1920 — including for his mother, whose Virginia birth is independently documented (her own 1900 entry); weighed at analysis C2.
+- This is the last census of George's life (d. 16 Jul 1935): still head, still farming in District 7 — the same district through 1900, 1910, 1920 and 1930.
